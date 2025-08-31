@@ -5,10 +5,10 @@ import json
 from tqdm import tqdm
 
 # === 目录配置 ===
-BASE_DIR = "/mnt/maldetect_NAS/MCP/all-dataset-2507"
-OUTPUT_FILE = "mcp_tools_detailed.csv"
-SUMMARY_FILE = "mcp_server_summary.csv"
-TOOLS_JSON_FILE = "python_tools.json"
+BASE_DIR = ""
+OUTPUT_FILE = ""
+SUMMARY_FILE = ""
+TOOLS_JSON_FILE = ""
 
 # === 判断是否为 @mcp.tool 装饰器 ===
 def is_mcp_tool_decorator(decorator):
