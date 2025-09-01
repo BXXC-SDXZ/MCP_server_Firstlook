@@ -1,0 +1,1785 @@
+{
+    "https://github.com/JigsawStack/jigsawstack-mcp-server/tree/main": {
+        "names": [
+            "JigsawStack Translation",
+            "JigsawStack vOCR",
+            "JigsawStack AI Web Search",
+            "JigsawStack Image Generation",
+            "JigsawStack AI Web Scraper",
+            "JigsawStack Embedding",
+            "JigsawStack Text To Speech",
+            "JigsawStack Object Detection",
+            "JigsawStack Speech To Text",
+            "JigsawStack NSFW Detection"
+        ],
+        "links": [
+            "https://smithery.ai/server/@JigsawStack/translation",
+            "https://smithery.ai/server/@JigsawStack/vocr",
+            "https://smithery.ai/server/@JigsawStack/ai-web-search",
+            "https://smithery.ai/server/@JigsawStack/image-generation",
+            "https://smithery.ai/server/@JigsawStack/ai-web-scraper",
+            "https://smithery.ai/server/@JigsawStack/jigsawstack-embeddings",
+            "https://smithery.ai/server/@JigsawStack/jigsawstack-text-to-speech",
+            "https://smithery.ai/server/@JigsawStack/jigsawstack-object-detection",
+            "https://smithery.ai/server/@JigsawStack/jigsawstack-speech-to-text",
+            "https://smithery.ai/server/@JigsawStack/jigsawstack-nsfw"
+        ],
+        "descriptions": [
+            "With our real time AI Translation, you can translate any text, & images conversation, or document to any language while maintaining the context, tone, and meaning with AI enabling high accuracy and reliability.\n\nWe support 180+ language pairs! Check out the list of languages we support here: https://jigsawstack.com/docs/additional-resources/languages\n\nYou can get your jigsawstack key here: https://jigsawstack.com/dashboard/",
+            "OCR + AI = Magic: \nExtract data from any image in a consistent structure with fine-tuned vLLMs for the highest accuracy. Learn more about AI backed OCR here: https://jigsawstack.com/docs/api-reference/ai/vocr Get your jigsawstack API key here: https://jigsawstack.com/dashboard/",
+            "Effortlessly search the Web and get access to high-quality results powered with AI. Learn more about this API here: https://jigsawstack.com/docs/api-reference/web/ai-search Get your jigsawstack API key here: https://jigsawstack.com/dashboard/",
+            "Generate images from text using advanced AI models. Learn more about jigsawstack's image generation API here: https://jigsawstack.com/docs/api-reference/ai/image-generation\n\nYou can get your jigsawstack API key here: https://jigsawstack.com/dashboard/",
+            "Scrape any website instantly and get consistent structured data in seconds without writing any css selector code, check out API documentation here: https://jigsawstack.com/docs/api-reference/ai/scrape Get your API key here: https://jigsawstack.com/dashboard/",
+            "This MCP server exposes a tool for generating vector embeddings using JigsawStack's AI models.",
+            "Convert Speech to Text using JigsawStack AI Models.",
+            "Detect Objects using JigsawStack's AI Models.",
+            "Convert Speech to Text using JigsawStack's AI Models.",
+            "Detect NSFW images using JigsawStack's AI Models."
+        ],
+        "avg_score": 0.8888787627220154,
+        "matrix": [
+            [
+                1.0,
+                0.8900420069694519,
+                0.8945779204368591,
+                0.9056864976882935,
+                0.8816609978675842,
+                0.8310844302177429,
+                0.8347686529159546,
+                0.8350172638893127,
+                0.8405859470367432,
+                0.8317995071411133
+            ],
+            [
+                0.8900420069694519,
+                1.0,
+                0.9207905530929565,
+                0.9234939813613892,
+                0.9067248702049255,
+                0.8367838263511658,
+                0.8342236876487732,
+                0.8380101323127747,
+                0.8381673097610474,
+                0.8315061926841736
+            ],
+            [
+                0.8945779204368591,
+                0.9207905530929565,
+                1.0,
+                0.9387331604957581,
+                0.9246509075164795,
+                0.8408732414245605,
+                0.8361963629722595,
+                0.8399333357810974,
+                0.8416963219642639,
+                0.8328889608383179
+            ],
+            [
+                0.9056864976882935,
+                0.9234939813613892,
+                0.9387331604957581,
+                1.0,
+                0.9167202115058899,
+                0.8564015626907349,
+                0.8589187264442444,
+                0.8645886182785034,
+                0.8664728999137878,
+                0.8578067421913147
+            ],
+            [
+                0.8816609978675842,
+                0.9067248702049255,
+                0.9246509075164795,
+                0.9167202115058899,
+                1.0,
+                0.8337002396583557,
+                0.8293508291244507,
+                0.8343647718429565,
+                0.8343103528022766,
+                0.825320839881897
+            ],
+            [
+                0.8310844302177429,
+                0.8367838263511658,
+                0.8408732414245605,
+                0.8564015626907349,
+                0.8337002396583557,
+                1.0,
+                0.9036309123039246,
+                0.9225115776062012,
+                0.910898745059967,
+                0.9072427749633789
+            ],
+            [
+                0.8347686529159546,
+                0.8342236876487732,
+                0.8361963629722595,
+                0.8589187264442444,
+                0.8293508291244507,
+                0.9036309123039246,
+                1.0,
+                0.9422767162322998,
+                0.9891813397407532,
+                0.9207184910774231
+            ],
+            [
+                0.8350172638893127,
+                0.8380101323127747,
+                0.8399333357810974,
+                0.8645886182785034,
+                0.8343647718429565,
+                0.9225115776062012,
+                0.9422767162322998,
+                1.0,
+                0.9557173848152161,
+                0.9505349397659302
+            ],
+            [
+                0.8405859470367432,
+                0.8381673097610474,
+                0.8416963219642639,
+                0.8664728999137878,
+                0.8343103528022766,
+                0.910898745059967,
+                0.9891813397407532,
+                0.9557173848152161,
+                1.0,
+                0.9333733916282654
+            ],
+            [
+                0.8317995071411133,
+                0.8315061926841736,
+                0.8328889608383179,
+                0.8578067421913147,
+                0.825320839881897,
+                0.9072427749633789,
+                0.9207184910774231,
+                0.9505349397659302,
+                0.9333733916282654,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/waldzellai/model-enhancement-servers/tree/main": {
+        "names": [
+            "Collaborative Reasoning Server",
+            "Scientific Method Server",
+            "Visual Reasoning Server",
+            "Structured Argumentation Server",
+            "Decision Framework Server",
+            "Metacognitive Monitoring Server",
+            "Analogical Reasoning Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@waldzellai/collaborative-reasoning",
+            "https://smithery.ai/server/@waldzellai/scientific-method",
+            "https://smithery.ai/server/@waldzellai/visual-reasoning",
+            "https://smithery.ai/server/@waldzellai/structured-argumentation",
+            "https://smithery.ai/server/@waldzellai/decision-framework",
+            "https://smithery.ai/server/@waldzellai/metacognitive-monitoring",
+            "https://smithery.ai/server/@waldzellai/analogical-reasoning"
+        ],
+        "descriptions": [
+            "Enable structured multi-persona collaboration to solve complex problems by simulating diverse expert perspectives. Facilitate systematic ideation, critique, integration, and decision-making processes with explicit disagreement management and visual representation. Enhance model reasoning capabilities for more thorough exploration and robust recommendations.",
+            "Guide language models through rigorous scientific reasoning by structuring the inquiry process from observation to conclusion. Enable systematic hypothesis testing, experimental design, and evidence evaluation to improve model transparency and accuracy. Facilitate iterative refinement of scientific understanding for enhanced causal analysis and problem-solving.",
+            "Enable language models to perform complex visual and spatial reasoning by creating, manipulating, and iterating on diagrammatic representations such as graphs, flowcharts, and concept maps. Enhance problem-solving capabilities by integrating visual thinking with verbal insights, supporting multi-modal outputs including ASCII art and SVG. Facilitate iterative refinement and pattern recognition through a flexible visual element manipulation system.",
+            "Facilitate rigorous and balanced reasoning by enabling models to systematically develop, critique, and synthesize arguments using a formal dialectical framework. Enhance complex reasoning tasks by externalizing argumentation processes, tracking relationships, and visually representing argument structures. Improve model capabilities in ethical dilemmas, policy evaluation, and scientific hypothesis analysis through structured argumentation.",
+            "Provide structured decision support by externalizing complex decision-making processes. Enable models to systematically analyze options, criteria, probabilities, and uncertainties for transparent and personalized recommendations. Enhance decision quality across personal, business, risk management, and policy domains.",
+            "Provide a structured framework for language models to evaluate and monitor their own cognitive processes, improving accuracy, reliability, and transparency in reasoning. Track knowledge boundaries, classify claims, monitor reasoning quality, and manage uncertainty effectively. Visualize metacognitive states to support technical advising, scientific analysis, decision support, and educational content.",
+            "Enable models to perform structured analogical thinking by explicitly mapping and evaluating relationships between source and target domains. Enhance problem-solving, explanation, and creative ideation through systematic analogy construction, inference generation, and evaluation. Visualize analogical mappings to improve understanding and transfer of knowledge across domains."
+        ],
+        "avg_score": 0.8915863645320036,
+        "matrix": [
+            [
+                1.0,
+                0.8725366592407227,
+                0.8737631440162659,
+                0.8851780295372009,
+                0.8865419030189514,
+                0.8683748245239258,
+                0.8805304169654846
+            ],
+            [
+                0.8725366592407227,
+                1.0,
+                0.874281644821167,
+                0.8735095858573914,
+                0.86976158618927,
+                0.8709275126457214,
+                0.8785766959190369
+            ],
+            [
+                0.8737631440162659,
+                0.874281644821167,
+                1.0,
+                0.8716186881065369,
+                0.8559412360191345,
+                0.855735719203949,
+                0.8728895783424377
+            ],
+            [
+                0.8851780295372009,
+                0.8735095858573914,
+                0.8716186881065369,
+                1.0,
+                0.8803226351737976,
+                0.8747889995574951,
+                0.8763197064399719
+            ],
+            [
+                0.8865419030189514,
+                0.86976158618927,
+                0.8559412360191345,
+                0.8803226351737976,
+                1.0,
+                0.8765518069267273,
+                0.8715370297431946
+            ],
+            [
+                0.8683748245239258,
+                0.8709275126457214,
+                0.855735719203949,
+                0.8747889995574951,
+                0.8765518069267273,
+                1.0,
+                0.8741785287857056
+            ],
+            [
+                0.8805304169654846,
+                0.8785766959190369,
+                0.8728895783424377,
+                0.8763197064399719,
+                0.8715370297431946,
+                0.8741785287857056,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/smithery-ai/mcp-servers/tree/main": {
+        "names": [
+            "United States Weather",
+            "Github",
+            "Google Maps",
+            "Notion"
+        ],
+        "links": [
+            "https://smithery.ai/server/@smithery-ai/national-weather-service",
+            "https://smithery.ai/server/@smithery-ai/github",
+            "https://smithery.ai/server/@smithery-ai/google-maps",
+            "https://smithery.ai/server/@smithery/notion"
+        ],
+        "descriptions": [
+            "Provide real-time and forecast weather information for locations in the United States using natural language queries. Access current conditions, multi-day and hourly forecasts, weather alerts, and nearby weather stations without requiring an API key. Enable users to get official, government-sourced weather data easily through intuitive tools.",
+            "Access the GitHub API, enabling file operations, repository management, search functionality, and more.",
+            "Provides location-based services and mapping functionality through the Google Maps Platform APIs",
+            "A Notion workspace is a collaborative environment where teams can organize work, manage projects, and store information in a highly customizable way."
+        ],
+        "avg_score": 0.892208494246006,
+        "matrix": [
+            [
+                1.0,
+                0.8506632447242737,
+                0.8482577800750732,
+                0.8437937498092651
+            ],
+            [
+                0.8506632447242737,
+                1.0,
+                0.8745824098587036,
+                0.8752567172050476
+            ],
+            [
+                0.8482577800750732,
+                0.8745824098587036,
+                1.0,
+                0.8451140522956848
+            ],
+            [
+                0.8437937498092651,
+                0.8752567172050476,
+                0.8451140522956848,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/AITutor3/weather-mcp/tree/main": {
+        "names": [
+            "Weather Information Server",
+            "Weather Information Server",
+            "Weather Information Server",
+            "Weather Information Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@AITutor3/weather-mcp11",
+            "https://smithery.ai/server/@AITutor3/weather-mcp",
+            "https://smithery.ai/server/@AITutor3/weather-mcp2",
+            "https://smithery.ai/server/@AITutor3/weather-mcp3"
+        ],
+        "descriptions": [
+            "Provide real-time weather data and forecasts through a standardized interface. Enable applications to query current weather conditions and related information efficiently. Simplify integration of weather data into your workflows and tools.",
+            "Provide real-time weather data and forecasts through a standardized interface. Enable applications to query current weather conditions and related information seamlessly. Enhance your projects with reliable and up-to-date meteorological data.",
+            "Provide real-time weather data and forecasts through a standardized interface. Enable applications to query current weather conditions and related information seamlessly. Enhance user experiences by integrating accurate and up-to-date meteorological data.",
+            "Provide real-time weather data and forecasts through a standardized MCP interface. Enable seamless integration of weather context into LLM applications for enhanced situational awareness. Access current conditions and forecasts easily via MCP tools and resources."
+        ],
+        "avg_score": 0.9605376273393631,
+        "matrix": [
+            [
+                1.0,
+                0.9642215967178345,
+                0.9630893468856812,
+                0.9267905950546265
+            ],
+            [
+                0.9642215967178345,
+                1.0,
+                0.9823142886161804,
+                0.9226920008659363
+            ],
+            [
+                0.9630893468856812,
+                0.9823142886161804,
+                1.0,
+                0.925193190574646
+            ],
+            [
+                0.9267905950546265,
+                0.9226920008659363,
+                0.925193190574646,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/smithery-ai/reference-servers/tree/main": {
+        "names": [
+            "Brave Search",
+            "PostgreSQL MCP Server",
+            "GitLab",
+            "Everart"
+        ],
+        "links": [
+            "https://smithery.ai/server/@smithery-ai/brave-search",
+            "https://smithery.ai/server/@smithery-ai/postgres",
+            "https://smithery.ai/server/@smithery-ai/gitlab",
+            "https://smithery.ai/server/@smithery-ai/everart"
+        ],
+        "descriptions": [
+            "Integrate web search and local search capabilities with Brave.",
+            "A Model Context Protocol server that provides read-only access to PostgreSQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+            "Enable project management and file operations with GitLab.",
+            "Image generation server utilizing EverArt's API with multiple model options for generating images."
+        ],
+        "avg_score": 0.8947288915514946,
+        "matrix": [
+            [
+                1.0,
+                0.838183581829071,
+                0.8891754150390625,
+                0.8506910800933838
+            ],
+            [
+                0.838183581829071,
+                1.0,
+                0.8515664339065552,
+                0.8629280924797058
+            ],
+            [
+                0.8891754150390625,
+                0.8515664339065552,
+                1.0,
+                0.8652865290641785
+            ],
+            [
+                0.8506910800933838,
+                0.8629280924797058,
+                0.8652865290641785,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/ayasahmad/mcp-atlassian/tree/main": {
+        "names": [
+            "Atlassian Integration Server",
+            "Atlassian Integration Server",
+            "Atlassian Integration Server",
+            "Atlassian Integration Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@ayasahmad/mcp-atlassian3",
+            "https://smithery.ai/server/@ayasahmad/mcp-atlassian",
+            "https://smithery.ai/server/@ayasahmad/mcp-atlassian12",
+            "https://smithery.ai/server/@ayasahmad/mcp-atlassian1"
+        ],
+        "descriptions": [
+            "Enable AI assistants to interact seamlessly with Atlassian products like Jira and Confluence. Automate tasks such as issue updates, content search, and document creation to enhance productivity. Support both Cloud and Server/Data Center deployments with flexible authentication methods.",
+            "Enable AI assistants to interact seamlessly with Atlassian products like Jira and Confluence. Automate tasks such as issue updates, content search, and document creation to enhance productivity. Supports both Cloud and Server/Data Center deployments with flexible authentication methods.",
+            "Enable AI assistants to interact seamlessly with Atlassian products like Jira and Confluence. Automate tasks such as issue updates, content search, and document creation to enhance productivity. Support both Cloud and Server/Data Center deployments with flexible authentication methods.",
+            "Enable AI assistants to interact seamlessly with Atlassian products like Jira and Confluence. Automate tasks such as issue updates, content search, and document creation to enhance productivity. Supports both Cloud and Server/Data Center deployments with flexible authentication methods."
+        ],
+        "avg_score": 0.998811848461628,
+        "matrix": [
+            [
+                1.0,
+                0.9976237416267395,
+                0.9999999403953552,
+                0.9976237416267395
+            ],
+            [
+                0.9976237416267395,
+                1.0,
+                0.9976237416267395,
+                0.9999998807907104
+            ],
+            [
+                0.9999999403953552,
+                0.9976237416267395,
+                1.0,
+                0.9976237416267395
+            ],
+            [
+                0.9976237416267395,
+                0.9999998807907104,
+                0.9976237416267395,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/zehranurugurr/film_mcp/tree/main": {
+        "names": [
+            "Film Information Server",
+            "Film Information Server",
+            "Film Information Server",
+            "Film Information Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@zehranurugurr/film_mcp1",
+            "https://smithery.ai/server/@zehranurugurr/film_mcp_v2",
+            "https://smithery.ai/server/@zehranurugurr/film_mcp2",
+            "https://smithery.ai/server/@zehranurugurr/film_mcp"
+        ],
+        "descriptions": [
+            "Provide detailed film-related data and metadata to enhance your applications with rich movie context. Enable dynamic access to film resources and tools for querying movie information efficiently. Improve user experience by integrating comprehensive film data seamlessly.",
+            "Provide detailed film-related data and metadata to enhance your applications with rich movie context. Enable dynamic access to film resources and tools for querying movie information efficiently. Improve user experience by integrating comprehensive film data seamlessly.",
+            "Provide detailed film-related data and metadata to enhance your applications with rich movie context. Enable dynamic access to film resources and tools for querying movie information efficiently. Improve user experience by integrating comprehensive film data seamlessly.",
+            "Provide detailed film-related data and metadata to enhance your applications with rich movie context. Enable dynamic access to film resources and tools for querying movie information efficiently. Improve user experience by integrating comprehensive film data seamlessly."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/ayasahmad/Jira-Context-MCP/tree/main": {
+        "names": [
+            "Jira Context Server",
+            "Jira Context Server",
+            "Jira Context Server",
+            "Jira Context Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@ayasahmad/jira-context-mcp5",
+            "https://smithery.ai/server/@ayasahmad/jira-context-mcp",
+            "https://smithery.ai/server/@ayasahmad/jira-context-mcp2",
+            "https://smithery.ai/server/@ayasahmad/jira-context-mcp1"
+        ],
+        "descriptions": [
+            "Enable seamless integration with Jira to fetch issue details, list assigned tickets, filter issues by type, and track recent changes directly within your IDE. Automate Jira workflows and enhance productivity by connecting your development environment to Jira's API. Streamline issue management and resolution with easy access to Jira data and tools.",
+            "Enable seamless integration with Jira to fetch issue details, list assigned tickets, filter issues by type, and track recent changes directly within your IDE. Automate Jira workflows and enhance productivity by connecting your development environment with Jira's API. Streamline issue management and resolution with easy access to Jira data and tools.",
+            "Enable seamless integration with Jira to fetch issue details, list assigned tickets, filter issues by type, and track recent changes directly within your IDE. Automate Jira workflows and enhance productivity by connecting your development environment to Jira's API. Streamline issue management and resolution with easy access to Jira data and tools.",
+            "Enable seamless integration with Jira to fetch issue details, list assigned tickets, filter issues by type, and track recent changes directly within your IDE. Automate Jira workflows and enhance productivity by connecting your development environment to Jira's API. Streamline issue management and resolution with easy access to Jira data and tools."
+        ],
+        "avg_score": 0.9997736886143684,
+        "matrix": [
+            [
+                1.0,
+                0.999396562576294,
+                0.9999999403953552,
+                0.9999999403953552
+            ],
+            [
+                0.999396562576294,
+                1.0,
+                0.999396562576294,
+                0.999396562576294
+            ],
+            [
+                0.9999999403953552,
+                0.999396562576294,
+                1.0,
+                0.9999999403953552
+            ],
+            [
+                0.9999999403953552,
+                0.999396562576294,
+                0.9999999403953552,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/iremaltunay55/WeatherApi/tree/main": {
+        "names": [
+            "Weather API Server",
+            "Weather API Server",
+            "Weather API Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@iremaltunay55/weatherapi0",
+            "https://smithery.ai/server/@iremaltunay55/weatherapi",
+            "https://smithery.ai/server/@iremaltunay55/weatherapi1"
+        ],
+        "descriptions": [
+            "Provide real-time weather data and forecasts through a simple API interface. Enable applications to retrieve accurate and up-to-date weather information effortlessly. Enhance user experience by integrating reliable weather insights into your services.",
+            "Provide real-time weather data and forecasts through a simple API interface. Enable applications to retrieve accurate and up-to-date weather information effortlessly. Enhance user experience by integrating reliable weather insights into your services.",
+            "Provide real-time weather data and forecasts through a simple API interface. Enable applications to retrieve accurate and up-to-date weather information effortlessly. Enhance user experience by integrating reliable weather insights into your services."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/yurthankiyak/Weather-Forecast-MCP/tree/main": {
+        "names": [
+            "Weather Forecast Service",
+            "Weather Forecast Service",
+            "Weather Forecast Service"
+        ],
+        "links": [
+            "https://smithery.ai/server/@yurthankiyak/weather-forecast55",
+            "https://smithery.ai/server/@yurthankiyak/weather-forecast-mcp55",
+            "https://smithery.ai/server/@yurthankiyak/weather-forecast-mcp"
+        ],
+        "descriptions": [
+            "Provide accurate and up-to-date weather forecasts to enhance your applications with real-time meteorological data. Enable seamless integration of weather information through a standardized protocol for improved decision-making and user experience. Simplify access to weather data with easy-to-use tools and resources.",
+            "Provide accurate and up-to-date weather forecasts to enhance your applications with real-time meteorological data. Enable seamless integration of weather information through a standardized protocol for improved decision-making and user experience. Simplify access to weather data with easy-to-use tools and resources.",
+            "Provide accurate and up-to-date weather forecasts to enhance your applications with real-time meteorological data. Enable seamless integration of weather information through a standardized protocol for improved decision-making and user experience. Access detailed forecasts effortlessly to keep your users informed about weather conditions."
+        ],
+        "avg_score": 0.9835766156514486,
+        "matrix": [
+            [
+                1.0,
+                1.0,
+                0.9630473852157593
+            ],
+            [
+                1.0,
+                1.0,
+                0.9630473852157593
+            ],
+            [
+                0.9630473852157593,
+                0.9630473852157593,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/iremaltunay55/deneme/tree/main": {
+        "names": [
+            "Weather Forecast Server with AI Assistant",
+            "Deneme MCP Server",
+            "Weather Forecast Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@iremaltunay55/denemem",
+            "https://smithery.ai/server/@iremaltunay55/deneme",
+            "https://smithery.ai/server/@iremaltunay55/deneme1"
+        ],
+        "descriptions": [
+            "Provide detailed and user-friendly weather information based on coordinates or city names. Interact naturally with an AI assistant that understands various input formats and offers personalized advice. Enhance your applications with real-time weather data and smart conversational capabilities.",
+            "Provide a Python-based MCP server that exposes tools, resources, and prompts for LLM integration. Enable dynamic interaction with external data and actions through a standardized JSON-RPC interface. Facilitate seamless extension of LLM capabilities with custom functionalities.",
+            "Provide detailed weather information based on coordinates or city names using OpenWeatherMap data. Retrieve temperature, wind, humidity, cloudiness, sunrise/sunset times, and precipitation details with Turkish descriptions. Enable easy integration for weather forecasting in your applications."
+        ],
+        "avg_score": 0.90622788005405,
+        "matrix": [
+            [
+                1.0,
+                0.8550533056259155,
+                0.8814674019813538
+            ],
+            [
+                0.8550533056259155,
+                1.0,
+                0.8415047526359558
+            ],
+            [
+                0.8814674019813538,
+                0.8415047526359558,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/zm1990s/panw/tree/main": {
+        "names": [
+            "SerpApi Search Server",
+            "PANW AIRS MCP Server",
+            "PANW AI Security Server Beta"
+        ],
+        "links": [
+            "https://smithery.ai/server/@zm1990s/serpapi",
+            "https://smithery.ai/server/@zm1990s/panw",
+            "https://smithery.ai/server/@zm1990s/panw-beta"
+        ],
+        "descriptions": [
+            "Perform fast, parsed search engine queries across multiple platforms including Google, Bing, and YouTube. Retrieve live and archived search results seamlessly integrated with your MCP client. Enhance your applications with easy access to search data and location resources.",
+            "Provide a server implementation that integrates with the Model Context Protocol to expose tools, resources, and prompts for enhanced LLM interactions. Enable dynamic access to external data and actions through a standardized interface. Facilitate seamless communication between LLM clients and backend services for improved context-aware AI applications.",
+            "Provide AI-powered security insights and context integration for your applications. Enhance your security workflows by leveraging dynamic data and tools through a standardized protocol. Seamlessly connect AI models with security resources and actions to improve threat detection and response."
+        ],
+        "avg_score": 0.9169584512710571,
+        "matrix": [
+            [
+                1.0,
+                0.8648619651794434,
+                0.8687710165977478
+            ],
+            [
+                0.8648619651794434,
+                1.0,
+                0.8926800489425659
+            ],
+            [
+                0.8687710165977478,
+                0.8926800489425659,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/bombe89/mcp-servers-test/tree/main": {
+        "names": [
+            "Math Server",
+            "MCP Servers Test",
+            "Math Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@bombe89/mcp-servers-test2",
+            "https://smithery.ai/server/@bombe89/mcp-servers-test",
+            "https://smithery.ai/server/@bombe89/mcp-servers-test3"
+        ],
+        "descriptions": [
+            "Provide mathematical computation capabilities to your agents by enabling them to perform arithmetic operations through this server. Enhance your applications with reliable and straightforward math functions accessible via a standardized protocol. Simplify integration of math tools into your workflows with this ready-to-use server.",
+            "Provide a test implementation of MCP servers to experiment with MCP features and integrations. Enable developers to validate and explore MCP capabilities in a controlled environment. Facilitate the development and testing of MCP-compliant tools and resources.",
+            "Provide mathematical computation capabilities to your agents by exposing tools that perform arithmetic operations. Enable seamless integration of math functions into your workflows for enhanced automation and reasoning. Simplify complex calculations by leveraging this server's easy-to-use interface."
+        ],
+        "avg_score": 0.9255428976482816,
+        "matrix": [
+            [
+                1.0,
+                0.8657726645469666,
+                0.9376888871192932
+            ],
+            [
+                0.8657726645469666,
+                1.0,
+                0.8614814877510071
+            ],
+            [
+                0.9376888871192932,
+                0.8614814877510071,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/defreeze/bike-planner-mcp/tree/main": {
+        "names": [
+            "Bike Planner",
+            "Bike Planner",
+            "Bike Planner"
+        ],
+        "links": [
+            "https://smithery.ai/server/@defreeze/bike-planner-mcp",
+            "https://smithery.ai/server/@defreeze/bike-planner-mcp-v3",
+            "https://smithery.ai/server/@defreeze/bike-planner-mcp-v2"
+        ],
+        "descriptions": [
+            "Plan optimal bike routes efficiently using this tool. Enhance your navigation experience with tailored bike path suggestions. Simplify your journey planning with intelligent route computations.",
+            "Plan customized bicycle routes with integrated weather forecasts, accommodation suggestions, and local activity recommendations. Generate dynamic travel plans by leveraging modular tools that execute in sequence based on user input. Simplify complex trip planning into a flexible and extensible workflow tailored to cycling enthusiasts.",
+            "Plan customized bicycle routes with integrated weather forecasts, accommodation suggestions, and local activity recommendations. Generate detailed multi-step travel plans dynamically based on user input. Streamline your cycling trip planning with modular, flexible tool integration."
+        ],
+        "avg_score": 0.9434874720043607,
+        "matrix": [
+            [
+                1.0,
+                0.8924623131752014,
+                0.8998653888702393
+            ],
+            [
+                0.8924623131752014,
+                1.0,
+                0.9533659219741821
+            ],
+            [
+                0.8998653888702393,
+                0.9533659219741821,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/canlgz/markitdown_mcp_server/tree/main": {
+        "names": [
+            "MarkItDown Server",
+            "MarkItDown Server",
+            "MarkItDown Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@canlgz/can_markitdown_mcp_server",
+            "https://smithery.ai/server/@canlgz/markitdown_mcp_server2",
+            "https://smithery.ai/server/@canlgz/markitdown_mcp_server"
+        ],
+        "descriptions": [
+            "Convert various file formats to Markdown to streamline content processing and integration. Supports PDFs, Office documents, images with OCR, audio transcription, HTML, text formats, and ZIP archives. Enhance your MCP client workflows by easily transforming diverse data into Markdown format.",
+            "Convert various file formats to Markdown seamlessly using the MarkItDown utility. Enhance your MCP clients by enabling them to process PDFs, Office documents, images, audio, HTML, and more into Markdown format. Simplify content integration and editing workflows with this versatile conversion server.",
+            "Convert various file formats to Markdown seamlessly using the MarkItDown utility. Enable your MCP clients to extract and transform content from PDFs, Office documents, images, audio, HTML, and more into Markdown format. Simplify content processing and integration workflows with this versatile conversion server."
+        ],
+        "avg_score": 0.964320593410068,
+        "matrix": [
+            [
+                1.0,
+                0.9281615614891052,
+                0.929414689540863
+            ],
+            [
+                0.9281615614891052,
+                1.0,
+                0.9818664193153381
+            ],
+            [
+                0.929414689540863,
+                0.9818664193153381,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/Shengwenhao-manbo/weather/tree/main": {
+        "names": [
+            "Weather",
+            "Weather"
+        ],
+        "links": [
+            "https://smithery.ai/server/@Shengwenhao-manbo/weather1",
+            "https://smithery.ai/server/@Shengwenhao-manbo/weather"
+        ],
+        "descriptions": [
+            "Provide weather information through an MCP server interface. Enable users to query weather data seamlessly within their LLM applications. Enhance your agents with real-time weather context to improve their responses and decision-making.",
+            "Provide weather information through an MCP server interface. Enable agents to query current weather data seamlessly. Enhance your applications with real-time weather updates."
+        ],
+        "avg_score": 0.9779325425624847,
+        "matrix": [
+            [
+                1.0,
+                0.9558650851249695
+            ],
+            [
+                0.9558650851249695,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/abugrakskn/Weather-Forecast-MCP/tree/main": {
+        "names": [
+            "Weather Forecast Server",
+            "Weather Forecast Service"
+        ],
+        "links": [
+            "https://smithery.ai/server/@abugrakskn/weather-forecast-mcp-but",
+            "https://smithery.ai/server/@abugrakskn/weather-forecast-mcp"
+        ],
+        "descriptions": [
+            "Provide accurate and up-to-date weather forecast data to your applications. Enable seamless integration of weather information through a standardized protocol. Enhance your agents with reliable environmental context for better decision-making.",
+            "Provide accurate and up-to-date weather forecasts to enhance your applications with real-time meteorological data. Enable seamless integration of weather information for improved decision-making and user experience. Access detailed forecasts through a simple and reliable interface."
+        ],
+        "avg_score": 0.9698695540428162,
+        "matrix": [
+            [
+                1.0,
+                0.9397391080856323
+            ],
+            [
+                0.9397391080856323,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/ruixingshi/deepseek-thinker-mcp/tree/main": {
+        "names": [
+            "Deepseek Thinker",
+            "Deepseek Thinker"
+        ],
+        "links": [
+            "https://smithery.ai/server/@ruixingshi/deepseek-thinker-mcp-1",
+            "https://smithery.ai/server/@ruixingshi/deepseek-thinker-mcp"
+        ],
+        "descriptions": [
+            "Leverage Deepseek's reasoning capabilities to enhance your AI interactions. Access structured reasoning outputs from Deepseek's thought processes seamlessly. Integrate easily with your AI clients for enriched conversational experiences.",
+            "Provide reasoning capabilities using Deepseek's thought processes."
+        ],
+        "avg_score": 0.9504980742931366,
+        "matrix": [
+            [
+                1.0,
+                0.9009961485862732
+            ],
+            [
+                0.9009961485862732,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/bitfollow/mcp-server-example/tree/master": {
+        "names": [
+            "MCP Server Example",
+            "MCP Server Example"
+        ],
+        "links": [
+            "https://smithery.ai/server/@bitfollow/mcp-server-example",
+            "https://smithery.ai/server/@bitfollow/mcp-server-example1"
+        ],
+        "descriptions": [
+            "Build a functional server that integrates with various LLM clients. Connect your AI models to different data sources and tools seamlessly. Enhance your applications with standardized capabilities for better data access and manipulation.",
+            "Build a functional server that integrates with various LLM clients. Connect your AI models to different data sources and tools seamlessly. Enhance your applications with standardized capabilities for accessing resources, executing tools, and utilizing prompts."
+        ],
+        "avg_score": 0.9864515960216522,
+        "matrix": [
+            [
+                1.0,
+                0.9729031920433044
+            ],
+            [
+                0.9729031920433044,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/agentmode/server/tree/main": {
+        "names": [
+            "AgentMode",
+            "AgentMode"
+        ],
+        "links": [
+            "https://smithery.ai/server/@agentmode/servers",
+            "https://smithery.ai/server/@agentmode/server"
+        ],
+        "descriptions": [
+            "Connect your coding AI to a wide range of databases, data warehouses, data pipelines, and cloud services seamlessly. Streamline your development workflow by integrating various data and cloud platforms through a single MCP server. Easily configure and manage connections with a user-friendly setup interface.",
+            "Connect your coding AI to a wide range of databases, data warehouses, data pipelines, and cloud services seamlessly. Streamline your development workflow by integrating various data and cloud platforms through a single MCP server. Easily configure and manage connections with a user-friendly setup interface."
+        ],
+        "avg_score": 0.9999999403953552,
+        "matrix": [
+            [
+                1.0,
+                0.9999998807907104
+            ],
+            [
+                0.9999998807907104,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/Ceeon/findmcp/tree/main": {
+        "names": [
+            "FindMCP",
+            "FindMCP"
+        ],
+        "links": [
+            "https://smithery.ai/server/@Ceeon/find-a-mcp",
+            "https://smithery.ai/server/@Ceeon/findmcp2025"
+        ],
+        "descriptions": [
+            "Discover and access MCP services effortlessly. Utilize this directory tool to find and connect with various MCP services, enhancing your LLM's capabilities. Simplify your integration with a user-friendly interface designed for seamless service discovery.",
+            "Provide quick access to Smithery.ai URLs for seamless integration with the Cursor editor. Enhance your LLM capabilities by utilizing this simple and efficient MCP server to discover services effortlessly."
+        ],
+        "avg_score": 0.9504914581775665,
+        "matrix": [
+            [
+                1.0,
+                0.9009829163551331
+            ],
+            [
+                0.9009829163551331,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/mem0ai/mem0-mcp/tree/main": {
+        "names": [
+            "Memory Tool",
+            "Mem0 Memory Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@mem0ai/mem0-memory-mcp",
+            "https://smithery.ai/server/@mem0ai/mcp-server"
+        ],
+        "descriptions": [
+            "Store and retrieve user-specific memories to maintain context and make informed decisions based on past interactions. Utilize a simple API to add and search memories with relevance scoring, enhancing your application's ability to remember user preferences and interactions.",
+            "Store and search user-specific memories to maintain context and enable informed decision-making based on past interactions. Seamlessly integrate memory capabilities into your AI tools with a simple and intuitive API. Support multiple user contexts with automatic error handling for reliable operation."
+        ],
+        "avg_score": 0.9633601605892181,
+        "matrix": [
+            [
+                1.0,
+                0.9267203211784363
+            ],
+            [
+                0.9267203211784363,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/waldzellai/waldzell-mcp/tree/main": {
+        "names": [
+            "Clear Thought",
+            "Yelp Fusion Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@waldzellai/clear-thought",
+            "https://smithery.ai/server/@waldzellai/yelp-mcp-server"
+        ],
+        "descriptions": [
+            "Enhance problem-solving capabilities using systematic thinking and mental models.",
+            "Enable natural language interaction with Yelp's business data through Claude Desktop. Search for businesses, read reviews, find events, and explore categories using simple conversational queries. Receive rich, formatted responses powered by Yelp's AI API for comprehensive local business insights."
+        ],
+        "avg_score": 0.9213946461677551,
+        "matrix": [
+            [
+                1.0,
+                0.8427892923355103
+            ],
+            [
+                0.8427892923355103,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/Hint-Services/obsidian-github-mcp/tree/main": {
+        "names": [
+            "Obsidian GitHub",
+            "Private GitHub Search"
+        ],
+        "links": [
+            "https://smithery.ai/server/@Hint-Services/obsidian-github-mcp",
+            "https://smithery.ai/server/@Hint-Services/mcp-private-github-search"
+        ],
+        "descriptions": [
+            "Connect AI assistants to your GitHub-hosted Obsidian vault to seamlessly access, search, and analyze your knowledge base. Enable intelligent retrieval of notes, track the evolution of your ideas, and integrate project management workflows. Enhance productivity for knowledge workers, developers, and academics by bridging your Obsidian notes with AI capabilities.",
+            "Enable seamless searching of private GitHub repositories with automatic handling of rate limiting, type safety, and error management. Access file contents and issues securely using your GitHub token. Integrate private repository search capabilities into your AI workflows effortlessly."
+        ],
+        "avg_score": 0.9396938383579254,
+        "matrix": [
+            [
+                1.0,
+                0.8793876767158508
+            ],
+            [
+                0.8793876767158508,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/mzdz/calc-mcp/tree/master": {
+        "names": [
+            "Calculator Server",
+            "\u8ba1\u7b97\u5668(Calc MCP)"
+        ],
+        "links": [
+            "https://smithery.ai/server/@mzdz/calc-mcp",
+            "https://smithery.ai/server/@mzdz/calc-mcp-server"
+        ],
+        "descriptions": [
+            "Provide basic and advanced arithmetic operations through a calculator server. Access calculation history and help information via resource APIs. Enhance your applications with reliable and extendable mathematical computation capabilities.",
+            "\u63d0\u4f9b\u57fa\u672c\u548c\u9ad8\u7ea7\u7b97\u672f\u8fd0\u7b97\u529f\u80fd\uff0c\u652f\u6301\u8868\u8fbe\u5f0f\u8ba1\u7b97\u548c\u5386\u53f2\u8bb0\u5f55\u7ba1\u7406\u3002\u901a\u8fc7\u8d44\u6e90 API \u8bbf\u95ee\u5e2e\u52a9\u4fe1\u606f\u548c\u8ba1\u7b97\u5386\u53f2\uff0c\u65b9\u4fbf\u96c6\u6210\u548c\u6269\u5c55\u3002\u63d0\u5347\u8ba1\u7b97\u4efb\u52a1\u7684\u81ea\u52a8\u5316\u548c\u4ea4\u4e92\u4f53\u9a8c\u3002"
+        ],
+        "avg_score": 0.8688899874687195,
+        "matrix": [
+            [
+                1.0,
+                0.737779974937439
+            ],
+            [
+                0.737779974937439,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/mirinda-cmd/reference-servers-check/tree/main": {
+        "names": [
+            "Reference Servers",
+            "Model Context Protocol Servers"
+        ],
+        "links": [
+            "https://smithery.ai/server/@mirinda-cmd/reference-servers-check",
+            "https://smithery.ai/server/@mirinda-cmd/reference-servers-check-x"
+        ],
+        "descriptions": [
+            "Explore a variety of implementations that enhance Large Language Models with secure access to tools and data sources. Leverage these reference servers to integrate advanced functionalities into your applications effortlessly. Start building your own MCP server or utilize existing ones to unlock new capabilities for your LLMs.",
+            "Enable seamless integration of Large Language Models with various tools and data sources. Leverage secure, controlled access to enhance your applications with powerful functionalities. Start building your own MCP servers or utilize existing ones to unlock new capabilities for your LLMs. HELLO"
+        ],
+        "avg_score": 0.9736865758895874,
+        "matrix": [
+            [
+                1.0,
+                0.9473731517791748
+            ],
+            [
+                0.9473731517791748,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/611711Dark/mcp_calculate_server/tree/master": {
+        "names": [
+            "Calculate Server",
+            "Calculate Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@611711Dark/mcp_calculate_server",
+            "https://smithery.ai/server/@611711Dark/mcp_sympy_calculate_server"
+        ],
+        "descriptions": [
+            "Perform complex mathematical calculations effortlessly. Leverage powerful symbolic computation capabilities to solve equations, perform calculus, and manipulate matrices with ease.",
+            "Perform complex mathematical calculations effortlessly. Leverage powerful symbolic computation capabilities to solve equations, perform algebraic manipulations, and execute calculus operations with ease."
+        ],
+        "avg_score": 0.9877747297286987,
+        "matrix": [
+            [
+                1.0,
+                0.9755494594573975
+            ],
+            [
+                0.9755494594573975,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/lowkeyrd/servers/tree/main": {
+        "names": [
+            "Google Maps API Server",
+            "GitHub API MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@lowkeyrd/google-map-mcp-server",
+            "https://smithery.ai/server/@lowkeyrd/servers"
+        ],
+        "descriptions": [
+            "Leverage the power of Google Maps to enhance your applications with location services, directions, and place details. Integrate seamlessly with your LLMs to provide real-time geographic data and insights. Start building location-aware applications effortlessly with this MCP server.",
+            "Enable seamless file operations, repository management, and advanced search functionalities on GitHub. Automate your workflows with automatic branch creation and comprehensive error handling, all while preserving Git history. Enhance your development experience by integrating GitHub capabilities directly into your applications."
+        ],
+        "avg_score": 0.9330715537071228,
+        "matrix": [
+            [
+                1.0,
+                0.8661431074142456
+            ],
+            [
+                0.8661431074142456,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/adamanz/mcp-video-converter/tree/main": {
+        "names": [
+            "Video Convert",
+            "MCP Video Converter"
+        ],
+        "links": [
+            "https://smithery.ai/server/@adamanz/video-convert",
+            "https://smithery.ai/server/@adamanz/mcp-video-converter"
+        ],
+        "descriptions": [
+            "Convert videos between various formats quickly and easily. Enhance your media workflow by automating video transcoding tasks. Support multiple input and output formats to fit your needs.",
+            "This MCP server automatically detects input file types and supports conversion between a wide range of media formats.\n\n**Video**\n- MP4\n- WebM\n- MOV\n- AVI\n- MKV\n- FLV\n- GIF\n\n**Audio**\n- MP3\n- WAV\n- OGG\n- AAC\n- M4A\n\n**Image**\n- WebP\n- JPG\n- PNG\n- BMP\n- TIFF\n\nemail me to request more! a@simple.company"
+        ],
+        "avg_score": 0.905980795621872,
+        "matrix": [
+            [
+                1.0,
+                0.8119615912437439
+            ],
+            [
+                0.8119615912437439,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/hetaoBackend/mcp-github-trending/tree/main": {
+        "names": [
+            "GitHub Trending",
+            "GitHub Trending"
+        ],
+        "links": [
+            "https://smithery.ai/server/@hetaoBackend/mcp-github-trending",
+            "https://smithery.ai/server/@hetaoBackend/github-trending-mcp-server"
+        ],
+        "descriptions": [
+            "Access trending repositories and developers on GitHub effortlessly. Filter results by programming language, time period, and spoken language to find the most relevant data for your needs.",
+            "Access trending repositories and developers on GitHub effortlessly. Filter results by programming language, time period, and spoken language to find the most relevant data for your needs."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/markacianfrani/mcp-notes/tree/main": {
+        "names": [
+            "MCP Notes",
+            "Daily Scribe"
+        ],
+        "links": [
+            "https://smithery.ai/server/@markacianfrani/mcp-notes",
+            "https://smithery.ai/server/@markacianfrani/daily-scribe"
+        ],
+        "descriptions": [
+            "Capture and organize your daily thoughts and insights effortlessly. Transform fragmented knowledge into structured, searchable information with automatic summaries and categorization. Enhance your productivity by synthesizing your notes into actionable insights.",
+            "Capture, organize, and synthesize your daily thoughts and knowledge effortlessly. Transform fragmented notes into structured, searchable insights with AI-assisted categorization and summarization. Enhance your productivity by maintaining a progressive, plain-text knowledge system that integrates seamlessly with MCP-compatible clients."
+        ],
+        "avg_score": 0.9700469374656677,
+        "matrix": [
+            [
+                1.0,
+                0.9400938749313354
+            ],
+            [
+                0.9400938749313354,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/vaebe/mcp/tree/main": {
+        "names": [
+            "Server Time",
+            "GitHub Search API Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@vaebe/mcp",
+            "https://smithery.ai/server/@vaebe/github-search"
+        ],
+        "descriptions": [
+            "Retrieve the current time effortlessly with this server. Integrate time-fetching capabilities into your applications seamlessly. Enhance your projects with accurate and reliable time data.",
+            "Leverage the GitHub search API to enhance your applications with powerful search capabilities. Integrate seamlessly and retrieve relevant data from GitHub repositories efficiently. Start building smarter applications with enhanced search functionalities today."
+        ],
+        "avg_score": 0.9459255039691925,
+        "matrix": [
+            [
+                1.0,
+                0.891851007938385
+            ],
+            [
+                0.891851007938385,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/zqhz-two/mcp-jobs/tree/main": {
+        "names": [
+            "Job Search Aggregator",
+            "Job Search Aggregator"
+        ],
+        "links": [
+            "https://smithery.ai/server/@zqhz-two/mcp-jobs-v1",
+            "https://smithery.ai/server/@zqhz-two/mcp-jobs"
+        ],
+        "descriptions": [
+            "Provide a zero-configuration, multi-platform job search service that aggregates job listings from major recruitment websites. Enable users to search and retrieve standardized job information effortlessly using natural language queries. Deliver real-time, up-to-date job data with no setup or API keys required.",
+            "Provide a zero-configuration, multi-platform job search service that aggregates job listings from major recruitment websites. Enable users to search and retrieve standardized job information effortlessly using natural language queries. Deliver real-time, up-to-date job data with no setup or API keys required."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/nitriot/SolanaMcpService/tree/master": {
+        "names": [
+            "Solana Blockchain Interaction Server",
+            "Solana Blockchain Interaction Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@nitriot/solanamcpservice",
+            "https://smithery.ai/server/@nitriot/solanamcpservicejjjj"
+        ],
+        "descriptions": [
+            "Enable AI models to interact seamlessly with the Solana blockchain by querying balances, sending tokens, retrieving transaction history, and creating custom tokens. Provide real-time updates via WebSocket and a comprehensive REST API for blockchain operations. Simplify integration with AI applications through a secure and robust MCP server interface.",
+            "Enable AI models to interact seamlessly with the Solana blockchain by querying balances, sending tokens, retrieving transaction history, and creating custom tokens. Access real-time updates via WebSocket and perform secure blockchain operations through REST API endpoints. Simplify blockchain integration for AI applications with comprehensive MCP support and easy deployment options."
+        ],
+        "avg_score": 0.9840811491012573,
+        "matrix": [
+            [
+                1.0,
+                0.9681622982025146
+            ],
+            [
+                0.9681622982025146,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/Kinfe123/better-auth-mcp/tree/master": {
+        "names": [
+            "Better Auth Server",
+            "Better Auth Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@Kinfe123/better-auth-mcp",
+            "https://smithery.ai/server/@Kinfe123/better-auth-mcp-server"
+        ],
+        "descriptions": [
+            "Provide secure and enhanced authentication capabilities through a dedicated MCP server. Enable seamless integration of authentication workflows with LLM applications, improving security and user management. Simplify authentication processes by leveraging standardized protocol interactions.",
+            "Better Auth docs mcp server."
+        ],
+        "avg_score": 0.93027663230896,
+        "matrix": [
+            [
+                1.0,
+                0.8605532646179199
+            ],
+            [
+                0.8605532646179199,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/xiaok/etherscan-mcp/tree/main": {
+        "names": [
+            "Etherscan API Integration Server",
+            "Etherscan API Integration Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@xiaok/etherscan-mcp-server",
+            "https://smithery.ai/server/@xiaok/etherscan-mcp"
+        ],
+        "descriptions": [
+            "Enable dynamic interaction with Etherscan's blockchain data and services through a standardized MCP interface. Access supported chains and endpoints to retrieve blockchain information seamlessly. Simplify blockchain data queries and integration for your applications.",
+            "Enable dynamic interaction with Etherscan's API and blockchain data through a standardized MCP interface. Quickly test and debug your server with built-in CLI tools and inspect it via a web UI. Support multiple blockchain networks with up-to-date chain lists and API endpoints."
+        ],
+        "avg_score": 0.9591204524040222,
+        "matrix": [
+            [
+                1.0,
+                0.9182409048080444
+            ],
+            [
+                0.9182409048080444,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/shuididata/mcp-server/tree/main": {
+        "names": [
+            "\u6c34\u6ef4\u5927\u6570\u636e\u4f01\u4e1a\u67e5\u8be2",
+            "\u4f01\u4e1a\u67e5\u8be2"
+        ],
+        "links": [
+            "https://smithery.ai/server/@shuididata/shuidi_data_mcp",
+            "https://smithery.ai/server/@shuididata/mcp-server"
+        ],
+        "descriptions": [
+            "\u4e00\u7ad9\u5f0f\u89e3\u9501\u4f01\u4e1a\u5927\u6570\u636e\u5168\u7ef4\u5ea6\u6d1e\u5bdf\uff01\u7cbe\u51c6\u67e5\u8be2\u5e02\u573a\u4e3b\u4f53\u6570\u636e\u3001\u5de5\u5546\u7167\u9762\u8be6\u60c5\uff0c\u6df1\u6316\u80a1\u4e1c\u4e0e\u5bf9\u5916\u6295\u8d44\u8109\u7edc\uff0c\u7cbe\u51c6\u5b9a\u4f4d\u7591\u4f3c\u5b9e\u63a7\u4eba\u53ca\u53d7\u76ca\u6240\u6709\u4eba\u3002\u4e00\u952e\u626b\u63cf\u4f01\u4e1a\u98ce\u9669\uff0c\u91cf\u5316\u79d1\u521b\u5b9e\u529b\uff0c\u8363\u8a89\u8d44\u8d28\u3001\u8d44\u8d28\u8bc1\u4e66\u5c3d\u5728\u638c\u63e1\uff0c\u8fd8\u80fd\u4f9d\u4f01\u4e1a\u6216\u4eba\u540d\u79d2\u5bfb\u5173\u8054\u4f01\u4e1a\u4fe1\u606f\uff0c\u4e3a\u4f01\u4e1a\u51b3\u7b56\u3001\u5408\u4f5c\u628a\u5173\uff0c\u8d4b\u80fd\u5546\u4e1a\u6bcf\u4e00\u6b65.\n\u4f7f\u7528\u65f6\u9700\u914d\u7f6eshuidiPname shuidiPkey\uff0c\u76ee\u524d\u53ef\u4f7f\u7528\u514d\u8d39\u6d4b\u8bd5\u5e10\u53f7\n  - shuidiPname: 2025041486173046\n  - shuidiPkey: 3303b6a7e64ac0b18b5f17aafde52c71\n\n\u4f7f\u7528\u793a\u4f8b\uff1a\n1. \"\u4e0a\u6d772024\u5e74\u6210\u7acb\u4e86\u591a\u5c11\u4f01\u4e1a?\"\n2. \"\u67e5\u4e00\u4e0b*****\u6709\u9650\u516c\u53f8\u7684\u57fa\u672c\u4fe1\u606f\"\n3. \"*******\u6709\u9650\u516c\u53f8\u6709\u54ea\u4e9b\u80a1\u4e1c\uff1f\"\n4. \"*******\u6709\u9650\u516c\u53f8\u7684\u79d1\u6280\u521b\u65b0\u80fd\u529b\u600e\u4e48\u6837\uff1f\"\n5. \"\u67e5\u4e00\u4e0b*******\u6709\u9650\u516c\u53f8\u7684\u98ce\u9669\u4fe1\u606f\uff1f\"\n6. \"\u67e5\u4e00\u4e0b*******\u6709\u9650\u516c\u53f8\u7684\u8363\u8a89\u8d44\u8d28\uff1f\"\n7. \"\u67e5\u4e00\u4e0b*******\u6709\u9650\u516c\u53f8\u7684\u8054\u7cfb\u65b9\u5f0f\uff1f\"\n8. \"\u67e5\u4e00\u4e0b*******\u6709\u9650\u516c\u53f8\u7684\u5bf9\u5916\u6295\u8d44\u4fe1\u606f\uff1f\"\n9. \"*******\u6709\u9650\u516c\u53f8\u6709\u54ea\u4e9b\u8d44\u8d28\u8bc1\u4e66\uff1f\"\n10. \"*******\u6709\u9650\u516c\u53f8\u7684\u738b**\u8fd8\u5728\u54ea\u4e9b\u516c\u53f8\u4efb\u804c\uff1f\"\n11. \"*******\u6709\u9650\u516c\u53f8\u7684\u5b9e\u63a7\u4eba\u662f\u8c01\uff1f\"\n12. \"*******\u6709\u9650\u516c\u53f8\u6709\u54ea\u4e9b\u53d7\u76ca\u6240\u6709\u4eba\uff1f\"",
+            "Unlock comprehensive insights into enterprise big data with precise queries on market entities, business details, shareholder and investment networks, and risk assessments. Visualize data with maps and charts to support business decisions and partnerships. Access detailed company information including honors, certifications, contacts, and control persons with ease."
+        ],
+        "avg_score": 0.8599140346050262,
+        "matrix": [
+            [
+                1.0,
+                0.7198280692100525
+            ],
+            [
+                0.7198280692100525,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/skysqlinc/skysql-mcp/tree/main": {
+        "names": [
+            "SkySQL MCP Server",
+            "Serverless MariaDB MySQL MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@skysqlinc/skysql-mcp",
+            "https://smithery.ai/server/@skysqlinc/jags-skysql-mcp"
+        ],
+        "descriptions": [
+            "Set up the SkySQL MCP server, which provides a powerful interface for managing SkySQL (MySQL/MariaDB) database instances and interacting with SkyAI Agents.\n\nFeatures\n---------\n- Launch and manage serverless MariaDB database instances\n- Interact with AI-powered database agents\n- Execute SQL queries directly on SkySQL (MySQL/MariaDB) instances\n- Manage database credentials and IP allowlists\n- List and monitor database services",
+            "Manage serverless MySQL database instances effortlessly and interact with built-in \"No code\" AI-powered database agents - get accurate Natural language conversations going on your Data, instantly. Execute SQL queries, handle database credentials, and monitor services seamlessly."
+        ],
+        "avg_score": 0.9360730648040771,
+        "matrix": [
+            [
+                1.0,
+                0.8721461296081543
+            ],
+            [
+                0.8721461296081543,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/leinatorX/douyin-mcp-server/tree/main": {
+        "names": [
+            "Douyin Video Text Extractor",
+            "Douyin Video Text Extractor"
+        ],
+        "links": [
+            "https://smithery.ai/server/@leinatorX/douyin-mcp-server2",
+            "https://smithery.ai/server/@leinatorX/douyin-mcp-server"
+        ],
+        "descriptions": [
+            "Download Douyin videos without watermarks and extract audio text automatically. Convert video audio to text using AI speech recognition with automatic cleanup of temporary files. Customize API configurations for flexible usage.",
+            "Download Douyin videos without watermarks and extract their audio as text using AI speech recognition. Automatically clean up temporary files and support custom API configurations for flexible usage. Enable seamless integration with your applications to process Douyin video content efficiently."
+        ],
+        "avg_score": 0.9679407179355621,
+        "matrix": [
+            [
+                1.0,
+                0.9358814358711243
+            ],
+            [
+                0.9358814358711243,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/jifrozen0110/mcp-riot/tree/main": {
+        "names": [
+            "Riot Server",
+            "Riot Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@jifrozen0110/riot",
+            "https://smithery.ai/server/@jifrozen0110/mcp-riot"
+        ],
+        "descriptions": [
+            "Provide AI assistants with real-time League of Legends data by integrating with the Riot Games API. Retrieve player summaries, ranked stats, champion mastery, recent matches, and match summaries through natural language queries. Enhance your AI's gaming knowledge with detailed and up-to-date game information.",
+            "Provide AI assistants with real-time League of Legends player data and match insights through natural language queries. Retrieve player summaries, champion mastery, recent matches, and match statistics seamlessly. Enhance your AI's gaming knowledge with up-to-date Riot Games API integration."
+        ],
+        "avg_score": 0.9829340577125549,
+        "matrix": [
+            [
+                1.0,
+                0.9658681154251099
+            ],
+            [
+                0.9658681154251099,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/qianphhh/stata-mcp-sse/tree/master": {
+        "names": [
+            "Stata Regression Assistant",
+            "Stata-MCP"
+        ],
+        "links": [
+            "https://smithery.ai/server/@qianphhh/stata-mcp-test",
+            "https://smithery.ai/server/@qianphhh/stata-mcp-sse"
+        ],
+        "descriptions": [
+            "Enable LLMs to assist with regression analysis using Stata seamlessly. Automate and simplify your statistical workflows by integrating Stata commands with large language models. Enhance productivity in data analysis with easy-to-use LLM-powered Stata interactions.",
+            "Enable LLMs to assist with regression analysis using Stata seamlessly. Automate and simplify your statistical workflows by integrating Stata commands and data analysis with large language models. Enhance productivity and accuracy in your econometric and statistical tasks."
+        ],
+        "avg_score": 0.981322318315506,
+        "matrix": [
+            [
+                1.0,
+                0.962644636631012
+            ],
+            [
+                0.962644636631012,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/seheremir/coffee-server/tree/main": {
+        "names": [
+            "Coffee API Server",
+            "Coffee API Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@seheremir/coffee-server",
+            "https://smithery.ai/server/@seheremir/coffee-server-2"
+        ],
+        "descriptions": [
+            "Serve beautiful coffee photos and related information through a comprehensive API. Access random coffee images, daily specials, batch requests, and enriched coffee facts easily. Enhance your applications with delightful coffee content and statistics.",
+            "Serve beautiful coffee photos and related information through a comprehensive API. Access random coffee images, daily specials, batch requests, and enriched coffee facts easily. Enhance your applications with delightful coffee content and reliable API features like rate limiting and CORS support."
+        ],
+        "avg_score": 0.9870710372924805,
+        "matrix": [
+            [
+                1.0,
+                0.9741420745849609
+            ],
+            [
+                0.9741420745849609,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/JHSeo-git/my-first-mcp/tree/main": {
+        "names": [
+            "My First MCP Server",
+            "My First MCP"
+        ],
+        "links": [
+            "https://smithery.ai/server/@JHSeo-git/my-first-mcp-2",
+            "https://smithery.ai/server/@JHSeo-git/my-first-mcp"
+        ],
+        "descriptions": [
+            "Provide a simple and easy-to-run MCP server implementation that supports stdio and SSE transports. Enable seamless integration with MCP clients using Node.js or Docker environments. Facilitate quick startup and testing of MCP capabilities for development and experimentation.",
+            "Create and manage your own Model Context Protocol server effortlessly. Integrate various tools and resources to enhance your applications with real-world data and actions. Streamline your development process with built-in support for TypeScript and modern JavaScript tooling.\n\n## test"
+        ],
+        "avg_score": 0.9322398006916046,
+        "matrix": [
+            [
+                1.0,
+                0.8644796013832092
+            ],
+            [
+                0.8644796013832092,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/MehmetFatihAktas/Mcp/tree/main": {
+        "names": [
+            "Mcp Server",
+            "MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@MehmetFatihAktas/mcp_dictionary",
+            "https://smithery.ai/server/@MehmetFatihAktas/mcp"
+        ],
+        "descriptions": [
+            "Provide a server implementation for the Model Context Protocol to enable dynamic integration of large language models with external data, tools, and prompts. Facilitate seamless communication between LLM clients and resources or actions through a standardized JSON-RPC interface. Enhance LLM applications by exposing capabilities such as tools invocation, resource access, and prompt retrieval.",
+            "Provide a server implementation for the Model Context Protocol to enable dynamic integration of LLMs with external data, tools, and prompts. Facilitate seamless communication between clients and resources through a standardized JSON-RPC interface. Enhance LLM applications by exposing actionable capabilities and data in a secure and extensible manner."
+        ],
+        "avg_score": 0.9782640337944031,
+        "matrix": [
+            [
+                1.0,
+                0.9565280675888062
+            ],
+            [
+                0.9565280675888062,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/alBERT-launcher/mcp-gsuite/tree/main": {
+        "names": [
+            "G Suite Integration",
+            "G Suite Integration"
+        ],
+        "links": [
+            "https://smithery.ai/server/@alBERT-launcher/mcp-gsuite-albert",
+            "https://smithery.ai/server/@alBERT-launcher/mcp-gsuite"
+        ],
+        "descriptions": [
+            "Interact with Google products like Gmail and Calendar.",
+            "Interact with Google products like Gmail and Calendar."
+        ],
+        "avg_score": 0.9999999701976776,
+        "matrix": [
+            [
+                1.0,
+                0.9999999403953552
+            ],
+            [
+                0.9999999403953552,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/minhyeoky/mcp-server-ledger/tree/master": {
+        "names": [
+            "Ledger CLI MCP Server",
+            "Ledger CLI MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@minhyeoky/mcp-server-ledger",
+            "https://smithery.ai/server/@minhyeoky/mcp-ledger"
+        ],
+        "descriptions": [
+            "Interact with your financial data effortlessly. Query and analyze your accounting information using AI assistants through a standardized interface for Ledger CLI commands. Simplify financial reporting and budget analysis with powerful tools at your fingertips.",
+            "Interact with your financial data effortlessly. Query and analyze your accounting information using AI assistants to generate reports, track budgets, and manage transactions with ease."
+        ],
+        "avg_score": 0.970227062702179,
+        "matrix": [
+            [
+                1.0,
+                0.9404541254043579
+            ],
+            [
+                0.9404541254043579,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/natebennett27/mcp-maigret/tree/main": {
+        "names": [
+            "Maigret",
+            "Maigret"
+        ],
+        "links": [
+            "https://smithery.ai/server/@natebennett27/mcp-maigret1",
+            "https://smithery.ai/server/@natebennett27/mcp-maigret"
+        ],
+        "descriptions": [
+            "Search for usernames across social networks and analyze URLs with ease. Leverage powerful OSINT capabilities to gather publicly available information responsibly and ethically. Integrate seamlessly with MCP-compatible applications for enhanced functionality.",
+            "Search for usernames across social networks and analyze URLs to gather public information. Utilize this powerful OSINT tool to enhance your research capabilities and streamline your investigations."
+        ],
+        "avg_score": 0.9634239673614502,
+        "matrix": [
+            [
+                1.0,
+                0.9268479347229004
+            ],
+            [
+                0.9268479347229004,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/leedoh-git/gpters-search-mcp-server/tree/main": {
+        "names": [
+            "GPTers Search Server",
+            "GPTers Search Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@leedoh-git/gpters-search-mcp-server",
+            "https://smithery.ai/server/@leedoh-git/gpters-search-mcp-server-2"
+        ],
+        "descriptions": [
+            "Provide seamless access to GPTers AI study community knowledge by enabling powerful search capabilities through MCP. Filter search results by date, author, or board to quickly find relevant community posts. Integrate this server with MCP clients like Claude Desktop or Cursor to enhance your AI applications with community-driven insights.",
+            "Provide seamless access to GPTers AI study community knowledge by enabling powerful search capabilities through MCP. Filter search results by date, author, or board to quickly find relevant community posts. Integrate this server with MCP clients like Claude Desktop or Cursor to enhance your AI applications with community-driven insights."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/RodrigoCorreia23/csfloat/tree/main": {
+        "names": [
+            "CSFloat",
+            "CSFloat"
+        ],
+        "links": [
+            "https://smithery.ai/server/@RodrigoCorreia23/csfloat",
+            "https://smithery.ai/server/@RodrigoCorreia23/csfloat2"
+        ],
+        "descriptions": [
+            "Provide a high-performance, flexible floating-point computation environment optimized for scientific and engineering applications. Enable precise and efficient numerical calculations with customizable precision and performance trade-offs. Facilitate advanced mathematical operations with ease and reliability.",
+            "Provide a high-performance, customizable floating-point computation environment for scientific and engineering applications. Enable precise and efficient numerical calculations with flexible precision settings. Enhance computational workflows with robust and optimized floating-point operations."
+        ],
+        "avg_score": 0.9746944010257721,
+        "matrix": [
+            [
+                1.0,
+                0.9493888020515442
+            ],
+            [
+                0.9493888020515442,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/wang-qijia/azure-cli-mcp/tree/main": {
+        "names": [
+            "Azure CLI Server",
+            "Azure CLI Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@wang-qijia/azure-cli-mcp-server",
+            "https://smithery.ai/server/@wang-qijia/azure-cli-mcp"
+        ],
+        "descriptions": [
+            "Enable seamless management of Azure resources through natural language by leveraging the full Azure CLI capabilities. Automate resource listing, configuration checks, security fixes, and resource creation with ease. Integrate securely with local Azure credentials to enhance your cloud operations workflow.",
+            "Enable seamless management of Azure resources by leveraging the full Azure CLI through a conversational interface. Automate tasks like listing resources, fixing configurations, and creating services with natural language commands. Enhance productivity by integrating Azure operations directly into your development environment or chat tools."
+        ],
+        "avg_score": 0.9654569625854492,
+        "matrix": [
+            [
+                1.0,
+                0.9309139251708984
+            ],
+            [
+                0.9309139251708984,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/overstarry/qweather-mcp-go/tree/master": {
+        "names": [
+            "QWeather API Integration Server",
+            "QWeather API Integration Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@overstarry/qweather-mcp-go",
+            "https://smithery.ai/server/@overstarry/qweather-mcp-go-hot"
+        ],
+        "descriptions": [
+            "Provide real-time weather, forecast, air quality, and life indices data through a standardized MCP interface. Enable seamless integration of QWeather services into AI assistants and applications via stdio or SSE transports. Easily configure and run the server to access comprehensive weather information programmatically.",
+            "Provide real-time weather, forecast, air quality, and life indices data through a standardized MCP interface. Enable seamless integration of QWeather services into AI assistants and applications via stdio or SSE transports. Easily configure and run the server to access comprehensive weather information programmatically."
+        ],
+        "avg_score": 1.0,
+        "matrix": [
+            [
+                1.0,
+                1.0
+            ],
+            [
+                1.0,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/chatmcp/mcp-server-flomo/tree/main": {
+        "names": [
+            "Flomo Note Writer",
+            "Flomo Note Writer"
+        ],
+        "links": [
+            "https://smithery.ai/server/@chatmcp/flomo-mcp",
+            "https://smithery.ai/server/@chatmcp/mcp-server-flomo"
+        ],
+        "descriptions": [
+            "Write text notes directly to Flomo from your applications. Seamlessly integrate note-taking into your workflows with a simple and efficient tool. Enhance productivity by automating your Flomo note creation.",
+            "Write notes directly to Flomo from your applications. Easily capture and send text content as notes to your Flomo account using a simple MCP server integration. Streamline your note-taking workflow by automating Flomo entries."
+        ],
+        "avg_score": 0.9668537080287933,
+        "matrix": [
+            [
+                1.0,
+                0.9337074160575867
+            ],
+            [
+                0.9337074160575867,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/Shengwenhao-manbo/k8s-mcp/tree/main": {
+        "names": [
+            "Kubernetes MCP Server",
+            "Kubernetes MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@Shengwenhao-manbo/k8s-mcp1",
+            "https://smithery.ai/server/@Shengwenhao-manbo/k8s-mcp-local"
+        ],
+        "descriptions": [
+            "Manage and interact with Kubernetes clusters through a Model Context Protocol server that supports SSE transport. Enable seamless integration of Kubernetes operations into LLM workflows, enhancing automation and cluster management. Simplify Kubernetes resource handling with a standardized MCP interface.",
+            "Manage and interact with Kubernetes clusters through a Model Context Protocol server using SSE transport. Enable seamless integration of Kubernetes operations into LLM applications with secure and efficient API calls. Simplify Kubernetes management by leveraging this MCP server's capabilities."
+        ],
+        "avg_score": 0.9798267483711243,
+        "matrix": [
+            [
+                1.0,
+                0.9596534967422485
+            ],
+            [
+                0.9596534967422485,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/azalin/mcp-test/tree/main": {
+        "names": [
+            "Personel \u0130zin Y\u00f6netim Sistemi",
+            "Personel \u0130zin Y\u00f6netim Sistemi"
+        ],
+        "links": [
+            "https://smithery.ai/server/@azalin/mcp-test",
+            "https://smithery.ai/server/@azalin/mcp-test2"
+        ],
+        "descriptions": [
+            "Manage personnel leave requests efficiently. View leave history, request new leaves, and check remaining leave days seamlessly through our API.",
+            "Manage personnel leave requests efficiently. View leave history, request new leaves, and check remaining leave days seamlessly through our API."
+        ],
+        "avg_score": 0.9999999701976776,
+        "matrix": [
+            [
+                1.0,
+                0.9999999403953552
+            ],
+            [
+                0.9999999403953552,
+                1.0
+            ]
+        ]
+    },
+    "https://github.com/HAOTIANli494/MySQL_MCP/tree/master": {
+        "names": [
+            "MySQL MCP Server",
+            "MySQL MCP Server"
+        ],
+        "links": [
+            "https://smithery.ai/server/@HAOTIANli494/lihaotian",
+            "https://smithery.ai/server/@HAOTIANli494/mysql_mcp"
+        ],
+        "descriptions": [
+            "Enable your AI assistant to securely connect and query MySQL databases with read-only access. Explore database schemas, execute safe SELECT queries, and analyze data directly within your AI workflows. Deploy easily in stdio or HTTP/SSE modes for flexible integration in development environments like VSCode.",
+            "Enable your AI assistant to securely connect and query MySQL databases with ease. Perform safe, read-only SQL queries, explore database schemas, and analyze data directly within your AI workflows. Supports both stdio and HTTP/SSE modes for flexible deployment and integration."
+        ],
+        "avg_score": 0.9784506261348724,
+        "matrix": [
+            [
+                1.0,
+                0.9569012522697449
+            ],
+            [
+                0.9569012522697449,
+                1.0
+            ]
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+workers-mcp: 1
+mcp-server: 1
+playwright-mcp: 0
+@hiveflow/mcp-server: 1
+metoro-mcp-server: 1

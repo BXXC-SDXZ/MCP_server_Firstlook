@@ -1,0 +1,175 @@
+{
+    "firecrawl mcp server": {
+        "official_descp": "Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.",
+        "descrp": [
+            "Mirror of", NaN,
+            "Mirror of",
+            "Mirror of",
+            "Mirror of"
+        ],
+        "smi_score": [
+            0.800641655921936,
+            0.0,
+            0.800641655921936,
+            0.800641655921936,
+            0.800641655921936
+        ],
+        "official_link": "https://mcp.so/server/firecrawl-mcp-server/mendableai?tab=tools",
+        "link": [
+            "https://mcp.so/server/vrknetha_mcp-server-firecrawl/MCP-Mirror",
+            "https://mcp.so/server/mcp-server-firecrawl/Msparihar",
+            "https://mcp.so/server/mendableai_firecrawl-mcp-server/MCP-Mirror",
+            "https://mcp.so/server/mcma123_firecrawl-mcp-server/MCP-Mirror",
+            "https://mcp.so/server/Msparihar_mcp-server-firecrawl/MCP-Mirror"
+        ]
+    },
+    "sentry": {
+        "official_descp": "Retrieving and analyzing issues from Sentry.io",
+        "descrp": [NaN
+        ],
+        "smi_score": [
+            0.0
+        ],
+        "official_link": "https://mcp.so/server/sentry/modelcontextprotocol?tab=tools",
+        "link": [
+            "https://mcp.so/server/sentry/javaDer"
+        ]
+    },
+    "neon mcp server": {
+        "official_descp": "MCP server for interacting with Neon Management API and databases",
+        "descrp": [
+            "Mirror of",
+            "Lightweight MCP server to give your Cursor Agent access to the Neon API",
+            "Mirror of",
+            "MCP server for interacting with Neon Management API and databases"
+        ],
+        "smi_score": [
+            0.7966539859771729,
+            0.8968402743339539,
+            0.7966539859771729,
+            1.0
+        ],
+        "official_link": "https://mcp.so/server/mcp-server-neon/neondatabase-labs?tab=tools",
+        "link": [
+            "https://mcp.so/server/neondatabase-labs_mcp-server-neon/MCP-Mirror",
+            "https://mcp.so/server/neon-mcp/amxv",
+            "https://mcp.so/server/neondatabase_mcp-server-neon/MCP-Mirror",
+            "https://mcp.so/server/mcp-server-neon/neondatabase"
+        ]
+    },
+    "github": {
+        "official_descp": "Repository management, file operations, and GitHub API integration",
+        "descrp": [NaN, NaN, NaN, NaN, NaN, NaN, NaN
+        ],
+        "smi_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "official_link": "https://mcp.so/server/github/modelcontextprotocol?tab=tools",
+        "link": [
+            "https://mcp.so/server/github/punkpeye",
+            "https://mcp.so/server/github/github",
+            "https://mcp.so/server/github/HSn0918",
+            "https://mcp.so/server/github/chatmcp",
+            "https://mcp.so/server/github/dre1144",
+            "https://mcp.so/server/github/popoqaq",
+            "https://mcp.so/server/github/sidharthrajaram"
+        ]
+    },
+    "time": {
+        "official_descp": "A Model Context Protocol server that provides time and timezone conversion capabilities. This server enables LLMs to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.",
+        "descrp": [
+            "The Time MCP Server is a Model Context Protocol (MCP) server that provides AI assistants and other MCP clients with standardized tools to perform time and date-related operations. This server acts as a bridge between AI tools and a robust time-handling backend, allowing for complex time manipulations through natural language interactions.", NaN
+        ],
+        "smi_score": [
+            0.8743535280227661,
+            0.0
+        ],
+        "official_link": "https://mcp.so/server/time/modelcontextprotocol?tab=tools",
+        "link": [
+            "https://mcp.so/server/time/TheoBrigitte",
+            "https://mcp.so/server/time/fisher1006"
+        ]
+    },
+    "test": {
+        "official_descp": NaN,
+        "descrp": [NaN, NaN, NaN, NaN, NaN, NaN,
+            "test"
+        ],
+        "smi_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "official_link": "https://mcp.so/server/test/modelcontextprotocol",
+        "link": [
+            "https://mcp.so/server/test/skills",
+            "https://mcp.so/server/test/cline",
+            "https://mcp.so/server/test/MCP-Mirror",
+            "https://mcp.so/server/test/saidsurucu",
+            "https://mcp.so/server/test/nickpending?tab=tools",
+            "https://mcp.so/server/test/tree",
+            "https://mcp.so/server/eino/cloudwego"
+        ]
+    },
+    "postgresql": {
+        "official_descp": "Read-only database access with schema inspection",
+        "descrp": [NaN, NaN, NaN,
+            "MCP server for getting schema information from a PostgreSQL database"
+        ],
+        "smi_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.8688763380050659
+        ],
+        "official_link": "https://mcp.so/server/postgres/modelcontextprotocol?tab=tools",
+        "link": [
+            "https://mcp.so/server/mcp-server-postgres/jamesg31",
+            "https://mcp.so/server/MCP-SERVER-PG/divyanshu-vashu",
+            "https://mcp.so/server/mcp_server_template/pyljain",
+            "https://mcp.so/server/mcp-pg-schema/vinsidious"
+        ]
+    },
+    "puppeteer": {
+        "official_descp": "Browser automation and web scraping",
+        "descrp": [
+            "Advanced Puppeteer automation server with enhanced functionality (MCP Server)",
+            "Advanced Puppeteer automation server with enhanced functionality (MCP Server)",
+            "MCP Puppeteer Server HomeAssistant Add-on"
+        ],
+        "smi_score": [
+            0.858055830001831,
+            0.858055830001831,
+            0.8284499645233154
+        ],
+        "official_link": "https://mcp.so/server/puppeteer/modelcontextprotocol?tab=tools",
+        "link": [
+            "https://mcp.so/server/MCP-Puppeteer-Advanced-Cursor-...-/jatidevelopments",
+            "https://mcp.so/server/mcp-puppeteer-advanced/jatidevelopments",
+            "https://mcp.so/server/Mcp-Puppeteer-Server/rotexhawk"
+        ]
+    },
+    "git": {
+        "official_descp": NaN,
+        "descrp": [
+            "Tools to read, search, and manipulate Git repositories"
+        ],
+        "smi_score": [
+            0.0
+        ],
+        "official_link": "https://mcp.so/server/git/modelcontextprotocol",
+        "link": [
+            "https://mcp.so/server/git"
+        ]
+    }
+}

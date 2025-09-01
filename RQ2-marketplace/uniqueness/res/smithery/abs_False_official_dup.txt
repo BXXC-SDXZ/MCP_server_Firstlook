@@ -1,0 +1,8 @@
+context7: 6
+desktop commander: 4
+tavily mcp server: 3
+mongodb mcp server: 3
+supabase mcp server: 3
+bright data: 2
+stagehand: 1
+veyrax mcp: 1

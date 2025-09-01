@@ -1,0 +1,3994 @@
+MCP Server: 33
+Shopify MCP Server: 12
+Linear MCP Server: 10
+Figma MCP Server: 10
+Building a Remote MCP Server on Cloudflare (Without Auth): 9
+YouTube MCP Server: 8
+ClickUp MCP Server: 8
+MCP example Netlify Express: 7
+Firecrawl MCP Server: 6
+Brave Search MCP Server: 6
+Microsoft Copilot Studio ❤️ MCP: 6
+mcp: 6
+Databricks MCP Server: 6
+Telegram MCP Server: 6
+Bear MCP Server: 6
+Twitter MCP Server: 6
+Elasticsearch MCP Server: 6
+Prometheus MCP Server: 6
+GitLab MCP Server: 5
+MySQL MCP Server: 5
+ClickHouse MCP Server: 5
+Google Calendar MCP Server: 5
+Zoom MCP Server: 5
+OneNote MCP Server: 5
+MCP Server Starter: 5
+Hello World MCP Server: 5
+Todoist MCP Server: 5
+GitHub MCP Server: 5
+Introduction: 5
+Excel MCP Server: 5
+PostgreSQL MCP Server: 5
+Solana Agent Kit MCP Server: 5
+Spotify MCP Server: 5
+Canvas MCP Server: 4
+Sequential Thinking MCP Server: 4
+Crawl4AI MCP Server: 4
+Things MCP Server: 4
+Knowledge Graph Memory Server: 4
+Obsidian MCP Server: 4
+SQLite MCP Server: 4
+OpenSearch MCP Server: 4
+Advanced PocketBase MCP Server: 4
+Perplexity MCP Server: 4
+Confluence MCP Server: 4
+Unsplash MCP Server: 4
+Semantic Scholar MCP Server: 4
+Shodan MCP Server: 4
+spotify-mcp MCP server: 4
+BrowserTools MCP: 4
+Netlify MCP Server: 4
+Sentry MCP Server: 3
+Wikipedia MCP Server: 3
+n8n Workflow Builder MCP Server: 3
+MCP-researcher Server: 3
+Tmux MCP Server: 3
+Google Workspace MCP Server: 3
+RAG Documentation MCP Server: 3
+MCPControl: 3
+Plane MCP Server: 3
+Bright Data MCP: 3
+modelcontextprotocol: 3
+Apple MCP tools: 3
+Fetch MCP Server: 3
+Tempo MCP Server: 3
+Puppeteer: 3
+Memory Cache Server: 3
+IaC Memory MCP Server: 3
+WordPress MCP Server: 3
+MarkItDown MCP Server: 3
+Awesome MCP Servers: 3
+Filesystem MCP Server: 3
+Redis MCP Server: 3
+BigQuery MCP Server: 3
+MongoDB MCP Server: 3
+Todoist MCP: 3
+DevRev MCP server: 3
+Desktop Commander MCP: 3
+Memory MCP Server: 3
+CoinGecko API Server MCP: 3
+Monarch Money MCP Server: 3
+PocketBase MCP Server: 3
+Hacker News MCP Server: 3
+Yahoo Finance MCP Server: 3
+MCP Yahoo Finance: 3
+iOS Simulator MCP Server: 3
+Dart MCP Server: 3
+Kite MCP Server: 3
+MCP Manager: 3
+CCXT MCP Server: 3
+Notion MCP Server: 3
+vercel-mcp: 3
+Meta MCP Server: 3
+iterm-mcp: 3
+FastMCP Todo Server: 3
+Bazel MCP Server: 3
+Shell and Coding agent for Claude and Chatgpt: 3
+Image Generation MCP Server: 3
+MCP Spotify Server: 3
+Mapbox MCP Server: 3
+Share MCP - Model Context Protocol MCP Server导航站: 3
+MCP Wait Timer Server: 3
+ESA MCP Server: 3
+Coin: 3
+Firebase MCP Server: 3
+Storybook MCP Server: 3
+MCP Chart Server: 2
+Salesforce MCP Server: 2
+Meilisearch MCP Server: 2
+mcp-memory-libsql: 2
+LibSQL Model Context Protocol Server: 2
+🤖 AI Development Assistant MCP Server: 2
+mentor-mcp-server: 2
+frontend-review-mcp: 2
+MCP Chain of Draft Server 🧠: 2
+DexScreener MCP Server: 2
+ERPNext MCP Server: 2
+MCP LLMS-TXT Documentation Server: 2
+Open Deep Research MCP Server: 2
+MCP Web Research Server: 2
+RhinoMCP - Rhino Model Context Protocol Integration: 2
+HDW MCP Server: 2
+mcp-server-webcrawl: 2
+IACR Cryptology ePrint Archive MCP Server: 2
+IN PROGRESS: 2
+MCP Server Example: 2
+workers-mcp: 2
+Slack MCP Server: 2
+PHP MCP Server: 2
+Alpha Vantage Stock MCP Server: 2
+Semgrep Server: 2
+Lighthouse MCP Server: 2
+Playwright-Lighthouse MCP Server: 2
+MCP Documentation Server: 2
+🪟 Windows-MCP: 2
+Cursor10x Memory System: 2
+Meta Ads MCP: 2
+Travel Planner MCP Server (@gongrzhe/server-travelplanner-mcp): 2
+App SEO AI: 2
+mcp-sequentialthinking-tools: 2
+MCP Think Tool Server: 2
+Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP: 2
+Workflows MCP v0.1.0: 2
+Branch Thinking: 2
+alibabacloud-mcp-server: 2
+OpenSCAD MCP Server: 2
+Pipedream MCP server: 2
+IDA Pro MCP Server: 2
+Data.gov MCP Server: 2
+Data Gouv MCP Server: 2
+HubSpot MCP Server: 2
+Grasp: 2
+MCP Linear: 2
+mcp-server-linear: 2
+mcp-linkedinads: 2
+Stripe Agent Toolkit: 2
+MCP-Server: 2
+MCP-Bridge: 2
+Odoo MCP Server: 2
+MCP Server for Odoo: 2
+MCP servers powered by ACI.dev: 2
+ramp-mcp: A Ramp MCP server: 2
+AbletonMCP - Ableton Live Model Context Protocol Integration: 2
+OpenAPI MCP Server: 2
+RedNote MCP: 2
+21st.dev Magic AI Agent: 2
+C++ Builder MCP Server: 2
+Clarion Builder MCP Server: 2
+Web Search MCP Server: 2
+Litecoin Core integration/staging tree: 2
+Rootly MCP Server: 2
+MCP Apple Notes: 2
+repo-template: 2
+MCP Rust CLI server template: 2
+MCP Server Template for Cursor IDE: 2
+MCP Demo: 2
+webdev-mcp: 2
+Prysm: An Ethereum Consensus Implementation Written in Go: 2
+🌈 Iris MCP Server: 2
+Amadeus MCP Server: 2
+LlamaIndex MCP demos: 2
+Home Assistant MCP Server: 2
+Home Assistant MCP: 2
+AGE-MCP-Server: 2
+MCP Etherscan Server: 2
+ENS MCP Server: 2
+readme.md: 2
+mcp-hfspace MCP Server 🤗: 2
+Swagger MCP: 2
+mcp-server-fetch-python: 2
+Setup: 2
+MCP Server - My Apple Remembers: 2
+HotNews MCP Server: 2
+AI Customer Support Bot - MCP Server: 2
+K8s MCP Server: 2
+Discord MCP Server: 2
+mcp-server-git: A git MCP server: 2
+Google Maps MCP Server: 2
+Time MCP Server: 2
+Google Drive server: 2
+PostgreSQL: 2
+MCP Filesystem Server: 2
+🗄️ MongoDB MCP Server for LLMS: 2
+BigQuery MCP server: 2
+Coinmarket MCP server: 2
+MCP Webscan Server: 2
+Portkey MCP Server: 2
+Scryfall MCP Server: 2
+Neon MCP Server: 2
+MCP iCal Server: 2
+MCP 3D Printer Server: 2
+MCP Atlassian: 2
+Memory Bank MCP Server: 2
+MCP Reasoner: 2
+Swagger MCP Server: 2
+Tavily MCP Server: 2
+Bing Search MCP Server: 2
+Unofficial PubChem MCP Server: 2
+Supabase MCP Server: 2
+MCP Server Obsidian Omnisearch: 2
+mcp-server-opensearch MCP server: 2
+MCP Code Checker: 2
+🔍 vet: 2
+MCP Server Runner: 2
+飞书 MCP 服务器: 2
+CS Insight: 2
+MCP Server Readability Parser (Python / FastMCP): 2
+Model Context Protocol (MCP) Server + Cloudflare OAuth: 2
+模型上下文协议 (MCP) 服务器 + 飞书 OAuth: 2
+Clover MCP (Model Context Protocol) Server: 2
+Puppeteer MCP Server (Python Implementation): 2
+ESXi MCP Server: 2
+CoinGecko Server: 2
+ffmpeg-mcp: 2
+FFmpeg MCP Server: 2
+Monad MCP Server: 2
+YouTube Music MCP Server: 2
+Cursor Talk to Figma MCP: 2
+Pokemon MCP Server: 2
+Terraform MCP Server: 2
+DeepSeek MCP Server: 2
+scaflog-zoho-mcp-server MCP server: 2
+PubNub Model Context Protocol (MCP) Server for Cursor IDE: 2
+Mindmap MCP Server: 2
+Email sending MCP 💌: 2
+QGISMCP - QGIS Model Context Protocol Integration: 2
+Placid.app MCP Server: 2
+Azure DevOps MCP Server by Zubeid Hendricks: 2
+md-pdf-mcp (Markdown to PDF MCP Server): 2
+MCP Gateway: 2
+📱 MCP Server for iOS Simulator: 2
+REAPER MCP Server: 2
+CMD MCP Server: 2
+mcp-server: 2
+MCP Server: Elasticsearch semantic search tool: 2
+mcp-time: 2
+Damn Vulnerable Model Context Protocol (DVMCP): 2
+Maestro MCP Server: 2
+Embedding MCP Server: 2
+dbx-mcp-server: 2
+@enemyrr/mcp-server-pagespeed: 2
+PageSpeed MCP Server: 2
+Browserbase MCP Server: 2
+Keynote-MCP: 2
+Feishu/Lark OpenAPI MCP: 2
+Manifold Markets MCP Server: 2
+mcp-remote-server: 2
+FastAPI Hello World Application: 2
+MCP Test Client: 2
+Snowflake Cube Server: 2
+neon-mcp: 2
+playwright-mcp: 2
+Whois MCP: 2
+Whissle MCP Server: 2
+MCP Server Office: 2
+Weather API MCP Server: 2
+Weather MCP Server: 2
+revit-mcp: 2
+Google Search MCP Server: 2
+Cursor Sound MCP: 2
+Getting Started: 2
+DataForSEO MCP Server: 2
+MCP Server - Oracle DB Context: 2
+clickup-operator MCP server: 2
+Cryptocurrency Market Data MCP Server: 2
+MCP File System Server: 2
+rs_filesystem: MCP Rust Filesystem tools: 2
+MCP Terminal Server: 2
+Inked: 2
+MCP Server Neurolorap: 2
+DuckDuckGo MCP Server: 2
+Tiny Cryptography MCP Server: 2
+Chrome MCP Server: 2
+Slowtime MCP Server: 2
+YouTube to LinkedIn MCP Server: 2
+Mailgun MCP Server: 2
+n8n MCP Server: 2
+Model Context Protocol (MCP) Server for dify workflows: 2
+drupal-modules-mcp MCP Server: 2
+Table of Contents: 2
+Dub.co MCP Server: 2
+Hive MCP Server: 2
+@hiveflow/mcp-server: 2
+MCP Python Interpreter: 2
+Terminal MCP Server: 2
+beeper-mcp: 2
+GitHub MCP Server Practice Repository: 2
+Docfork: 🌿 Fresh docs for your AI Code Editor: 2
+Google Flights MCP Server: 2
+MCP Expert Server: 2
+🐢🚀 Node.js Sandbox MCP Server: 2
+MCP Server Box: 2
+box-mcp-server: 2
+metoro-mcp-server: 2
+🌤️ Weather MCP Tool (Latinum Paywalled Agent Tool): 2
+MCP Sample Project | MCP 示例项目: 2
+xiaozhi MCP Aggregate | 小智 MCP 集合项目: 2
+MCP Get Community Servers: 2
+gru-sandbox: 2
+Filesystem MCP Server (@sylphlab/filesystem-mcp): 2
+Java-MCPlugin-ChallengeServerBungeePlugin: 2
+MCP Shell Server: 2
+Shell MCP Server: 2
+Model Context Protocol (MCP) Server: 2
+Universal Source Management System: 2
+Solana MCP Server: 2
+Elasticsearch: 2
+Elasticsearch 7.x MCP Server: 2
+MCP Server Template 🛠️: 2
+Redis MCP Server (@gongrzhe/server-redis-mcp@1.0.0): 2
+MCP Server to Auto commit changes 🛠️: 2
+create-mcp: 2
+Modular Outlook MCP Server: 2
+AACT Clinical Trials MCP Server: 2
+MCP Server Discord Webhook: 2
+ArXiv MCP Server: 2
+Phalcon MCP Server: 2
+Jina AI MCP Server: 2
+Anthropic MCP Server: 2
+Gitee MCP Server: 2
+MCP Server Manager: 2
+Simple Weather MCP Server example from Quickstart: 2
+Logseq MCP Tools: 2
+MCP Server for Prometheus: 2
+NS Travel Information MCP Server: 2
+@orbit-logistics/notion-mcp-server: 2
+Neo4j MCP Server: 2
+MCP Calculator Server: 2
+Eyevinn Open Source Cloud MCP Server: 2
+Browser Tools MCP Extension: 2
+Paperless-NGX MCP Server: 2
+Telegram MCP server: 2
+Reaper MCP Server: 2
+DynamoDB MCP Server: 2
+PostgreSQL Model Context Protocol (PG-MCP) Server: 2
+AI Chat Desktop Applications: 2
+Mermaid MCP Server: 2
+📊 a-share-mcp 📈: 2
+TypeScript Definition Finder MCP Server: 2
+Postman MCP Server: 2
+Voice Call MCP Server: 2
+mcp-server-prometheus: 2
+Quick-start Auto MCP : All in one Claude Desktop and Cursor: 2
+Radare2 MCP Server: 2
+Contentful MCP Server: 2
+Dify as MCP Server: 2
+Dify Workflows MCP 服务器 (TypeScript): 2
+arXiv Search MCP Server: 2
+🧠 arXiv Research Assistant MCP Server: 2
+arXiv MCP Server: 2
+Emergency Medicare Management MCP Server: 2
+mcp-server-collector MCP server: 2
+Azure DevOps MCP Server: 2
+ChatGPT MCP Server: 2
+Daytona MCP Interpreter: 2
+emcee: 2
+Flightradar24 MCP Server 🛩️: 2
+MCP with Pages Functions ：Geo Location Demo: 2
+MCP Code Analyzer: 2
+Maven Dependencies MCP Server: 2
+esa-mcp-server: 2
+Strava MCP Server: 2
+ConnectWise Manage MCP Server: 2
+📖 EventCatalog - MCP Server: 2
+MCP Replicate FLUX: 2
+Qdrant MCP Server: 2
+Next.js MCP Server: 2
+DigitalOcean MCP Server: 2
+Telegram Client Library and MCP Server: 2
+DNSDumpster - MCP Server: 2
+Metaplex MCP Server: 2
+MCP Node.js Debugger: 2
+🚦 APK Security Guard MCP Suite: 2
+Keboola MCP Server: 2
+supabase-nextjs-server MCP Server: 2
+Instagram DM MCP Server: 2
+@magicuidesign/mcp: 2
+Dune Analytics MCP Server: 2
+MobSF-MCP: 2
+ActionKit MCP Starter: 2
+KognitiveKompanion: 2
+MCP Todoist: 2
+Apple Shortcuts MCP Server 🤖: 2
+Shortcut MCP Server: 2
+mcp-server-cex-bn: 2
+Zotero MCP Server: 2
+PowerShell MCP Server: 2
+Insecure MCP Demo: 2
+Bybit MCP Server: 2
+cosense-mcp-server MCP Server: 2
+MCP Server Chart: 1
+quickchart-server MCP Server: 1
+MCP Mermaid: 1
+Data BI MCP Server: 1
+MCP Server - TradingView Chart Image Scraper: 1
+agentziwei: 1
+helm-chart-cli-mcp: 1
+Quick Chart MCP Server: 1
+Mermaid Chart MCP: 1
+excel-chart-mcpserver: 1
+repomix: 1
+SafeLine MCP Server: 1
+mcpso: 1
+The UI for Monorepos, providing visual workflows and enriching your AI Chat with deep insights: 1
+Anyquery: 1
+Supermemory MCP - Universal Memory across LLMs: 1
+mcp-directory: 1
+mcp-server-chatsum: 1
+MotherDuck MCP Server: 1
+mcp-server-motherduck MCP server: 1
+mcp.ts: 1
+WireMCP: 1
+TSGram MCP 🚀: 1
+MCP TypeScript Template: 1
+MCP Server for Drupal: 1
+mcp-langchain-ts-client: 1
+WhatsApp MCP Server (TypeScript/Baileys): 1
+MCP To LangChain Tools Conversion Utility / TypeScript: 1
+MATLAB MCP Server: 1
+Claude TypeScript MCP Servers: 1
+MCP Agent TypeScript Port: 1
+Bucket: 1
+Bucket CLI: 1
+Unichat MCP Server in TypeScript: 1
+tsrs-mcp-server: 1
+Sandbox MCP Server: 1
+Printify MCP Server: 1
+FastMCP 🚀: 1
+plg_handler_mcp: 1
+MCP TypeScript SDK: 1
+Awesome MCP Clients: 1
+Genkit MCP: 1
+Unified MCP Client Library: 1
+Unity MCP Package: 1
+n8n-nodes-mcp-client: 1
+xcodebuildmcp: 1
+Open Source MCP CLient Library: 1
+mcp-remote: 1
+MCP Language Server: 1
+Neo4j MCP Clients &amp; Servers: 1
+Claude Debugs For You: 1
+Wren Engine: 1
+MCPSharp: 1
+SSE-based Server and Client for MCP: 1
+Unity MCP (Server + Plugin): 1
+Model Context Protocol Resources &amp; Guides: 1
+mcp-turso: 1
+MCP libSQL by xexr: 1
+LLM Context: 1
+✨ Lucidity MCP 🔍: 1
+🚀 GitLab MR MCP: 1
+Tripadvisor MCP Server: 1
+Talk to Multiple AIs Through Claude Code: 1
+Code Review Server: 1
+Grumpy Senior Developer as MCP server: 1
+Task Manager MCP Server: 1
+code-reviewer-fixer-agent: 1
+paperpal: 1
+GitLab MCP for Code Review: 1
+MCP Security Analyst: 1
+@vibesnipe/code-review-mcp: 1
+🇨🇭 Swiss MCP: A Swiss Army Knife for Multi-Step AI Task Orchestration 🚀: 1
+better-auth-mcp: 1
+Security Copilot and Sentinel MCP Server: 1
+Microsoft Sentinel MCP Server: 1
+NPM Sentinel MCP: 1
+ScreenshotOne MCP Server: 1
+ScreenshotOne.com - MCP Server: 1
+ADEO CTI MCP Server: 1
+Smartsheet MCP Server: 1
+VulniCheck MCP Server: 1
+Argus - Repository Analysis and Security Assessment Tool: 1
+mcp_server_client_assessment: 1
+Hangfire MCP: 1
+MediaWiki MCP Server 🚀: 1
+mcp-wikipedia: 1
+Wikipedia MCP Image Crawler: 1
+Valyu MCP Server: 1
+🧠 Wikipedia Agent with LangGraph + MCP: 1
+OpenEdu MCP Server: 1
+wikisearch: 1
+MCP-Wikipedia-API-Server: 1
+mcp-wiki: 1
+Dexscreener MCP server: 1
+Frappe MCP Server: 1
+mcp-frappe: 1
+Prisma: 1
+AWS Labs MySQL MCP Server: 1
+dbhub: 1
+MCP Server for MySQL based on NodeJS: 1
+MCP Alchemy: 1
+mcp_mysql_server: 1
+DBCode - Data Beside Code: 1
+@f4ww4z/mcp-mysql-server: 1
+MCP 数据库工具: 1
+MySQL查询服务器: 1
+MySQL Database Access MCP Server: 1
+go-mcp-mysql: 1
+mysql-mcp-server: 1
+@enemyrr/mcp-mysql-server: 1
+MySQL Schema MCP Server: 1
+AnalyticDB for MySQL MCP Server: 1
+Cline – #1 on OpenRouter: 1
+Browser Tools MCP Server: 1
+Browser Tools Server: 1
+ACI: Open-Source Infra to Power Unified MCP Servers: 1
+Playwright MCP Server 🎭: 1
+JetBrains MCP Proxy Server: 1
+Kubectl MCP Tool: 1
+Context Portal MCP (ConPort): 1
+🌟 CloudBase AI ToolKit: 1
+FileScopeMCP (Model Context Protocol) Server: 1
+Alpaca MCP Server: 1
+Opik MCP Server (Model Context Protocol): 1
+SEO MCP: 1
+Snyk Language Server (Snyk-LS): 1
+Splunk MCP (Model Context Protocol) Tool: 1
+Stata MCP Extension for VS Code and Cursor: 1
+Kollektiv MCP: 1
+@reapi/mcp-openapi: 1
+Git Repo Research MCP Server: 1
+Heurist Mesh: 1
+Web Research MCP Server: 1
+Open Deep Research Clone MCP Server: 1
+ATLAS: Task Management System: 1
+Zotero MCP: Your Research Library in Claude: 1
+🔍 GPT Researcher MCP Server: 1
+@agentics.org/agentic-mcp: 1
+Tripo MCP Server: 1
+MCP Server for Deep Research: 1
+MCP Simple PubMed: 1
+Web3 Research MCP: 1
+Built For use with Cline + VS Code!: 1
+MCP Deep Web Research Server (v0.3.0): 1
+Roam Research MCP Server: 1
+nexonco-mcp: 1
+Rhino MCP Server: 1
+gh_mcp_server: 1
+RhinoMCP: 1
+Grasshopper MCP サーバー: 1
+Rhino-MCP-Server: 1
+NOTE: This project has been graduated and moved to the MCP Java SDK and Spring AI MCP. See you there! This repository is now archived.: 1
+Model Context Protocol servers (ARCHIVED): 1
+Anna's Archive MCP Server (and CLI Tool): 1
+⚡ Archive Agent: 1
+Fusion 360 MCP Server: 1
+MCP Excel Reader: 1
+MCP Open Library: 1
+Oorlogsbronnen MCP Server: 1
+Figma MCP Server with Chunking: 1
+🧬 MCP PRIDE Archive Search Server: 1
+MCP-Archive.com: 1
+Guardian MCP Server: 1
+@vj-presidio/specif-ai-mcp-server: 1
+URL Reputation and Validity Checker: 1
+Whale Tracker MCP Server: 1
+Yandex Tracker MCP Server: 1
+Техническое задание: MCP сервер для Яндекс.Трекер: 1
+Solana Trading MCP Server: 1
+Dev Memory Server: 1
+Terminal Task Tracker: 1
+Lighthouse MCP: 1
+Task Tracker: 1
+N2YO Satellite Tracker MCP Server: 1
+mcp-omnisearch: 1
+Open-WebSearch MCP Server: 1
+@suthio/brave-deep-research-mcp: 1
+Docker MCP Server 🐳⚡: 1
+mcp2brave: 1
+MCP Servers Configuration for Cursor: 1
+Brave Search MCP with SSE Support: 1
+mcp-server-brave: 1
+Zed Brave Search Context Server: 1
+Braze Universal MCP Server: 1
+🌐 Integrando MCP com Computação Quântica: Amazon Braket: 1
+MCP Server for Zerocracy: 1
+WORK IN PROGRESS - USE WITH CAUTION - Windows:: 1
+Cline Memory Bank: 1
+‼️Work In Progress: pre-alpha: 1
+Excalidraw MCP Server: 1
+WORK IN PROGRESS - USE WITH CAUTION - Windows: 1
+Webpage Screenshot MCP Server: 1
+Claude Chunks: 1
+Simple Memory Extension MCP Server: 1
+🚧 Work in Progress 🚧: 1
+Task Planner MCP Server: 1
+🧠 Anki MCP: 1
+Very much a work in progress: 1
+Skynet-MCP (THIS PROJECT IS A WORK IN PROGRESS): 1
+MCP Troubleshooter [Work in Progress]: 1
+GeoServer MCP Server: 1
+@zealgeo/mcp-geo-server: 1
+Using watsonx.ai Flows Engine with Model Context Protocol (MCP): 1
+MCP Guide Server (v0.1.5): 1
+MCP with Gemini Tutorial: 1
+Watch the tutorial video on how to create an MCP server from here.: 1
+Tutorial: Create an MCP Server in .NET using C#: 1
+MCP + LangGraph Agent: 1
+mcp-tutorials: 1
+PocketFlow MCP Server: 1
+Monad MCP Tutorial: 1
+MCP Python Tutorial: 1
+MCP (Model Context Protocol) Tutorial: 1
+GitHub MCP Server Tutorial: 1
+eSignatures NDA Tutorial: 1
+mcp-proxy: 1
+MCP Proxy: 1
+dify-plugin-tools-mcp_sse: 1
+🚀 MCPOmni Connect - Universal Gateway to MCP Servers: 1
+MCP Gateway, Server, and Client: 1
+MCP over SSE: 1
+AI Federation Network: 1
+Another™ MCP Server for Binary Ninja: 1
+🚀 Nchan MCP Transport: 1
+mcp-server-proxy: 1
+WebSearch-MCP: 1
+bun-mcp-sse-transport: 1
+TfNSW Realtime Alerts MCP Server: 1
+Elixir MCP Server: 1
+MCP boilerplate: Model Context Protocol Server: 1
+Elysia MCP Plugin: 1
+UI-TARS Desktop: 1
+Magnitude MCP: 1
+🧠 Vibe Check MCP: 1
+🚀 Revolutionary Screen Monitor MCP Server: 1
+mcp-vision by: 1
+MCP Image Recognition Server: 1
+PROJECT IN EXTREME POC MODE - NOTHING STABLE AT ALL - DOCS AND VISION ARE PURELY NOTES: 1
+Puppeteer vision MCP Server: 1
+🚀 OpenCV MCP Server: 1
+MCP Read Images: 1
+Grok-MCP: 1
+YouTube Vision MCP Server (youtube-vision): 1
+Solana-MCP-Trading-Server: 1
+Visio MCP Server: 1
+Orion Vision MCP Server 🚀: 1
+AI Vision MCP Server: 1
+cv-mcp-tools: 1
+hevy-mcp: Model Context Protocol Server for Hevy Fitness API: 1
+Pierre Fitness API: 1
+Pierre MCP Server: 1
+Whoop API MCP Server: 1
+Clickhouse MCP server: 1
+ClickHouse MCP сервер: 1
+octomind mcp server: let agents create and manage e2e tests: 1
+Sketchfab MCP Server: 1
+Sketchfab MCP: 1
+MCP-Inscription Server: 1
+APIMatic Validator MCP Server: 1
+Refact - Open Sourced AI Software Development Agent: 1
+genkit: 1
+DevDocs by CyberAGI 🚀: 1
+Basic Memory: 1
+Deebo: Autonomous Debugging Agent MCP Server: 1
+Deebo: Your AI Agent's Debugging Partner: 1
+MCP Link - Seamlessly Integrate Any API with AI Agents: 1
+LINE Bot MCP Server: 1
+JADX-AI-MCP: 1
+AI Tools for Developers: 1
+MCP for Security Tools: 1
+clickup-mcp-server: 1
+mcp-google-sheets: A Google Sheets MCP server: 1
+Xero MCP Server: 1
+AgentQL MCP Server: 1
+anki-mcp MCP Server: 1
+Nutrient DWS MCP Server: 1
+Awesome MCP Servers - Concise List: 1
+Model Context Protocol Server for Apache OpenDAL™: 1
+Open Data Model Context Protocol: 1
+OpenAlex Author Disambiguation MCP Server: 1
+Snak (alpha): 1
+Alpha Vantage MCP Server: 1
+Alphavantage MCP Server: 1
+MCP-wolfram-alpha: 1
+MCP Wolfram Alpha (Server + Client): 1
+Unreal Engine MCP Server for Claude Desktop: 1
+AlphaFold MCP Server: 1
+MCP Server for Wolfram Alpha Integration: 1
+Financial Analysis MCP Server: 1
+MCP Server for Stock Market Analysis: 1
+Financial Data - MCP Server: 1
+Base MCP Server: 1
+Alpha Vantage MCP Server 📈: 1
+MCP Bridge Server: 1
+Binance Alpha MCP: 1
+MCP Stock Market: 1
+Blender MCP + Cursor AI MCP = cuBe: 1
+MCPollinations Multimodal MCP Server: 1
+Penrose MCP Server: 1
+semgrep: 1
+[beta] Semgrep MCP Server: 1
+MCP Server Semgrep: 1
+lighthouse-mcp-server: 1
+Context7 MCP - Up-to-date Docs For Any Cursor Prompt: 1
+Context7 MCP - Up-to-date Docs For Any Prompt: 1
+@mastra/mcp-docs-server: 1
+AWS Documentation MCP Server: 1
+AWS Labs Code Documentation Generation MCP Server: 1
+GitMCP: 1
+Model Context Protocol (MCP) Server + Cloudflare Documentation (via Vectorize): 1
+docs-mcp-server MCP Server: 1
+MCP Servers Hub: 1
+🚀 GitKraken CLI: 1
+ctx: The missing link between your codebase and your LLM. Context as Code (CaC) tool with MCP server inside.: 1
+Apple Doc MCP: 1
+MCP Server for RagRabbit Documentation Search: 1
+mcp-dingdingbot-server: 1
+MCP DingDing Bot: 1
+MCP Fathom Analytics: 1
+Windows CLI MCP Server: 1
+KiCad MCP Server: 1
+Puppeteer MCP Server: 1
+MCP Windows Desktop Automation: 1
+MCP Dockmaster: 1
+🤖 Welcome to the Robot Takeover Setup Script! 🚀: 1
+MCP-Logic: 1
+Disclaimer: 1
+Outlook Calendar MCP Tool: 1
+Windows-MCP-Server-Installation-Verification-Guide: 1
+mcp-windows: 1
+mcp-wsl-exec: 1
+Agentset MCP: 1
+spurs-blog-mcp-server: 1
+Persistent-Code MCP Server with LlamaIndex: 1
+MCP-server: 1
+LLM.txt MCP Server: 1
+🚀 Cursor10x is now DevContext 🚀: 1
+PubTator MCP Server: 1
+Coder DB - AI Memory Enhancement System: 1
+🧿 EMOJIKEY SERVER: DIGITAL CONSCIOUSNESS PERSISTENCE MODULE 🧿: 1
+MsSqlMCP: 1
+local-llm-obsidian-knowledge-base: 1
+Git Forensics MCP: 1
+mcp-qdrant-codebase-embeddings: 1
+RAPID: Relational Abstract Programmatic Insight Discovery: 1
+MCP Server for Zep Cloud: 1
+MCP Source Relation Server: 1
+famxplor-family-travel-mcp-server: 1
+Facebook Ads Library MCP Server: 1
+Facebook Ads MCP Server: 1
+yt-dlp-mcp: 1
+Facebook MCP Server: 1
+Facebook Ads Management Control Panel (MCP): 1
+mcp-idb: 1
+facebook-mcp-server-by-cdata: 1
+facebook-ads-mcp-server-by-cdata: 1
+factbook-mcp: 1
+PlanetScale CLI: 1
+tfmcp: Terraform Model Context Protocol Tool: 1
+Software Planning Tool 🚀: 1
+Unreal Engine Generative AI Support Plugin: 1
+Armor Crypto MCP: 1
+ManusMCP: 1
+Jira MCP: 1
+🔄 Kanban MCP: 1
+License: 1
+mcp-micromanage: 1
+Yellhorn MCP: 1
+Amazon Nova Canvas MCP Server: 1
+Vibe-Eyes: 1
+Amazon Bedrock MCP Server: 1
+Canvas MCP: 1
+JSON Canvas MCP Server: 1
+aws-nova-canvas-mcp: 1
+Canvas LMS MCP Server: 1
+School MCP: 1
+Claude Canvas MCP: 1
+Canvas Student MCP: 1
+Canva Content MCP Server: 1
+Canva Universal MCP Server: 1
+ntfy-mcp: Your Friendly Task Completion Notifier: 1
+MCP Atlassian Server (by phuc-nt): 1
+ntfy-me-mcp: 1
+Ntfy MCP Server: 1
+Prometheus Alertmanager MCP: 1
+Ntropy MCP server: 1
+YNAB MCP Server: 1
+ntfy-mcp-server: 1
+Release Monitor ID Tool: 1
+mcp-ntopng: 1
+mcp-server-ntopng: 1
+ntropy-mcp MCP server: 1
+Radicle + GitHub MCP Server: 1
+DeepChat: 1
+Gemini MCP Server for Claude Code: 1
+Sequential Thinking Multi-Agent System (MAS): 1
+Code Reasoning MCP Server: 1
+Think Tool MCP Server: 1
+Deepseek Thinker MCP Server: 1
+MCP Thinking Server: 1
+Think MCP Tool: 1
+DeepSeek Reasoner MCP: 1
+shannon-thinking: 1
+Smart-Thinking: 1
+Amazon ECS MCP Server: 1
+scrapbox-cosense-mcp: 1
+scrapbox-mcp MCP Server: 1
+WebScraping.AI MCP Server: 1
+Deep-research: 1
+@just-every/mcp-read-website-fast: 1
+Scraper.is MCP: 1
+🔍 Prysm MCP Server: 1
+Olostep MCP Server: 1
+mcp-scraper-engine: 1
+MCP Server for Windsurf/Roocode: 1
+FireCrawl MCP Server: 1
+MCP Router: 1
+AWS Model Context Protocol (MCP) Server: 1
+THE PROJECT IS MOVED: 1
+🧠 MCP - Titan Memory Server implementation: 1
+CircleCI MCP Server: 1
+Strapi MCP Server: 1
+Notion API MCP: 1
+AIO-MCP Server: 1
+MCP Think Tank: 1
+🤖 Claude Code MCP Server: 1
+File Operations MCP Server: 1
+PostgreSQL Full Access MCP Server: 1
+Entscheidsuche MCP Server: 1
+glif-mcp-server: 1
+MyMCPSpace MCP Server: 1
+glif-mcp: 1
+ZoomEye MCP Server: 1
+Zoom Transcript MCP Server: 1
+MCP Server for Zoom (No Auth): 1
+Zoom API MCP Server: 1
+Zoomeye MCP Server: 1
+Admin Transactions MCP: 1
+supergateway: 1
+MCPHub: Your Ultimate MCP Server Hub: 1
+NestJS MCP Server Module: 1
+MCP Server Gateway: 1
+Python 从0到1构建MCP Server &amp; Client: 1
+Pentest MCP: Professional Penetration Testing Toolkit: 1
+FastAPI MCP SSE: 1
+🌊 HTTP + SSE MCP Server w/ OAuth: 1
+SSE MCP: 1
+DataGov Israel MCP Server: 1
+MCP Server for DataGovMy: 1
+Data.gov.my MCP Server: 1
+Sophtron MCP Server: 1
+Chess.com MCP Server: 1
+Chess Analysis Assistant for Claude: 1
+MCP Chess Server: 1
+MCP Chess: 1
+Lichess MCP: 1
+ChessPal Chess Engine - A Stockfish-powered chess engine exposed as an MCP server using FastMCP: 1
+mcp-stockfish 🐟: 1
+Chess MXCP Server: 1
+MCP-Server 项目文档: 1
+Thunder Client License Manager MCP Server: 1
+pure.md MCP server: 1
+Contentful Delivery MCP Server: 1
+mcptix: 1
+TrackMage MCP Server - Shipment Tracking API &amp; Logistics API Integration: 1
+MCP Math Server: 1
+MCP Goodnews: 1
+Atom of Thoughts (AoT): 1
+Job Searchoor MCP Server: 1
+Crypto Sentiment MCP Server: 1
+MalwareBazaar_MCP: 1
+BlockBeats MCP Server: 1
+WebPerfect MCP Server: 1
+Volume Wall Detector MCP: 1
+💜 SmartLead MCP Server - Cold Email Automation for AI: 1
+MCP Analytics Middleware: 1
+ETF Flow MCP: 1
+Bridge Rates MCP Server: 1
+MCP Email Verify: 1
+Goose App Maker: 1
+NFT Analytics MCP: 1
+MCP Shrimp Task Manager: 1
+MCP Marketplace: 1
+Foundry MCP Server: 1
+PDF Reader MCP Server (@sylphlab/pdf-reader-mcp): 1
+mcp-svelte-docs: 1
+SQLite Explorer MCP Server: 1
+iMessage Query MCP Server: 1
+MCP Server: Scalable OpenAPI Endpoint Discovery and API Request Tool: 1
+Railway MCP Server: 1
+🚀 TaskMaster: Todoist MCP for Cursor AI: 1
+gomcptest: Proof of Concept for MCP with Custom Host: 1
+Security Audit Tool: 1
+Octodet Elasticsearch MCP Server: 1
+Octodet Keycloak MCP Server: 1
+McpDocServer: 1
+Documentation Crawler &amp; MCP Server: 1
+McpDoc: 1
+McpDocs: 1
+EVM MCP Server: 1
+Docx MCP Service: 1
+@mcpdotdirect/template-mcp-server: 1
+Simple Document Processing MCP Server: 1
+Doc Scraper MCP Server: 1
+Starknet MCP Server: 1
+Project Description: 1
+McpDotNet: 1
+🟣🔎 solscan-mcp: A Solscan API MCP Server in Rust: 1
+Linear Remote MCP server: 1
+Linear Regression MCP: 1
+mcp-linear: 1
+Linear MCP: 1
+Linear MCP Integration Server: 1
+takeoff-linear-mcp-server: 1
+GitHub PR MCP Server: 1
+Linear Issues MCP Server: 1
+mcp-server-flomo MCP Server: 1
+flomo-mcp: 1
+MCP-Flomo-Server: 1
+Google Ads MCP: 1
+Google Ads MCP Server 🚀: 1
+AdsPower LocalAPI MCP Server: 1
+Google Ads MCP Server: 1
+Adwords MCP: 1
+Ads Manager MCP server for Claude: 1
+Amazon Ads Manager MCP Server: 1
+amazon-ads-mcp-server: 1
+snapchat-ads-mcp-server-by-cdata: 1
+linkedin-ads-mcp-server-by-cdata: 1
+bing-ads-mcp-server-by-cdata: 1
+Pharmaceutical Benefits Scheme (PBS) MCP AI Enabled API Server: 1
+Agent MCP: 1
+Acknowledgments: 1
+MarkItDown-MCP: 1
+pydantic-ai: 1
+MCP Run Python: 1
+sqlglot: 1
+Office-PowerPoint-MCP-Server: 1
+Codegen MCP Server: 1
+MCP-Mem0: Long-Term Memory for AI Agents: 1
+MCP Create Server: 1
+E2B MCP Server (Python): 1
+AppleScript MCP Server (Dual access: python and node.js): 1
+Odoo MCP Improved: 1
+odoo-mcp-server-by-cdata: 1
+MCP Odoo Shell: 1
+MCP-Odoo: 1
+ODOO MCP SERVER - PANDUAN INSTALASI: 1
+PDB MCP Server: 1
+Fabric MCP: 1
+MCP (Model Context Protocol) for Cisco APIC: 1
+ATLAS MCP Server: 1
+Cloudzero Model Context Protocol (MCP) server: 1
+Eino: 1
+DiffuGen - Advanced Stable Diffusion Image Generator with MCP Integration: 1
+@cloudwerxlab/gpt-image-1-mcp: 1
+Cloudera Iceberg MCP Server (via Impala): 1
+Cloudera AI Agent Studio MCP Server: 1
+Cloud browser MCP Server: 1
+LYRAIOS: 1
+EdgeOne Pages MCP: 1
+Maigret MCP Server: 1
+Unity MCP: 1
+AI Distiller (aid): 1
+Octagon: MCP For Investment Research: 1
+Smart EHR MCP Server (Bun Implementation): 1
+LeetCode MCP Server: 1
+Healthcare MCP Server: 1
+mcp-searxng-public: 1
+Upbit MCP Server: 1
+mcp-server-adfin: 1
+MCPHost 🤖: 1
+hyper-mcp: 1
+Gmail AutoAuth MCP Server: 1
+Peekaboo MCP: Screenshots so fast they're paranormal.: 1
+MCP Proxy Server: 1
+Office-Word-MCP-Server: 1
+DuckDuckGo Search MCP Server: 1
+Rails MCP Server: 1
+BloodHound-MCP: 1
+systemprompt-mcp-interview: 1
+Agent Interviews MCP: 1
+req-refine MCP server: 1
+mcp-n8n-builder: 1
+MCP Human Loop Server: 1
+Weibo MCP Server (TypeScript Version): 1
+Weibo MCP Server: 1
+k8m: 1
+Kom - Kubernetes Operations Manager: 1
+MCP Currency Converter Server: 1
+MCP Server in JavaScript: 1
+Siri Shortcuts MCP Server: 1
+app-builder: 1
+Baidu AI Search: 1
+Awesome MCP FastAPI: 1
+n8n Workflow Builder MCP: 1
+Archy - Architectural Diagram Builder: 1
+mcp-builder: 1
+Knowledge Graph Builder MCP Server: 1
+NextChat with MCP Server Builder: 1
+AWS MCP Infrastructure: 1
+BVG MCP Server: 1
+superargs: 1
+mcp-akshare 项目: 1
+VideoDB Agent Toolkit: 1
+AWS Labs amazon-keyspaces MCP Server: 1
+Perplexity MCP Zerver 📋: 1
+ServeMyAPI: 1
+📚 DocsFetcher MCP Server: 1
+Fetch Browser: 1
+🔐 get-mcp-keys: 1
+Domain-MCP: 1
+YouTube Comment Downloader MCP Server: 1
+MCP Key Server: 1
+Organized AI\n\nA TypeScript client for the Model Context Protocol: 1
+MCP EVM Signer: 1
+Core MCP Server: 1
+Chroma MCP Server: 1
+Open Strategy Partners (OSP) Marketing Tools for LLMs: 1
+🛡️ BurpSuite MCP Server: 1
+MCP Server for ArangoDB: 1
+A11y MCP Server: 1
+Content Core: 1
+Langflow-DOC-QA-SERVER: 1
+systemprompt-agent-server: 1
+Hanzo MCP: 1
+MCPet: 1
+IT Tools MCP Server: 1
+MCP Python SDK: 1
+Coreflux MQTT MCP Server: 1
+systemd-coredump MCP Server: 1
+Rootly MCP Server for Cloudflare Workers: 1
+karakeep: 1
+Karakeep MCP Server: 1
+📓 GistPad MCP: 1
+Apple Notes Model Context Protocol Server for Claude Desktop.: 1
+JupyterMCP - Jupyter Notebook Model Context Protocol Integration: 1
+Zettelkasten MCP Server: 1
+Notes MCP: 1
+🌐 Nostr MCP Server: 1
+Python Notebook MCP: 1
+HackMD MCP Server: 1
+📝 Joplin MCP Server: 1
+mcp-server-jupyter: 1
+📝 MCP Notes: 1
+Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and physical devices: 1
+MCP Hardware Project Summary: 1
+Basilisp nREPL MCP Bridge: 1
+Squad MCP Server: 1
+mcp-flutterwave: 1
+web-browser-mcp-server: 1
+mcp-aoai-web-browsing: 1
+Dataset Viewer MCP Server: 1
+MCP Web Browser Server: 1
+MCP Browser Automation: 1
+Minecraft Wiki MCP: 1
+🌐 Web Browser MCP Server: 1
+MCP Tools for Obsidian: 1
+Cloudflare Remote PostgreSQL Database MCP Server + GitHub OAuth: 1
+MCP Prompts Server: 1
+Boilerplate MCP Server: 1
+Getting Started with Remote MCP Servers using Azure Functions (Node.js/TypeScript): 1
+Action MCP Example 🚀: 1
+Simple PostgreSQL MCP Server: 1
+Cline Personas MCP Server: 1
+🚀 Model Context Protocol (MCP) Server Python Template 🐍: 1
+SendGrid MCP Server: 1
+Teradata MCP Server Template: 1
+Your AI Assistant in Memory Forensics: 1
+Volatility MCP Server: 1
+Volatility3 MCP Server: 1
+Aviation Weather MCP Server: 1
+Aviation Model Context Protocol Servers: 1
+WebDAV MCP Server: 1
+A2AMCP - Agent-to-Agent Model Context Protocol: 1
+Slim-MCP: Claude Tools 🤖: 1
+Smartlead Simplified MCP Server (with Licensing): 1
+Smartlead MCP Server: 1
+Chrome MCP Server 🚀: 1
+Exa MCP Server 🔍: 1
+Fetcher MCP: 1
+简介: 1
+MCP Reddit Server: 1
+Gitingest-MCP: 1
+MCP Content Summarizer Server: 1
+SkyDeckAI Code: 1
+MCP Server Reddit: 1
+Sanity MCP server: 1
+ragflow-mcp: 1
+MCP for GitHub PR, Issues, Tags and Releases: 1
+JFrog MCP Server (🧪 Experimental): 1
+Release Notes Server: 1
+vigilant-adventure: 1
+Restaurant Booking MCP Server: 1
+Restaurant Finder: 1
+Developing a Spring AI Enhanced Restaurant Booking System Employing an API-first Approach: 1
+MCP Zotero: 1
+MCP Kali Server: 1
+awsome-kali-MCPServers: 1
+kalilinuxmcp: 1
+React MCP (Model Context Protocol): 1
+awesome_kali_MCPServers: 1
+Azure MCP (Model Context Protocol) for Claude Desktop: 1
+claude-kali-mcp-commander-old: 1
+Claude Kali MCP Integration: 1
+terminal-mcp: 1
+WeatherAPI MCP Server: 1
+piapi-mcp-server: 1
+RunwayML + Luma AI MCP Server: 1
+AI Video Generator MCP Server: 1
+Luma MCP Server: 1
+Luma AI MCP Server 🎥: 1
+FortunaMCP Server: 1
+MasterGo Magic MCP: 1
+Roblox Studio MCP Server: 1
+Postmancer: 1
+SQL Server MCP Server for Windsurf IDE: 1
+WordPress Standalone MCP Server: 1
+Useful Model Context Protocol Servers (MCPS): 1
+Lspace API &amp; MCP Server: 1
+Azure Cosmos DB MCP Server Samples: 1
+systemprompt-mcp-server: 1
+Pokemon MCP Demo: 1
+Solana Model Context Protocol (MCP) Demo: 1
+MCP Server in Node.js: 1
+Example MCP Server + Client Implementation: 1
+WASM MCP Server: 1
+Model Context Protocol and Fireproof Demo: JSON Document Server: 1
+EdgeOne Pages MCP: Geo Location Service: 1
+Part 1. Real-Time LangGraph Agent with MCP Tool Execution: 1
+Marvel MCP Server: 1
+Tembo MCP Server: 1
+tempo: 1
+⏰🧠 Temporal MCP: 1
+AWS SSO MCP Server: 1
+Vertex AI MCP Server: 1
+MCP Server for Vertex AI Search: 1
+sd-for-designers: 1
+Developer MCP Server: 1
+Model Context Protocol Server for Home Assistant: 1
+MCP-NixOS - Because Your AI Assistant Shouldn't Hallucinate About Packages: 1
+Hass-MCP: 1
+mcp-server-home-assistant: 1
+Home Assistant Model Context Protocol (MCP): 1
+Homebrew MCP Python Server: 1
+Central MCP Host: 1
+🤝 Home Assistant MCP Server: 1
+mcps: 1
+MCP Server for Fibaro HC3: 1
+Utopia MCP Server: 1
+Multiverse MCP Server: 1
+nREPL MCP Server: 1
+FastDomainCheck MCP Server: 1
+mcp-datetime: 1
+VibeCheck (This name is good): 1
+MCP Memory Server with Qdrant Persistence: 1
+MCP Documentation Search Server: 1
+TCL MCP Server with Namespace Support: 1
+Namecheap Domains MCP for Cursor: 1
+Setu KYC MCP server: 1
+Whodis MCP Server: 1
+hubspot-mcp-summary: 1
+Name Origin Predictor: 1
+Probe: 1
+MCP Server - Remote MacOs Use: 1
+MongoDB Lens: 1
+yutu: 1
+Mac Messages MCP: 1
+🧪 Official MCP Server for Debugg AI: 1
+ScreenPilot: 1
+PBIXRay MCP Server: 1
+Alibaba Cloud DMS MCP Server: 1
+SystemPrompt Coding Agent: 1
+chatExcel - Excel智能处理与数据分析MCP服务器: 1
+hf-mcp-server packages: 1
+HF Trending MCP Server: 1
+LocalPlay MCP Server: 1
+Hypefury MCP Server: 1
+Apache APISIX API Gateway ｜ AI Gateway: 1
+IoTDB: 1
+Doris MCP Server: 1
+mcp-server-apache-airflow: 1
+Superset MCP Integration: 1
+IoTDB MCP Server: 1
+SeaTunnel MCP Server: 1
+MCP server for Apache Gravitino(incubating): 1
+airflow-mcp-server: An MCP Server for controlling Airflow: 1
+Apache Doris MCP Server: 1
+DolphinScheduler MCP Server: 1
+Mifos X - AI - Model Context Protocol (MCP) for Apache Fineract®: 1
+Pinot MCP Server: 1
+Inoyu Apache Unomi MCP Server: 1
+MCP Iceberg Catalog: 1
+CloudStack MCP Server: 1
+MCP-Server for Apache Solr Document Search: 1
+Apache Beam MCP Server: 1
+Gitingest: 1
+fetch-mcp: 1
+Cursor MCP Installer: 1
+Jina Reader MCP Server: 1
+MCP Server for Things3: 1
+MCP Node Fetch: 1
+Skrape MCP Server: 1
+DuckDuckGo Search MCP 🔍: 1
+MCP Website Downloader: 1
+Image Tools MCP: 1
+mcp-server-agenda: 1
+Webscraper MCP: 1
+MCP System Bridge: 1
+Unofficial dubco-mcp-server: 1
+MCP URL Format Converter: 1
+[ screenpipe ]: 1
+screenpipe-mcp: 1
+xiu: 1
+Dappier MCP Server: 1
+MCP Media Processing Server: 1
+twitter-rapidapi-mcp-x: 1
+Metricool MCP Server: 1
+Radarr and Sonarr MCP Server: 1
+Social Media Server: 1
+Social Media MCP Server: 1
+Cloudinary MCP Server: 1
+MediaWiki MCP Server: 1
+MediaWikiAdapter: 1
+Media Utils MCP: 1
+What is it?: 1
+🚀 MCP Agent Social Media Server: 1
+Code Index MCP: 1
+MCP Headless Gmail Server: 1
+Safe Local Python Executor: 1
+Enkrypt AI Secure MCP Gateway: 1
+AWS Resources MCP Server: 1
+Setup of the Environment for the AI Powered Ansible &amp; OpenShift Automation with Model Context Protocols (MCP) Servers: 1
+MCP Store: 1
+Zendesk MCP Integration Setup Guide: 1
+mcp-server-notifier: 1
+Nina_advanced_api_mcp: 1
+SourceSage: Efficient Code Memory for LLMs: 1
+mcp-server-redis: 1
+File Context Server: 1
+Kakao Mobility &amp; Kakao Map MCP Server: 1
+Prompts MCP Server: 1
+translator-ai: 1
+MCP Utility Tools: 1
+prajwalnayak7_mcp-server-redis: 1
+Finnhub MCP Server: 1
+China Stock MCP Server: 1
+mcp-server-chinarailway: 1
+China Weather MCP Server: 1
+Model Context Protocol(MCP) 编程极速入门: 1
+Tung Shing MCP Server: 1
+AKShare One MCP Server: 1
+mult-fetch-mcp-server: 1
+Zentickr - Yahoo Finance MCP Server: 1
+PokeMCP: 1
+Art Institute of Chicago MCP Server: 1
+MCP Translation Server: 1
+MCP Chat Support System: 1
+Bibliomantic MCP Server: 1
+GitHub PR Helper: 1
+MCP Mistral OCR: 1
+Mistral Codestral MCP Server: 1
+Speakeasy: 1
+🧠 MCP:Local PR Description Generator using Mistral: 1
+Vinted-Scraper: 1
+MCP Server for Oxylabs Scraper: 1
+🚀 OneSearch MCP Server: Web Search &amp; Crawl &amp; Scraper &amp; Extract: 1
+AI-Cursor-Scraping-Assistant: 1
+Website Scraper: 1
+mcp-playwright-scraper: 1
+Slunk - Real-time Slack Search for macOS: 1
+MCP Web Scraper: 1
+Documentation Scraper &amp; MCP Server: 1
+Claude Web Scraper MCP: 1
+Crawl4AI Documentation Scraper: 1
+V2.ai Insights Scraper MCP: 1
+MCP News Scraper: 1
+Sleeper API MCP: 1
+Portfolio Manager MCP Server: 1
+Semantic Workbench: 1
+WordPress MCP: 1
+🤘 Claudeus WordPress MCP 🎸: 1
+MCP WordPress Remote: 1
+MCP Server for WordPress: 1
+Comprehensive WordPress MCP Server: 1
+Claude Document MCP Server: 1
+MCP Office Interop Word Server: 1
+MCP Word Counter: 1
+Word Tools MCP Server: 1
+WordPress Code Review MCP Server v2.0: 1
+mcp-wordpress-gutenberg: 1
+WordPress MCP Integration: 1
+GenPilot: 1
+🤖 MCPServe by @ryaneggz: 1
+Ensembl MCP Server: 1
+🔍 Veri5ight: 1
+Model Context Protocal (MCP) Implementation: 1
+AutoBuildMCP: An MCP-Powered Build Automation Server: 1
+Unofficial Ensembl MCP Server: 1
+Vonage AI Code Assist MCP Server: 1
+Air-Pollution: 1
+blastengine-mailer MCP Server: 1
+Mailer MCP: 1
+MCP Mailtrap Server: 1
+Klavis ReportGen MCP Server: 1
+Pandoc MCP Server: 1
+Resend Email Sending MCP Server 💌: 1
+MCP File Operations Server: 1
+Klaviyo MCP Server: 1
+JADX-MCP-SERVER: 1
+jadx-mcp-plugin: 1
+Gaia-X Next-Generation Enterprise AI Application Platform Based on AI New Paradigm: 1
+Memvid - Video-Based AI Memory 🧠📹: 1
+minimax-mcp: 1
+Short Video Maker: 1
+YouTube Transcript Server: 1
+Video Editor MCP server: 1
+Mux Node API Library: 1
+MiniMax MCP JS: 1
+FFmpeg-MCP: 1
+YouTube Transcript MCP Server: 1
+TikTok MCP Service: 1
+Video Editor MCP Server: 1
+allvoicelab-mcp: 1
+MCP FFmpeg Video Processor: 1
+PixVerse MCP: 1
+mcp-server-sentry: A Sentry MCP server: 1
+AWS Knowledge Base Retrieval MCP Server: 1
+EverArt MCP Server: 1
+Everything MCP Server: 1
+Hoverfly MCP Server: 1
+Jinni: Bring Your Project Into Context: 1
+eechat: 1
+mcppserver: 1
+Package Documentation MCP Server: 1
+Google Drive MCP Server: 1
+MCP OpenAPI Schema Explorer: 1
+Todoist MCP Server Extended: 1
+MCP Chain of Draft (CoD) Prompt Tool: 1
+Chain of Draft (CoD) MCP Server: 1
+Timeplus MCP Server: 1
+Notion MCP Integration: 1
+Whisper Speech Recognition MCP Server: 1
+MCP Linker: 1
+mocxykit: 1
+Kong Konnect MCP Server: 1
+Higress OPS MCP Server: 1
+Whistle MCP Server: 1
+Mail Client MCP: 1
+APIWeaver: 1
+🚀 HTTP-4-MCP Middleware Server: 1
+mcp-serverman: A MCP Server Configuration Manager: 1
+Bluesky MCP (Model Context Protocol): 1
+MCP Server Creator 🏗️: 1
+NextChat-MCP-Awesome: 1
+GraphRAG MCP Server: 1
+CodeRAG - Graph-Powered Code Analysis: 1
+BigQuery Analysis MCP Server: 1
+google-bigquery-mcp-server-by-cdata: 1
+MCP BigQuery Server: 1
+Model Context Protocol servers: 1
+Redis: 1
+Coin MCP Server: 1
+CoinMarketCap MCP: 1
+CoinMarketCap Universal MCP Server: 1
+Crypto MCP: 1
+MCP Firebird: 1
+Firebird MCP Server: 1
+Bayesian MCP: 1
+Pinecone Model Context Protocol Server for Claude Desktop.: 1
+Pinecone Developer MCP Server: 1
+Pinecone Assistant MCP Server: 1
+Serveur MCP pour n8n: 1
+🔥 Firestore Advanced MCP: 1
+MCP - Analyseur de Réseau Lightning avec Sparkseer: 1
+MCP-servers: 1
+My Server MCP: 1
+Gatherings MCP Server: 1
+gatherings MCP Server: 1
+App Market Intelligence MCP: 1
+transcript-manager-mcp: 1
+Magic: The Gathering MCP Tool Server: 1
+@instantdb/mcp: 1
+MCP Toolbox for Databases: 1
+convex-backend: 1
+greptimedb: 1
+DevDb: 1
+mcp-server-qdrant: A Qdrant MCP server: 1
+IDA MCP Server: 1
+gateway: 1
+Yargı MCP: Türk Hukuk Kaynakları için MCP Sunucusu: 1
+Multi Database MCP Server: 1
+SensoryBridge: MCP Server for SenseNet: 1
+MCP Web UI: 1
+Coincap MCP: 1
+Crypto Price &amp; Market Analysis MCP Server: 1
+Crypto Price &amp; Market Analysis MCP Server (JJ Fork): 1
+DexPaprika MCP Server: 1
+AgentRPC: 1
+Kokkai Minutes MCP Agent: 1
+Introduction to MCP; Draw &amp; Add Text to Keynote on MacOS: 1
+Introducción a los MCP: 1
+🚀 JMeter MCP Server: 1
+mcp-papersearch: 1
+Paper Search MCP: 1
+Academic Paper Search MCP Server: 1
+ArXiv-MCP: Academic Paper Search for AI Agents: 1
+SketchupMCP - Sketchup Model Context Protocol Integration: 1
+SketchupMCP - Sketchup 模型上下文協議（MCP）整合: 1
+SketchUp MCP Server: 1
+🚀 MetaMCP (Aggregate MCP servers &amp; apply middlewares; host &amp; emit unified MCP servers out): 1
+MCP Orchestrator Server: 1
+MCP Project Orchestrator: 1
+MCP Task Orchestrator: 1
+Task Orchestrator: 1
+Gemini CLI Orchestrator MCP: 1
+Orchestrator MCP: 1
+MCP Orchestrator 🎯: 1
+MCP Orchestrator: 1
+txtai: 1
+GenAIScript: 1
+What is DigitalFate?: 1
+OpenRouter Agents MCP Server: 1
+MindBridge MCP Server ⚡ The AI Router for Big Brain Moves: 1
+markmap: 1
+Markmap MCP Server: 1
+PDB-MCP-Server: 1
+🚀 Operative.sh Web Eval Agent MCP Server: 1
+Console and Network Logs Playwright MCP Server: 1
+MCP Unity: 1
+dify-mcp-client: 1
+Bilibili API MCP Server: 1
+AWS MCP Server: 1
+Terraform Registry MCP Server: 1
+GIT MCP Server: 1
+Terminal Controller for MCP: 1
+Tools: 1
+MCP Go 🚀: 1
+Hyperbrowser MCP Server: 1
+MCP LLM Bridge: 1
+Ableton Live MCP Server: 1
+Xcode MCP Server: 1
+MCP Teams Server: 1
+MCP Claude Code: 1
+Model Context Protocol specification: 1
+OpenAPI to MCP Generator: 1
+Paws-on-MCP: Unified MCP Server Implementation 🐾: 1
+mcp-openapi-proxy: 1
+MCP Jenkins: 1
+Prompt Decorators: 1
+okta-mcp-server: 1
+OPENAPI Specifications =&gt; MCP (Model Context Protocol) Tools: 1
+OpenLedger MCP Server: 1
+AI-Create-MCP (WIP): 1
+Market Sizing MCP Server: 1
+🤖 OpenAPI MCP Server: 1
+Azure Wiki Search Server: 1
+SearchAPI MCP Server: 1
+SearchAPI MCP Agent with A2A 支持 | SearchAPI MCP Agent with A2A Support: 1
+SearchAPI.site - MCP Server: 1
+searchapi-mcp: 1
+Search1API MCP Server: 1
+kagi-server MCP Server: 1
+cve-search_mcp: 1
+exa-mcp: 1
+MCP Google Custom Search Server: 1
+Naver Search MCP Server: 1
+mcp-tavily-search: 1
+ResearchMCP: 1
+ddg-mcp MCP server: 1
+mcp-censys: 1
+NEAR MCP: 1
+NearbySearch MCP Server: 1
+Crew AI MCP Server: 1
+OpenStreetMap MCP Server: 1
+MCP EV Assistant Server: 1
+Plate: 1
+serena: 1
+Deepwiki MCP Server: 1
+Godot MCP: 1
+Godot MCP (Model Context Protocol): 1
+MCP Text Editor Server: 1
+VS Code MCP Server: 1
+Hacking Buddy MCP: 1
+My Coding Buddy MCP Server 💻✨: 1
+Presentation Buddy - AI-Powered Stream Production Assistant: 1
+linkedmcp: 1
+TaskNote Bridge - Swift MCP Server with Things 3 &amp; Apple Notes ✅: 1
+TianGong-LCA-MCP: 1
+TianGong-AI-MCP: 1
+paddleocr: 1
+Computer Control MCP: 1
+MCP Screenshot: 1
+Handwriting OCR MCP Server: 1
+MCP Invoice: 1
+RapidOCR MCP Server: 1
+Video Content Summarization MCP Server: 1
+RAG_MCP: 1
+📚 Local Documents MCP Server: 1
+Mac Commander MCP Server: 1
+macOS Simulator MCP Server: 1
+Google OCR MCP server: 1
+Unofficial ChEMBL MCP Server: 1
+Render MCP Server: 1
+mcp-paperswithcode: 1
+Backlog MCP Server (mcp-backlog-server): 1
+Satim Payment Gateway Integration: 1
+OpenRegister MCP Server: 1
+OpenAI SDK Knowledge MCP Server (unofficial): 1
+MCP Server - JavaScript SDK: 1
+Unofficial UniProt MCP Server: 1
+Unofficial Reactome MCP Server 🧬: 1
+NHL API - Model Context Protocol: 1
+GitHub MCP Server in Go: 1
+PlayMCP Browser Automation Server: 1
+Fastly API - Unofficial OpenAPI Specification: 1
+opensearch-mcp-server-py: 1
+mcp-server-opensearch: An OpenSearch MCP Server: 1
+OpenSearch-MCP-Server: 1
+opensearch-mcp-server: 1
+RootData MCP Server: 1
+Deep Code Reasoning MCP Server: 1
+🤔 Thoughtful Claude - DeepSeek R1 Reasoning Server: 1
+DeepSeek-Claude MCP Server: 1
+MCP Advanced Reasoning Server for Cursor AI: 1
+Jean Memory: 1
+AbletonMCP Enhanced - AI Control for Ableton Live: 1
+Anki Connect MCP Server: 1
+cBioPortal MCP Server: 1
+MCP Server (deprecated): 1
+mcp-server-creem: 1
+enhanced-google-maps-mcp: 1
+EIPs MCP: 1
+MCP Zen Plus: One Context. Many Minds.: 1
+MCP Anthropic Server (mcp-anthropic): 1
+Tidymodels MCP Server: 1
+espresso-mcp: 1
+GooseTeam: 1
+Speech MCP: 1
+goose_mcp: 1
+MCP-CEP: 1
+goose-with-mcp-servers: 1
+geese: 1
+MCP Server Demo with Goose: 1
+MCP SearxNG Search: 1
+goose-gdrive-classifier-processor: 1
+Goose FM: 1
+XACHE - Crypto Trader Website: 1
+gorse: 1
+fewsats-mcp: A Fewsats MCP Server: 1
+Agora MCP: 1
+sherlock-mcp MCP server: 1
+IcebergMCP 🚀: 1
+Build Agents with Needle MCP Server: 1
+Needle MCP server: 1
+🚀 monday.com MCP: 1
+Monday.com API MCP Server: 1
+Worker17: 1
+VibeStudio: 1
+@qpd-v/mcp-delete: 1
+Bitbucket MCP: 1
+MCP BatchIt: 1
+MCP Pocket: 1
+ClaudeKeep: 1
+Memory Box MCP Server: 1
+MCP Chat Logger: 1
+WhatsUpDoc (downmarked): 1
+🧠 Claude Thread Continuity MCP Server: 1
+LLM Chat Replay: 1
+MCP-Memos: 1
+Fetch-Save MCP Server: 1
+ShadcnVue MCP Server - A powerful AI Agent tool that helps developers instantly create high-quality UI components: 1
+Discogs MCP Server: 1
+Google Custom Search Engine MCP Server: 1
+CS-Wallet: 1
+OptionsFlow MCP Server: 1
+REST CSV MCP Server: 1
+CS2 RCON MCP: 1
+mpc-csharp-semantickernel: 1
+Cloud Security Alliance Model Context Protocl Servers: 1
+MCP Knowledge Retrieval Server: 1
+Vibe Preprocessing and Analysis MCP Server for CSV files: 1
+mcp-csv-server: 1
+Excel to JSON MCP by WTSolutions Documentation: 1
+Splunk MCP Server: 1
+Rami Levy MCP Server: 1
+Welcome to Lunar.dev: 1
+Welcome to Agent MCP: 1
+IMCP - Insecure Model Context Protocol: 1
+Welcome to the MCP Server! 🌟: 1
+🕹️ Welcome to the Minesweeper MCP Server: 1
+Welcome to Aidderall MCP Server!: 1
+Welcome to @smcphub/server 👋: 1
+Welcome MCP Server: 1
+Welcome-MCP-Server-Testing: 1
+KDebug - Kubernetes Debugging MCP Server: 1
+fixparser: 1
+Mozilla Readability Parser MCP Server: 1
+Code Context MCP: 1
+Source Map Parser: 1
+302AI File Parser MCP Server: 1
+MCP Video Parser: 1
+docling-mcp: 1
+Stock Analysis MCP Server: 1
+MCP Substack Server: 1
+RSS MCP Server: 1
+NetMind ParsePro: 1
+Doxygen MCP Server: 1
+Gmail MCP: 1
+Model Context Protocol (MCP) Server + Strava OAuth: 1
+Development: 1
+MCP Server Boilerplate: 1
+Google MCP Server: 1
+Model Context Protocol (MCP) Server + GitHub OAuth + Analytics: 1
+X (Twitter) MCP Server - Enhanced Edition: 1
+Twelve Data MCP Server: 1
+Processing MCP Server: 1
+StockScreen MCP Server: 1
+StockFlow MCP Server: 1
+MCP-CodeSavant: 1
+Barnsworthburning MCP: 1
+lamda: 1
+About: 1
+G-Search MCP: 1
+Excalidraw MCP Server: Powerful Drawing API for LLM Integration: 1
+MCP server for Obsidian: 1
+Freqtrade-MCP: 1
+MCP REST API Tester: 1
+Obsidian MCP REST Server: 1
+Hippycampus: 1
+WebforAI Text Extractor - MCP Server: 1
+Task Portal System: A Self-Evolving General Problem-Solving Agency: 1
+MCP Gateway – API &amp; Portal de Autoatendimento: 1
+Payments Developer Portal MCP Server: 1
+AI MCP Portal: 1
+Portainer MCP: 1
+mcpx-py: 1
+Postal: Agent Comms via MCP: 1
+brazilian-cep-mcp: 1
+mcp-dutch-postal-codes: 1
+Nostr MCP Server: 1
+DVMCP: Data Vending Machine Context Protocol: 1
+n8n AI Agent for DVM MCP: 1
+Alby MCP Server: 1
+NWC MCP Server: 1
+nostrdb-mcp: 1
+MCP-NOSTR: Nostr Publisher for Model Context Protocol: 1
+🌐 Lightning Network MCP Server: 1
+🤖 nostr-code-snippet-mcp: 1
+NIP-101h MCP Server: 1
+Repository Analyzer MCP Server: 1
+Crypto Trader MCP Tool for Claude Desktop: 1
+Coingecko TypeScript API Library: 1
+Coingecko TypeScript MCP Server: 1
+🚀 CoinGecko API Server MCP: 1
+Crypto Trending MCP Server: 1
+Bitcoin MCP Server: 1
+mcp-server-coingecko: A CoinGecko MCP server: 1
+MCP FFmpeg Helper: 1
+🎬 Video &amp; Audio Editing MCP Server: 1
+nextcloud-mcp-server: 1
+Zulip MCP Server: 1
+Monad MCP Magic Eden: 1
+🚀 CapsuleCRM MCP Server: 1
+Monday.com MCP server: 1
+monday.com-mcp-server-by-cdata: 1
+Claude Talk to Figma MCP: 1
+Figma MCP Python: 1
+MCP Figma to React Converter: 1
+Figma MCP 服务器: 1
+mcp-figma: 1
+Figma to Vue MCP Server: 1
+Figma to React Native MCP: 1
+ZapCode MCP Server: 1
+Figma MCP (Model Context Protocol): 1
+Figma MCP Server (Python): 1
+wongames-mcp: 1
+Crypto Indicators MCP Server: 1
+CryptoAnalysisMCP: 1
+🦀 Solana Chad MCP: 1
+IMF Data MCP: 1
+Status Invest - MCP Server: 1
+Investidor10 - MCP Server: 1
+poke-mcp: 1
+Pokemon TCG Card Search MCP: 1
+Pokemon Paste MCP Server: 1
+Pokémon VGC Damage Calculator MCP Server: 1
+mcp-pokemon: 1
+Pokemon RAG AI Assistant: 1
+🚀 Advacned Unity MCP Integration: 1
+Tavily MCP Server 🚀: 1
+mcp-rquest: 1
+OpenAI Speech-to-Text transcriptions MCP Server: 1
+MCP Server Whisper: 1
+TranscriptionTools MCP Server: 1
+AI Studio MCP Server: 1
+Parakeet Transcription MCP Server: 1
+YouTube Transcription Server: 1
+Phone MCP Plugin: 1
+PhonePi MCP: Turn your phone into a toolbox for AI assistants using Model Context Protocol: 1
+PhonePi MCP: 1
+PhoneLCDParts MCP Server: 1
+Juhe Mobile Phone Location MCP Server: 1
+phoenix: 1
+Arize Phoenix MCP Server: 1
+MCPheonix: 1
+phoenix-mcp-server-by-cdata: 1
+Notion-MCP: 1
+Dafty MCP Server: 1
+Daft.ie MCP Server: 1
+MCP-Server-IETF: 1
+DIE (Detect It Easy) MCP Server: 1
+pocketbase-mcp-server MCP Server: 1
+pocketbase-mcp: 1
+🤘 Claudeus Plane MCP 🎸: 1
+Ghost MCP Server with SSE Transport: 1
+MCP Server for Agent8: 1
+CyberSecMCP: 1
+MCP Server: Management Control Plane for Agent Tools: 1
+zoho-crm-mcp-server-by-cdata: 1
+zoho-inventory-mcp-server-by-cdata: 1
+zoho-projects-mcp-server-by-cdata: 1
+zoho-creator-mcp-server-by-cdata: 1
+zoho-books-mcp-server-by-cdata: 1
+AWS Step Functions Tool MCP Server: 1
+Java Filesystem &amp; Web MCP Server: 1
+MCP Auth Step by Step: 1
+DeepResearch MCP: 1
+TaskFlow MCP 🔄✅: 1
+TaskFlow MCP 🌟: 1
+Project Handoffs MCP Server: 1
+MCP Server for Milvus: 1
+synth-scheduler-mcp: 1
+MLflow Prompt Registry MCP Server: 1
+PentestThinkingMCP: 1
+MRP Calculator MCP Server: 1
+file-finder-mcp MCP Server: 1
+SiYuan Note MCP Server: 1
+A little MCP server for siyuan-note: 1
+CoolPC MCP Server: 1
+BigGo MCP Server: 1
+Neovim MCP Server: 1
+mcp-excel-server: 1
+bigcommerce-mcp-server-by-cdata: 1
+File Converter MCP Server: 1
+MCP SVG Converter: 1
+WebP Batch Converter: 1
+WebP Conversion MCP Server: 1
+mcp-meme-sticky: 1
+mcp-server-requests: 1
+Brand-to-Theme MCP Server: 1
+FastAPI-MCP: 1
+code2prompt: 1
+Markdownify MCP Server: 1
+mcp-pandoc: A Document Conversion MCP Server: 1
+DeepView MCP: 1
+Resend MCP Server: 1
+MCP Server Resend: 1
+ElfProxy MCP Server: 1
+QGISMCP - QGIS Model Context Protocol Integration (updated version from https://github.com/jjsantos01/qgis_mcp): 1
+MCP-gotify: 1
+plaid-mcp-server: 1
+Trello MCP Server: 1
+Yamu: 1
+YetAnotherUnityMcp: 1
+Temp Notes MCP Server: 1
+Nothing='s here YET: 1
+@bldbl/mcp: 1
+chunky-mcp: 1
+Microservice Control Panel (MCP): 1
+mcp-server-macos-defaults MCP server: 1
+🌤️ Weather MCP Server (Free &amp; Sydney Default): 1
+ProtoLinkAI 🚀: 1
+MCP LinkedIn: 1
+🌟 Linkup for Claude: Internet Access for Your AI Assistant: 1
+LinkedIn Browser MCP Server: 1
+Linkedin MCP Server: 1
+LinkedInMCP: Revolutionizing LinkedIn API Interactions: 1
+📈 Nasdaq Data Link MCP 🤖: 1
+MCP Server for LinkedIn: 1
+MCP Video Digest (视频内容提取总结): 1
+Azure Model Context Protocol (MCP) Hub: 1
+LinkedIn Profile Analyzer MCP: 1
+Storm MCP Server with Sionic AI serverless RAG: 1
+MCP-GITHUB-SERVER MCP server: 1
+MCP Memory Service: 1
+MemoryMesh: 1
+MCP-Ragdocs: 1
+App Store Connect MCP Server: 1
+✨ mem0 Memory System ✨: 1
+Ebook-MCP: 1
+PDF Tools MCP: 1
+PDF Reader MCP Server: 1
+📄 MCP PDF Server: 1
+PDF Extraction MCP server: 1
+MCP-PDF2MD: 1
+Markdown2PDF MCP Server (markdown2pdf-mcp): 1
+PDF RAG MCP Server: 1
+markdown2pdf-mcp: 1
+PDF to PNG MCP Server: 1
+🚀 MCP Server for Document Processing: 1
+@mastra/mcp: 1
+Opik Open source LLM evaluation framework: 1
+astrbot: 1
+mcp.md: 1
+EverArt Forge MCP for Cline: 1
+FindRepo MCP Server: 1
+Intlayer: A tailored way to translate your website: 1
+Lara Translate MCP Server: 1
+OpenAPI to Model Context Protocol (MCP): 1
+mcp-translate: 1
+YouTube Translate MCP: 1
+MCP Server for Quran.com API: 1
+deepl-mcp-server: 1
+VS Code Debugger MCP Server Proxy: 1
+mcp-kubernetes-server: 1
+cli: 1
+Kusto MCP Configuration: 1
+DeepL MCP Server: 1
+Polyglot - Model Contexts Protocol for Translation: 1
+AllVoiceLab-MCP 🎤🌐: 1
+Model Context Protocol: 1
+Edwin MCP Server: 1
+finance-tools-mcp: A Financial Analysis MCP Server: 1
+FinanceMCP 财经数据服务器: 1
+Hong Kong Finance Data MCP Server: 1
+EDUCHAIN Agent Kit: 1
+Norman Finance MCP Server: 1
+Yahoo Finance Model Context Protocol (MCP) for LLaMA 3.2 3B: 1
+KaiaFun MCP: 1
+mcp-yahoo-finance: 1
+MCP OpenFEC Server: 1
+📈 Finance MCP Server: 1
+MCP Server for Interacting with Yahoo Finance: 1
+Mobile Commands and interaction tools: 1
+xcodebuild MCP Server: 1
+iOS Automation MCP Server 🚀: 1
+MCP Appium Server: 1
+SimCtl MCP Server: 1
+MCP iOS Simulator Screenshot: 1
+Task Master: 1
+Google Search Tool: 1
+AI Expert Workflow MCP: 1
+MCP Jira Integration: 1
+excel-master-mcp: 1
+Claude MCP (Master Control Program): 1
+Bash MCP (Master Control Program): 1
+MasterGO-McpServer: 1
+MCP (Master Control Program) Server for macOS: 1
+mastermcp: 1
+MasterMCP: 1
+Lulu Print MCP Server: 1
+MCP Environment &amp; Installation Manager: 1
+trieve-mcp-server: 1
+MCPAdapt: 1
+MCP Server Bundle: 1
+filesystem MCP Server: 1
+Fusion MCP Server: 1
+MCP GIPHY Server: 1
+Memory - User Bio MCP Server: 1
+MCP Server for Interaction with Office Apps: 1
+mindsdb: 1
+browser: 1
+Supermemory: 1
+Inbox Zero MCP Server: 1
+Inbox Zero - Your AI Email Assistant: 1
+gopls, the Go language server: 1
+pubchem mcp server: 1
+PubChem MCP Server: 1
+Memecoin Observatory MCP for Solana: 1
+Memecoin Radar MCP: 1
+Zen MCP: One Context. Many Minds.: 1
+MCP Server Kubernetes: 1
+Query MCP (Supabase MCP Server): 1
+MetaMCP (Unified middleware MCP to manage all your MCPs): 1
+Manim MCP Server: 1
+MCP Server with Mem0 for Managing Coding Preferences: 1
+pipedream: 1
+FastMCP: 1
+Everything Search MCP Server: 1
+MCP-Twikit: 1
+🐉 The fast, PHP way to build MCP servers: 1
+Flyworks MCP: Free &amp; Fast Zeroshot Lipsync Tool: 1
+Unstorage MCP Server: 1
+DeepSRT MCP Server: 1
+Remote Command MCP Server: 1
+MCP Server (NestJS): 1
+nest-llm-aigent: 1
+Unstructured API MCP Server: 1
+unstructured-mcp: 1
+Flexible Key-Value Extracting MCP Server: 1
+InsightFlow: 1
+Redash MCP Server: 1
+Unity Scene Designer MCP Server: 1
+VSCode MCP Server: 1
+LangChain MCP Adapters: 1
+LangGraph Coding Agent Team with MCP: 1
+Mattermost MCP Host: 1
+Auto Causal Inference for Banking: 1
+Story IP Creator Agent: 1
+Weather MCP Service: 1
+Crawler for LLM with MCP Support: 1
+mcp-servers-client-langgraph-react-agent: 1
+Langgraph-MCP Client for Postgresql Example: 1
+simple_mcp_server_with_langgraph: 1
+🧠 GHL MCP Server – Anthropic LangGraph Agent Integration: 1
+LangGraph Retrieval: 1
+Selector-: 1
+Cryo MCP 🧊: 1
+Ethereum RPC MPC Server: 1
+Ethereum Tools for Claude MCP: 1
+Ethereum RPC MCP Server: 1
+MCP Ethers Wallet: 1
+mcp-rs: 1
+Honeypot Detector MCP: 1
+Wallet Generator MCP: 1
+MCP Ethereum Address Info Server: 1
+MCP-timeserver: 1
+Laravel MCP Companion: 1
+toolkit-mcp-server: 1
+Spring AI MCP server to access information from https://api.spring.io: 1
+EOL MCP Server 📅: 1
+🔌 Java Conferences MCP Server 🔌: 1
+Package Registry MCP Server: 1
+X Tools for Claude MCP: 1
+MCP DateTime: 1
+mcp-helper-tools: 1
+UseKeen Documentation MCP Server: 1
+Context7 MCP - Up-to-date Code Docs For Any Prompt: 1
+xml.Revit.MCP: 1
+pfSense MCP Server: 1
+code-scanner-server: 1
+xml-documents-mcp-server-by-cdata: 1
+power-bi-xmla-mcp-server-by-cdata: 1
+TCC - Agentes Conversacionais com IA: 1
+Damn Vulnerable MCP Server Demo: 1
+OfficeMCP v1.0.5: 1
+Microsoft Office MCP Servers: 1
+Lexware Office MCP Server: 1
+turbosmtp-mcp-server: 1
+ALECS - MCP Server for Akamai: 1
+MCP Servers: 1
+LSP MCP: 1
+MCP Simple OpenAI Assistant: 1
+Flutter MCP: Give Your AI Real-Time Flutter Superpowers 🚀: 1
+JigsawStack MCP Server: 1
+cloudflare-api-mcp: 1
+MCP Simple Timeserver: 1
+Flutter Inspector MCP Server for AI-Powered Development: 1
+Flutter Tools MCP Server: 1
+dartpoint-mcp: 1
+simple_dart_mcp_server: 1
+DART-MCP: 재무 분석을 위한 Claude 확장 프로그램: 1
+Q-Anon Posts/Drops MCP Server: 1
+dropbox-mcp-server-by-cdata: 1
+mcp-webcam: 1
+Video Still Capture MCP: 1
+MCP For 3D Printing: 1
+JobApply MCP Server: 1
+xtquantai: 1
+Solana Agent Kit: 1
+MCP Tool Kit: 1
+Zerodha MCP Integration: 1
+MCP Browser Kit: 1
+PyMCPAutoGUI 🖱️⌨️🖼️ - GUI Automation via MCP: 1
+Dev-Kit MCP Server: 1
+MCPilot: 1
+MCP Server built with the Ping Agent Kit: 1
+Zerodha Kite MCP Server: 1
+MCP Server Template: 1
+Kitsune-Kawaii MCP Server: 1
+Decent Sampler Drums MCP Server: 1
+aps-mcp-server: 1
+apache-hadoop-hive-mcp-server-by-cdata: 1
+MCP LLMS.txt Explorer: 1
+Magnet Desktop: 1
+GitHub GraphQL API MCP: 1
+MCP Explorer UI: 1
+Financial Data Provider MCP Server: 1
+Abell MCP (Experiment): 1
+Figma MCP Demo: 1
+🌦️ Weather MCP Server Demo: 1
+@servicestack/mcp: 1
+fabric: 1
+fabric-mcp-server: 1
+Hyperledger Fabric Agent Suite: 1
+MCP-Server de Mapas Mentais: 1
+MCP Server for OpenProject with Netlify Express: 1
+Stagehand MCP Server: 1
+stagehand-mcp-report: 1
+LibreChat MCP Servers: 1
+macOS Automator MCP Server: 1
+applescript-mcp MCP Server: 1
+XcodeMCP: 1
+iMessage MCP Server: 1
+mcp-server-chatgpt-app: 1
+Apple MCP Server: 1
+Google Apps Script MCP Server: 1
+DeepWriter MCP Server: 1
+飞书MCP服务器: 1
+lark-tools-mcp: 1
+MCP-飞书项目管理工具: 1
+飞书MCP机器人: 1
+飞书项目MCP服务: 1
+MCP Server For Lark (Feishu): 1
+feishu-mcp-server: 1
+MCP-FEISHU: 1
+Liquidium MCP Server: 1
+PancakeSwap PoolSpy MCP Server: 1
+Uniswap PoolSpy MCP Server: 1
+Alpha Ticker MCP: 1
+Liquidity Pools MCP Server: 1
+Mcp-Confluence: 1
+Axiom MCP Server: 1
+PDF Search for Zed: 1
+Zed GitHub Context Server: 1
+Axiom Context Server: 1
+paperscraper-MCP-Server: 1
+🚀 Hello MCP(Model Context Protocol): 1
+HelloWorld MCP Server: 1
+Hello World MCP Server for Warp Terminal: 1
+mcp server hello world with java: 1
+MCPInstructionServer: 1
+LSP MCP Server: 1
+OmniFocus MCP Server: 1
+Claude Project Coordinator: 1
+tasty-agent: A TastyTrade MCP Server: 1
+stata-mcp: 1
+🚀 MCP Local Dev: 1
+Letta MCP Server: 1
+HAL (HTTP API Layer): 1
+ummon: 1
+dbt Semantic Layer MCP Server: 1
+TailorKit MCP: 1
+Gentoro MCP Server: 1
+MCP Lambda Server: 1
+LayerZero OFT MCP Server: 1
+Sola MCP Server: 1
+LumiFAI MCP Technical Analysis Server: 1
+MCP Notion: 1
+Layer2 MCP Server: 1
+MCP Server - A Node In Layers Package for building MCP Servers: 1
+ABAQUS MCP Server for GUI Scripting: 1
+Wireshark-MCP Integration Toolkit: 1
+Babashka MCP Server: 1
+Serper Search and Scrape MCP Server: 1
+Scrapling Fetch MCP: 1
+Dumpling AI MCP Server: 1
+Docy: Documentation at Your AI's Fingertips: 1
+Model Context Protocol - Gemini Thinking Server: 1
+🧠 Neural Architect (NA) | MCP Branch Thinking Tool: 1
+Unreasonable Thinking Server: 1
+Retrieval-Augmented Thinking MCP Server: 1
+Folderr MCP Server: 1
+@autodev/codebase: 1
+Cursor MCP File Organizer: 1
+MCP Servers for Cursor AI - README: 1
+mig2schema: 1
+MCPM CLI: 1
+MCPMC (Minecraft Model Context Protocol): 1
+MCPMonkey: 1
+mcpmcp-server: 1
+Super Windows CLI MCP Server: 1
+mcpmapserver: 1
+Sail: 1
+JSON MCP Server (@gongrzhe/server-json-mcp@1.0.3): 1
+MCP Google Map Server: 1
+MCP NPX Fetch: 1
+🪄 ImageSorcery MCP: 1
+MCP-server-ragdocs: 1
+CodeMerge: 1
+diff-mcp: 1
+AWS Bedrock Data Automation MCP Server: 1
+Synthetic Data MCP Server: 1
+Vizro MCP server: 1
+vizro: 1
+Test Neon MCP Server in React Server Components: 1
+mcp-k8s-lens: 1
+Aindreyway MCP Codex Keeper: 1
+Codex MCP Server: 1
+Kairos Codex - MCP Server: 1
+Daytona MCP (Model Context Protocol) Server: 1
+cognee MCP server: 1
+cognee: 1
+WHY MICROSANDBOX?: 1
+Rug-Check-MCP: 1
+Potential Contributions: 1
+mcp-google-solar-api: 1
+XTBApiServer: 1
+ITMCP: 1
+GitHub Support Assistant: 1
+Wireshark MCP Server: 1
+Vega-Lite MCP Server Troubleshooting: 1
+MCP GitHub Mapper Troubleshooting Documentation: 1
+Git MCP Server Troubleshooting Guide: 1
+GitLab MCP Server Tools: 1
+XenonRecomp: 1
+lingo.dev: 1
+카카오 API MCP 서버: 1
+kakao-bot-mcp-server: 1
+MCP Kakao Local: 1
+@lepion/mcp-server-doppler: 1
+DNS and WHOIS query MCP server mcp-domaintools: 1
+Domain Tools MCP Server: 1
+MCP Music Analysis: 1
+Octagon VC Agents: 1
+Local Speech-to-Text MCP Server: 1
+Sydney Grammar School Headmasters Chat Application: 1
+whisper_king: 1
+easy-mcp: 1
+AutoCAD MCP 服务器: 1
+mcp-server-ledger: A Ledger CLI MCP Server: 1
+MCPAgentAI 🚀: 1
+ezmcp: 1
+LLMling: 1
+mcp-ankiconnect MCP server: 1
+mcp-turso-cloud: 1
+mcp-host-use: 1
+🔍 Nexus MCP Server: 1
+Node Code Sandbox MCP 🛠️: 1
+RagDocs MCP Server: 1
+activepieces: 1
+Graphiti: 1
+Graphiti MCP Server: 1
+mcp-agent: 1
+moling: 1
+ms-365-mcp-server: 1
+LSPD Interrogation MCP Server: 1
+office-365-mcp-server-by-cdata: 1
+Law Office SQLite MCP Server: 1
+Office Supplies Inventory NANDA Service using MCP Server + NANDA Registry + NANDA host client: 1
+Claude Case File SQLite Integration: 1
+HeFeng Weather MCP Server: 1
+Meilisearch Hybrid Search MCP Server: 1
+Meilisearch MCP Server (Go): 1
+OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs: 1
+Awesome Crypto MCP Servers: 1
+Awesome Claude MCP Servers 🤖: 1
+Awesome-MCP-Server 🚀: 1
+awesome-solana-mcp-servers: 1
+Awesome-Medical-MCP-Servers: 1
+mcp-llms-txt: 1
+awesome-mcp: 1
+🚀 Awesome-MCP-Scaffold: 1
+mcp-cps-data MCP server: 1
+mcp-scholarly MCP server: 1
+Google Scholar MCP Server: 1
+MCP Scholar: 1
+🎓 Semantic Scholar MCP Server: 1
+Semantic Scholar API MCP server: 1
+CiteAssist MCP server: 1
+📚 Semantic Scholar MCP Server: 1
+Black-Scholes MCP Server: 1
+pdffigures2-MCP-Server: 1
+grobid-MCP-Server-: 1
+MCP Google Calendar Server: 1
+cal2prompt: 1
+MCP Google Workspace Server: 1
+Calendar AutoAuth MCP Server: 1
+caldav-mcp: 1
+Google MCP Tools: 1
+Hebcal Jewish holidays and Hebrew calednar Model Context Protocol (MCP) server: 1
+MCP Nextcloud Calendar: 1
+Member Berries Apple MCP 🫐: 1
+Google Calendar MCP Server (Python): 1
+After Effects MCP Server: 1
+mcp-server-restart: 1
+OpenBudget MCP Server: 1
+After Effects Motion Control Panel (MCP): 1
+Delay Doomsday MCP Server: 1
+Fonoster: The open-source alternative to Twilio: 1
+Tianji MCP Server: 1
+Tianji: 1
+AWS MCP: 1
+Asterisk MCP Server: 1
+🎯 Kubernetes AI Management System: 1
+AYX-MCP-Wrapper: 1
+OpenDeepSearch: 1
+Sequential Thinking MCP: 1
+🌟 Asterisk S2S MCP Server: 1
+Aster Info MCP: 1
+mcp-golang: 1
+godoc-mcp-server: 1
+Zerodha MCP Server: 1
+Go Delve Debugger MCP Server: 1
+Creating an MCP Server in Go and Serving it with Docker: 1
+MCP Argo Server: 1
+mcp-server-email: 1
+MCP Go: 1
+go-mcp: 1
+Creating an MCP Server in Go and Serving it with Docker (part 2): 1
+🏦 FDIC BankFind MCP Server 🤠💻: 1
+DataWorks MCP Server: 1
+SEO Tools MCP Server: 1
+dbt MCP Server: 1
+Azure Cosmos DB MCP Server: 1
+Ollama MCP Database Assistant: 1
+Astra DB MCP Server: 1
+Cursor DB MCP Server: 1
+MCP Database Server: 1
+DBT CLI MCP Server: 1
+SolarWinds Logs MCP Server: 1
+RapidAPI MCP Server: 1
+RapidAPI MCP: 1
+mcp-rapidapi-judge0-server: 1
+⚡️ mcpo: 1
+MCP-Scan: An MCP Security Scanner: 1
+Code Sandbox MCP 🐳: 1
+ClickUp MCP Integration: 1
+mcp-clickup: 1
+ClickUp MCP for AI Assistants: 1
+ClickUp MCP Prototype: 1
+erickwendel-contributions-mcp: 1
+🌳 Smart Tree (st) v3.1.1 - The Directory Visualizer That Rocks! 🎸: 1
+McGravity: 1
+agentek: 1
+Agentek MCP Server: 1
+Uniswap Trader MCP: 1
+WIP: Caution!!! AI code and probably wrong in many ways though it "runs".: 1
+DINO-X MCP: 1
+MCP Docent Server: 1
+Just Prompt - A lightweight MCP server for LLM providers: 1
+Replicate MCP Server: 1
+FS MCP: 1
+Financial Modeling Prep (FMP) MCP Server: 1
+FS-MCP: Universal File Reader &amp; Intelligent Search MCP Server: 1
+Smooth Operator Agent Tools - Python Library: 1
+Browser-use MCP Client: 1
+GitHub Projects MCP Server: 1
+LiGo + LinkedIn MCP Runner: 1
+Lindorm MCP Server: 1
+🚀 Groq MCP Server: 1
+Linode MCP Server: 1
+LangChain + Gemini + MCP (Tool Server): 1
+MCP-tools: 1
+Overview: 1
+WatchBase MCP Server: 1
+IP Geolocation MCP Server: 1
+sequential-thinking-claude-code: 1
+lbk-mcp: 1
+Band MCP Server: 1
+Package Version MCP Server: 1
+image-gen MCP Server: 1
+venv-mcp-server: 1
+Crypto-Pegmon-MCP: 1
+ComfyUI MCP Server: 1
+AI Image Generation MCP Server: 1
+MCP for Security 🔐: 1
+Starlette MCP SSE: 1
+🛡️ Wazuh MCP Server - AI-Powered Security Operations: 1
+Honeycomb MCP Server: 1
+Wazuh MCP Server: 1
+ShotGrid MCP Server: 1
+lightfast-mcp - Model Context Protocol for Creative Applications: 1
+⚠️PREVIEW: Not recommended for production: 1
+🔐 SSE MCP Server with JWT Authentication: 1
+Random Number MCP: 1
+Model Context Protocol (MCP) Example: 1
+LacyLights MCP Server: 1
+Mockloop MCP: Intelligent Model Context Protocol Server: 1
+MCP Server - Production Monorepo: 1
+Job URL Analyzer MCP Server: 1
+Clerk MCP Server Template: 1
+Redshift Utils MCP Server: 1
+@haakco/mcp-utils: 1
+Ultimate Frisbee Team MCP Server: 1
+XiYan MCP Server: 1
+Claude-C2: 1
+spring-ai-mcp-client: 1
+Beanquery MCP: 1
+codelogic-mcp-server: 1
+TypeScript MCP Agent with Ollama Integration: 1
+feuse-mcp: 1
+Cloudflare Audit Logs MCP Server 🕵🏻: 1
+Lanalyzer: 1
+mcp-shell 🐚: 1
+MCP Code Audit Server: 1
+JWT Auditor MCP Server: 1
+Powerpoint MCP server: 1
+ableton-copilot-mcp: 1
+Bing Searches Analysis Toolkit: 1
+mcp-server-bwt: 1
+MCP Server for Bing Webmaster Tools: 1
+MCP Email Server: 1
+mcp-server-yahoo-finance MCP server: 1
+MCP Simple Slackbot: 1
+WeCom Bot MCP Server: 1
+MCP Communicator (Telegram): 1
+LocaLLama MCP Server: 1
+Perplexity Advanced MCP: 1
+gensokyo: 1
+Unleash MCP Server: 1
+Unleash Feature Flag MCP Server: 1
+🤗 Hugging Face MCP Server 🤗: 1
+🤗 HuggingMCP - Hugging Face Model Context Protocol Server: 1
+huggingface-mcp-course: 1
+Game Asset Generator using MCP and Hugging Face Spaces: 1
+Hugging Face Hub Semantic Search MCP Server: 1
+MCP 服务工具: 1
+Github with PR Template Tools: 1
+Quickbase MCP Server: 1
+QuickBase MCP Server: 1
+quickbase-mcp-server-by-cdata: 1
+Quickbase MCP Connector: 1
+mcp-hacker-news: 1
+MCP Claude Hacker News: 1
+Hacker News Plugin: 1
+📰 Hacker News MCP Server: 1
+HackerNews MCP Server: 1
+HackerMCP: 1
+A1D MCP Server - Universal AI Tools: 1
+MCP Server for Hacker News: 1
+Hacker News Companion MCP: 1
+hackernew-mcp: 1
+Podman MCP Server: 1
+Container-MCP: 1
+Model Context Protocol (MCP) for NASA Earthdata Search (CMR): 1
+marker-mcp: 1
+🎙️ Podbean MCP Server 🎧: 1
+Problem integracji Make z Claude poprzez MCP: 1
+MCP Pod: 1
+Zaturn: Your Co-Pilot For Data Analytics &amp; BI: 1
+PiloTY: 1
+GIT-Pilot 🚀: 1
+Cloud Foundry MCP Server: 1
+Spring Application Advisor MCP Server: 1
+MCP Think Tool: 1
+loot-mcp: 1
+mssql-mcp: 1
+mcp-clj: 1
+MCP-scala: 1
+MCP Discovery: 1
+MCP Filesystem Python: 1
+Lightpanda Go MCP server: 1
+TON BLOCKCHAIN MCP: 1
+Substrate MCP Server: 1
+mcp-server-python: 1
+Teamwork MCP: 1
+MCPQL - SQL Server MCP Server: 1
+Cycode CLI User Guide: 1
+MCP NMAP Server: 1
+Snyk MCP Server: 1
+MCP Accessibility Scanner: 1
+Trivy Security Scanner MCP Server: 1
+HydraΜCP — The Model Context Protocol (MCP) Pentesting Toolkit: 1
+Nmap MCP Server: 1
+🛡MobSF MCP Tool: 1
+ZeroPath MCP Server: 1
+MCP SBOM Server: 1
+TODO Scanner: 1
+MCP Server For Garak LLM Vulnerability Scanner: 1
+ClamAV MCP: 1
+MCP Neurolora: 1
+Better GitLab MCP Server: 1
+MCP Git Ingest: 1
+Calculator MCP Server: 1
+JSON Resume MCP Server: 1
+Unity MCP Server - Enhancing Unity Editor Actions with MCP Clients 🎮: 1
+Analytical MCP Server: 1
+Claude Notification Server: 1
+MCP Servers Collection: 1
+Teradata MCP Server: 1
+teradata-mcp-server-by-cdata: 1
+Titan Memory MCP Server: 1
+NSAF MCP Server: 1
+Advanced TTS MCP Server: 1
+Brain-Computer Interface with Model Context Protocol (BCI-MCP): 1
+duckduckgo-search MCP Server: 1
+duckduckgo-web-search MCP Server: 1
+MCP DuckDuckGo Search Plugin: 1
+Duck Duck MCP: 1
+mcp-duckduckgo-search: 1
+DuckDuckGo Web Search MCP Server: 1
+LLM Researcher: 1
+duckduckgo_web_search_mcp_server: 1
+MCP DuckDuckResearch: 1
+The Verge News MCP Server: 1
+Vercel MCP Integration: 1
+Vercel MCP Server 🚀: 1
+Vercel AI SDK Documentation MCP Agent: 1
+How to run the project: 1
+Nuxt MCP Server on Vercel: 1
+AI MCP Server: 1
+Big Brain MCP - Mantle Network Stats Server: 1
+The ultimate Vercel MCP Server: 1
+Image Processor MCP Server: 1
+@vercel/mcp-adapter: 1
+AI Development Pipeline MCP Integration: 1
+MCP LSP Go: 1
+MCP-GOPLS: 1
+gopls-mcp: 1
+Algorand MCP Implementation: 1
+Goal Story MCP Server: 1
+🌐 SHODAN-MCP: 1
+shodan-mcp-server: 1
+API Docs MCP Server: 1
+Amplitude MCP Server: 1
+ReActMCP Web Search: 1
+Google Search Console MCP: 1
+PostHog MCP Server 📊: 1
+🏆 Audiense Insights MCP Server: 1
+OSSInsight MCP Server: 1
+MCP Server (mockloop-mcp): 1
+MCP Paradex Server: 1
+Climatiq MCP Server: 1
+Financial Modeling Prep MCP (Model Context Protocol): 1
+Textra Japanese to English Translator MCP Server: 1
+Transistor MCP Server: 1
+moling-minecraft: 1
+Harvest Natural Language Time Entry MCP Server: 1
+strapi-mcp MCP Server: 1
+Crypto_MCP: 1
+EntraID MCP Server (Microsoft Graph FastMCP): 1
+🔒 Minimal Entra ID-authenticated MCP Server: 1
+Enkrypt AI MCP Server: 1
+MCP Crontab Explorer: 1
+Projeto MCP: 1
+MCP Recherche d'entreprises: 1
+MCP-APIKit: 1
+@harshmaur/gitlab-mcp: 1
+Tabular MCP Server: 1
+GhidrAssistMCP: 1
+Burp Suite MCP Server Extension: 1
+Bifrost - VSCode Dev Tools MCP Server: 1
+Quarkus Model Context Protocol (MCP) Server: 1
+browser-mcp: 1
+Browser Control MCP: 1
+codemirror-mcp: 1
+Isaac Sim MCP Extension and MCP Server: 1
+MCP Extension for SillyTavern: 1
+Protonmail MCP Server: 1
+youtube_mcp: 1
+MCP Audio Transcriber: 1
+MCP Server for Transcripter: 1
+Beamlit MCP Server: 1
+MCP YouTube Transcript Server: 1
+py-mcp-youtube-toolbox: 1
+YouTube MCP: 1
+Youtube MCP server: 1
+YouTube to Google Sheets MCP Server: 1
+FamilySearch MCP Server: 1
+Mail MCP 工具: 1
+MCP Notmuch Sendmail: 1
+MailPace MCP (Model Context Protocol) Server: 1
+mailchimp-mcp-server-by-cdata: 1
+Hiworks Mail MCP: 1
+mailmodo-mcp: 1
+OutlookMCPServer: 1
+MailchimpMCP: 1
+𓂀𓁢𓋹𝔸ℕ𝕌𝔹𝕀𝕊𓋹𓁢𓂀 - Intelligent Guidance for AI Workflows: 1
+AWS ElastiCache MCP Server: 1
+AWS Pricing MCP Server: 1
+AWS CDK MCP Server: 1
+Amazon Bedrock Knowledge Base Retrieval MCP Server: 1
+Cost Analysis MCP Server: 1
+🧠 PAELLADOC: The AI-First Development Framework: 1
+LiteMCP: 1
+Freshdesk MCP Server: 1
+Freshservice MCP Server: 1
+Weather MCP Server (JavaScript ES Modules): 1
+MCP: 1
+BetterMCPFileServer: 1
+opgen MCP Server: 1
+AWS Labs OpenAPI MCP Server: 1
+MCP CLI - Model Context Provider Command Line Interface: 1
+What is WayStation: 1
+Gemini CLI with MCP Server: Expanding Possibilities with Google Apps Script: 1
+D0UGWITHSEISMIC/WITHSEISMIC-MCP: 1
+Limitless MCP Server (v0.1.0): 1
+Mac Shell MCP Server: 1
+MCP-123 The easiest way to run an MCP server &amp; client (2 lines each): 1
+MPC Tally API Server: 1
+Markov Databricks MCP: 1
+Databricks Genie MCP Server: 1
+databricks-mcp-server-by-cdata: 1
+Databricks Permissions MCP Server: 1
+perplexity-mcp MCP server: 1
+ros-mcp-server: 1
+MCP2Lambda: 1
+Lark MCP - 飞书全场景 Function Call AI 助手 🚀: 1
+nacos-mcp-router: A MCP server that provides functionalities such as search, installation, proxy, and more.: 1
+Secure Remote MCP Servers using Azure API Management (Experimental): 1
+Stability AI MCP Server: 1
+MCP Code Executor: 1
+command-executor MCP Server: 1
+cmd-line-executor MCP server: 1
+MCP Python Executor: 1
+MCP Command Executor: 1
+Shell Executor MCP Server: 1
+🧠 DeepSeek R1 Reasoning Executor: 1
+@zephyr-mcp/gitlab-restful-api: 1
+Upbit MCP 서버: 1
+Dummy MCP Server: 1
+MedifinderMCP Server: 1
+Strapi CMS MCP: 1
+Markdown Downloader MCP Server: 1
+ScrAPI MCP Server: 1
+ServiceDesk Plus MCP Server: 1
+Trinity-MCP: 1
+PolyMarket MCP Server: 1
+Polymarket MCP Server: 1
+Polymarket MCP Tool: 1
+covid-mcp-server: 1
+Device Country MCP: 1
+MCP Server for IP address geolocation and network data from IPLocate.io: 1
+Countries MCP: 1
+WolframAlpha LLM MCP Server: 1
+RepoDocumenter: 1
+MCP PowerShell Exec Server: 1
+MCP Server for Executing Terminal Commands: 1
+shell-command-mcp: 1
+Jupiter MCP Server: 1
+GPT MCP Proxy: 1
+Blender MCP Server: 1
+Super Shell MCP Server: 1
+Shell Command MCP Server: 1
+xcode-mcp: 1
+Deno MCP Server: 1
+🗒️ AI Sticky Notes – MCP Server in Python: 1
+Stocky Find beautiful royalty-free stock images 📸: 1
+MetaMCP MCP Server: 1
+AI Meta MCP Server: 1
+MCP-MCP: Meta-MCP Server: 1
+Meta MCP Proxy: 1
+mcp4mcp - Meta MCP Server: 1
+Policy MCP Server: 1
+ORKL MCP Server: 1
+JetBrains MCP Server Plugin: 1
+YouTrack MCP Server v0.3.7: 1
+MCP Proxy Sidecar: 1
+MCP JetBrains Proxy: 1
+Zig MCP Server: 1
+MCP GO Tools: 1
+Coding Standards MCP Server: 1
+WisdomForge: 1
+Practices MCP Server: 1
+CISA M365 MCP Server: 1
+Clio MCP Server: 1
+MCP Server Practice: 1
+my-server MCP Server: 1
+$CLAUD Grant Applications: 1
+Cloudflare Workers Bindings MCP Server: 1
+Workers Observability MCP Server 🔭: 1
+🤖 Claude IPC MCP - AI-to-AI Communication: 1
+🪐 MCP IPFS Server (storacha.network) 🛰️: 1
+WhatTimeIsIt MCP Server: 1
+Postgres MCP (Research Project): 1
+IP2Location.io MCP server: 1
+chaitin-ip-intelligence-search-tool: 1
+埃文IP定位 MCP Server: 1
+IP Find MCP Server: 1
+MCP IP Geolocation Server: 1
+Stack-chan: 1
+Model Context Protocol (MCP) Schema for Rust: 1
+MKP - Model Kontext Protocol Server for Kubernetes: 1
+MCP Server - Model Context Protocol API: 1
+OSV MCP Server: 1
+Claude Desktop Commander MCP: 1
+Search Stock News MCP Server 🚀: 1
+Hermes Search MCP Server 🔍: 1
+OCI Registry MCP Server: 1
+Ares DevOps MCP Server 🚀: 1
+🎬 YARR Media Stack MCP Server: 1
+🚀 Re-Stack MCP Server – Bridging Stack Overflow &amp; LLMs: 1
+amazon-fresh-server MCP Server: 1
+Vibe Coder MCP Server: 1
+Texas Holdem MCP Server: 1
+freshdesk-mcp-server-by-cdata: 1
+FreshBooks MCP Server: 1
+JavaScript MCP Server: 1
+Code Context MCP Server: 1
+alibaba-cloud-ops-mcp-server: 1
+ops-mcp-server Project: 1
+OpsLevel MCP Server: 1
+Real Estate MCP Server: 1
+ops-mcp: 1
+MCP Opsbeacon Server: 1
+PyTorch HUD API with MCP Support: 1
+Desktop Commander MCP Server (Modular FastMCP Implementation): 1
+Command Execution MCP Server for Claude Desktop: 1
+mcp-get: 1
+Shopify Dev MCP Server: 1
+Smithery CLI: 1
+Sharepoint: 1
+SharePoint Online MCP Server: 1
+SharePoint MCP Server: 1
+sharepoint-mcp-server-by-cdata: 1
+sharepoint-excel-services-mcp-server-by-cdata: 1
+AWS API MCP Server: 1
+AWS S3 Tables MCP Server: 1
+Claude Gemini MCP Integration: 1
+MCP.science: Open Source MCP Servers for Scientific Research 🔍📚: 1
+ApeRAG: 1
+PyGithub MCP Server: 1
+TripAdvisor Vacation Planner MCP Server: 1
+ht-mcp: 1
+Memex for Model Context Protocol: 1
+Memento MCP: A Knowledge Graph Memory System for LLMs: 1
+Meme MCP Server: 1
+Memento: 1
+Karakeep (Hoarder) MCP Server: 1
+SuperMemory MCP 🧠: 1
+Inspektor Gadget MCP Server: 1
+ig-download-mcp-server: 1
+Sentiment + Sarcasm Analyzer (Gradio + MCP): 1
+thuecat-mcp: 1
+MCP Server Demo con Streamlit y Ollama: 1
+SouthAsia MCP Tool: 1
+UnityMCP: 1
+MTG Deck Manager MCP Servers: 1
+Room MCP: 1
+Cross-System Agent Communication MCP Server: 1
+Multi-Chat MCP Server (Google Chat Included): 1
+Demo Mercado Pago MCP Server: 1
+Pagos Data MCP Server: 1
+Minesweeper MCP Server: 1
+MCP Server Basic Example: 1
+MCP on AWS Bedrock: 1
+Standardizing LLM Interaction with MCP Servers: 1
+Weights &amp; Biases MCP Server: 1
+BNBChain MCP (Model Context Protocol): 1
+BNB Chain MCP Server: 1
+Sensei MCP: 1
+starknet-mcp: 1
+🌐 Starknet MCP Server: 1
+aworld: 1
+MCP-Human: Human Assistance for AI Assistants: 1
+Coding Assistant Server: 1
+QuickBooks Time MCP Server (V2 Update): 1
+GitHub-Gemini MCP Server: 1
+Langfuse Prompt Management MCP Server: 1
+Modex: Model Context Protocol Server &amp; Client Library in Clojure: 1
+Claude Custom Prompts Server: 1
+⚡ C̷h̷u̷c̷k̷N̷o̷r̷r̷i̷s̷ MCP Server: Enhance Your LLM ⚡: 1
+Comfy MCP Server: 1
+Apple Notifier MCP Server: 1
+Steampipe Model Context Protocol (MCP) Server: 1
+SpaceBridge-MCP: 1
+MCP Rand: 1
+Turbo Docs MCP Server: 1
+@mcp-get-community/server-curl: 1
+Speech.sh: 1
+curl mcp - the last MCP you'll need: 1
+Web-curl: 1
+🚀 MCP-AI: Self-Learning API-to-cURL Model: 1
+Curl MCP Server: 1
+DuckDB MCP Server: 1
+box-mcp-server-by-cdata: 1
+mcp-box: 1
+T/MCP - Telos Model Context Protocol: 1
+Pinner MCP 📍: 1
+Pinterest MCP Server: 1
+pinterest-mcp-server-by-cdata: 1
+MCP Server.exe: 1
+XiaozhiMCP-MapNAVI | MCP地图导航工具: 1
+xiaozhi-location-mcp: 1
+ChatData MCP 服务器: 1
+@mcp-get-community/server-macos: 1
+VictoriaMetrics MCP Server: 1
+Model Context Protocol Community: 1
+Cline Community MCP Server: 1
+Toolhouse MCP Server: 1
+VictoriaLogs MCP Server: 1
+Hyprland MCP Server: 1
+Clojars MCP Server: 1
+MCP Hub: 1
+MCP System Monitor: 1
+Chrome Tools MCP Server: 1
+Raygun MCP Server: 1
+aws-ses-mcp 📧: 1
+PlainSignal MCP Server: 1
+Testing-of-FakePixelPe-Mcpe-Server: 1
+AppSignal MCP Server: 1
+Pulse Fetch MCP Server: 1
+Twist MCP Server: 1
+AutoMobile: 1
+git mob: 1
+OpenFGA MCP: 1
+heimdall: 1
+AWS Service Reference MCP Server: 1
+AWS Service Reference Information MCP Server: 1
+Singapore LTA MCP Server: 1
+ThingsPanel MCP: 1
+Draw Things MCP: 1
+Thingsboard MCP Server: 1
+Things3 MCP Server: 1
+CodeM: 1
+Thingiverse MCP Server: 1
+Baseline MCP Server: 1
+Jenkins Server MCP: 1
+Jenkins MCP: 1
+@grec0/mcp-jenkins: 1
+mcp_jenkins: 1
+014.jenkinsmcp: 1
+Jenkins API MCP Server: 1
+MCP Server for Apache Airflow: 1
+CLI MCP Server: 1
+MCPGod: 1
+Waldzell MCP Servers: 1
+Roo Code Memory Bank MCP Server: 1
+Modes MCP Server: 1
+Roo Activity Logger: 1
+Gemini Flash MCP - Image Generation for Roo Code: 1
+root-signals-mcp: 1
+RPG MCP Servers for Roo Code AI Dungeon: 1
+Warden Magento MCP Server: 1
+Filesystem MCP Server (@shtse8/filesystem-mcp): 1
+LSD MCP server: 1
+LSD MCP: 1
+Alper Hoca ile MCP Server: 1
+MCP Server Test Projesi: 1
+Dynamic Shell Command MCP Server: 1
+MCPShell: 1
+Pandora's Shell: 1
+🖥️ Shell MCP Server: 1
+mcp-cli-exec MCP Server: 1
+shell-mcp: 1
+Static Analysis Rule-sets for SQL Projects: 1
+Web3 MCP: 1
+MCPRules - Programming Guidelines Management Server: 1
+Playbooks Rules: 1
+cedardiff MCP Server: 1
+Rag chatbot with a localhost MCP server: 1
+My Rules: 1
+Business Central MCP Server: 1
+Python MCP Server Development with Cursor Rules: 1
+github-mcp-cursor-project-rules: 1
+Remote-MCP: Remote Model Context Protocol: 1
+MCP TaskManager: 1
+AWS DocumentDB MCP Server: 1
+🌟 Microsoft Docs MCP Server: 1
+🐋 Docker MCP server: 1
+🐳 docker-mcp: 1
+ExecuteAutomation Database Server: 1
+🐇 MCP SQLite Server: 1
+mcp-task-manager-server: 1
+MCP SQLite Server: 1
+mcp-sqlite: 1
+DeltaTask - Advanced Task Management System: 1
+Solana MCP (Model Context Protocol): 1
+Solana MCP Server 🌱: 1
+SolanaViz MCP Server: 1
+Solana Model Context Protocol (MCP): 1
+100ms Raydium Sniper MCP: 1
+MCP Browser Use: 1
+MCP Memory: Persistent Memory for AI Conversations 🧠: 1
+elasticsearch-mcp-server-by-cdata: 1
+@fingertip/mcp: 1
+Cost Explorer MCP Server: 1
+AWS Cost Explorer and Amazon Bedrock Model Invocation Logs MCP Server &amp; Client: 1
+Azure Data Explorer MCP Server: 1
+insight: 1
+Swagger Explorer MCP: 1
+RDF Explorer v1.0.0: 1
+Story MCP Hub: 1
+Compiler Explorer MCP: 1
+Claude MCP Data Explorer for Windows: 1
+Database Explorer MCP Tool: 1
+.NET Types Explorer MCP Server: 1
+grok_mcp: 1
+🛰️ Solana MCP Explorer: 1
+mcp-server-kusto: 1
+🔍 Project Explorer MCP Server: 1
+Cairo Coder MCP Server: 1
+Gotas Commerce API &amp; MCP Integration: 1
+Japanese Vocab Anki MCP Server: 1
+Japanese Text Analyzer MCP Server: 1
+MCP Simple AivisSpeech: 1
+MCP Ruby Server Skeleton: 1
+MCP Server Hub UI: 1
+any-chat-completions-mcp MCP Server: 1
+ZIP MCP Server: 1
+OpenWeather MCP Server: 1
+Zipic MCP Server: 1
+Zipcode Search MCP Server: 1
+Obsidian Model Context Protocol: 1
+postgres-mcp MCP server: 1
+MCP Server for Data Exploration: 1
+codemcp: 1
+kospi-kosdaq-stock-server: 1
+GraphQL Schema Model Context Protocol Server: 1
+OpenAPI Schema Model Context Protocol Server: 1
+Kafka Schema Registry MCP Server: 1
+FEGIS: Structured Memory &amp; Cognitive Framework for LLMs: 1
+MCP Servers Schemas: 1
+TG_MCP: 1
+mcp-server-esignatures MCP server: 1
+Vibe querying with MCP server for Azure Data Explorer (Kusto): 1
+ZZZHDW_mcp-server-kusto: 1
+Minimax MCP Tools: 1
+minima: 1
+minima MCP server: 1
+Aider MCP Server - Experimental: 1
+llmbasedos: 1
+think-mcp-server: 1
+Bonsai-mcp - Blender Model Context Protocol Integration for IFC through IfcOpenShell: 1
+Redis Cloud API MCP Server: 1
+🚀 MCP Server with Docker, Redis, and TimescaleDB: 1
+MCP Memory with Redis Graph: 1
+MCP Waifu Queue: 1
+Agentic Enterprise: 1
+redis-mcp-server-by-cdata: 1
+ai-session-mcp: 1
+dt_mcp Server (Decision Tree &amp; Task Management MCP Server): 1
+MCP Server for ZenML: 1
+Pipedrive MCP Server: 1
+python-pip-mcp: 1
+MCPHub 🚀: 1
+alibabacloud-devops-mcp-server: 1
+Comfy MCP Pipeline: 1
+MCP Server - Image: 1
+MCP Server for PipeCD: 1
+stdout-mcp-server: 1
+AWS CodePipeline MCP Server: 1
+mcp-tekton: a Tekton Model Context Protocol Server: 1
+C.W.K. Pippa MCP Memory Manager for Cursor IDE: 1
+Gemini MCP Tool: 1
+CodeAlive MCP: Deep Context for your project (especially for large codebases): 1
+Consult7 MCP Server: 1
+KiCAD MCP: AI-Assisted PCB Design: 1
+Project Jessica (ElevenLabs TTS MCP): 1
+mcp-server-nacos: A Nacos MCP server: 1
+LandiWetter MCP Server: 1
+Logfire MCP Server: 1
+mcp_proxy_pydantic_agent: 1
+LLM Bridge MCP: 1
+Pydantic AI Documentation Server: 1
+web-search-agent: 1
+GCP MCP: 1
+Azure CLI MCP: 1
+Workers MCP Server: 1
+Model Context Protocol (MCP) Middleware for Lisp-based and Lisp-like Environments: 1
+Jira communication server MCP Server: 1
+A2A MCP Server: 1
+Mixpanel MCP: 1
+Confluence Communication Server MCP Server: 1
+workers-mcp-clerk: 1
+MCP Advisor: 1
+Shadcn UI v4 MCP Server: 1
+Mathematica Documentation MCP server: 1
+🚀 Yango Tech MCP Server - One Command Installation: 1
+Verify installation: 1
+NLSQL MCP Server: 1
+DaVinci MCP Professional v2.1.0: 1
+uv-mcp: 1
+spinqit_mcp_tools Installation Guide: 1
+On Windows, please refer to the official uv installation guide for instructions.: 1
+mcp-zen-npx: 1
+Installation: 1
+MCP Server with FAISS for RAG: 1
+Fish Audio MCP Server: 1
+MS-Lucidia-Voice-Gateway-MCP: 1
+Audio Player MCP Server: 1
+Audio MCP Server: 1
+MCP Video &amp; Audio Text Extraction Server: 1
+Crypto Fear &amp; Greed Index MCP Server: 1
+MCP Access Point: 1
+Snowfort Circuit MCP - Computer use for webapps and electron apps: 1
+puzzlebox: 1
+Gerrit Review MCP Server: 1
+MCP Code Expert System: 1
+mcp-observer-server: 1
+Obsidian Index Service: 1
+Twitter Username Changes MCP Server: 1
+Git File Forensics MCP: 1
+Changelog: 1
+mcp-flux-schnell MCP Server: 1
+Flux Schnell MCP Server: 1
+Flux Schnell Server: 1
+Flux Image MCP Server: 1
+Flux Image Generation Server: 1
+MCP Server: Ollama Deep Researcher: 1
+Quantitative Researcher MCP Server: 1
+Qualitative Researcher MCP Server: 1
+watson_discovery_mcp: 1
+poker_win_calculator: 1
+Cloudflare MCP Server: 1
+Cloudflare AI Gateway MCP Server 📡: 1
+Cloudflare AutoRAG MCP Server 📡: 1
+Cloudflare Browser Rendering MCP Server 📡: 1
+Cloudflare Container Sandbox MCP Server: 1
+Cloudflare Radar MCP Server 📡: 1
+Cloudflare Logpush MCP Server 📜: 1
+Cloudflare DNS Analytics MCP Server 📡: 1
+Model Context Protocol (MCP) Server for Graphlit Platform: 1
+mcp-graphql: 1
+Lokka - MCP Server for Microsoft Graph: 1
+Lokka: 1
+MCP server for LogSeq: 1
+AutoProbeMCP - a browser for your Agent: 1
+MCP Reporter: 1
+@tailor-platform/tailor-mcp: 1
+GitHub Workflow Debugger MCP: 1
+db-mcp: 1
+Nekzus MCP Server: 1
+MCP-ShellJS: 1
+MCP Server Nekzus: 1
+Financial Datasets MCP Server: 1
+Kaggle-MCP: Kaggle API Integration for Claude AI: 1
+Powerdrill MCP Server: 1
+🧠 智能知识库管理MCP工具 v2.0: 1
+Power BI MCP Server 🚀: 1
+Opera Omnia MCP Server: 1
+Datasette MCP: 1
+mcp-server-rdf: 1
+Bangalore BMTC Mobility Connectivity Platform (MCP): 1
+ClinicalTrials.gov MCP Server: 1
+NCCN Guidelines MCP Server: 1
+NexonCo MCP: Advanced Clinical Evidence Analysis Server 🌟: 1
+Mutation Clinical Trial Matching MCP: 1
+MCP Server for ClinicalTrials.gov Natural Language API: 1
+@genm/switchbot-mcp: 1
+RedNote MCP - Xiaohongshu Content Search Tool: 1
+rednote_mcp: 1
+mcp-server-mediawiki: 1
+ScrapeGraph MCP Server: 1
+Scrapeless Mcp Server: 1
+Lead Generation Server Documentation: 1
+@scrapezy/mcp MCP Server: 1
+Cursor Resources: 1
+Amplify Data API MCP Server: 1
+MCP Server for Asana: 1
+Elementor MCP Server: 1
+MCP Browser Agent: 1
+domshot: 1
+Element MCP: 1
+SD Elements MCP Server: 1
+RandomWeb3MCP - Web3 Random Element Generation Service: 1
+mcprouter: 1
+Discover Exceptional MCP Servers: 1
+MCP Code Analysis Server: 1
+investor-agent: A Financial Analysis MCP Server: 1
+MCP Tree-sitter Server: 1
+Log Analyzer with MCP: 1
+Israeli Bank MCP: 1
+PayPal-MCP: 1
+Atomic Writer MCP Server: 1
+ShareSeer MCP Server: 1
+NFL Transactions MCP: 1
+MCP Blockchain Server &amp; DApp: 1
+Beancount MCP (Model Context Protocol) Server: 1
+Postmark MCP Server: 1
+mcp-server-brian: 1
+BlenderMCP - Blender Model Context Protocol Integration: 1
+Nx MCP Server: 1
+SupaMCP: 1
+blackbaud-fe-nxt-mcp-server-by-cdata: 1
+raisers-edge-nxt-mcp-server-by-cdata: 1
+Multimodal Model Context Protocal Server: 1
+OpenRouter MCP Multimodal Server: 1
+morphik-mcp: 1
+OpenStack MCP Server: 1
+Pollinations Multimodal MCP Server: 1
+RAG Anything MCP Server: 1
+TripGo MCP Server: 1
+Google News MCP Server: 1
+VibeShift: The Security Engineer for Vibe Coders: 1
+Memory-Plus: 1
+apktool-mcp-server (Part of Zin's Android Rerverse Engineering MCP Suite): 1
+Vibe-Coder MCP Server: 1
+QRCode_MCP: 1
+MCP Image Downloader: 1
+Web Crawler MCP Server Deployment Guide: 1
+eMCP: 1
+DefectDojo MCP Server: 1
+nonead-universal-robots-mcp: 1
+nur_mcp_server: 1
+nuniversal-robots-mcp: 1
+nur-mcp-server: 1
+express-mcp-handler: 1
+MCP Server &amp; Middleware: 1
+API MCP Server: 1
+Panther MCP Server: 1
+📊 Tax Alert Chatbot (MCP-Powered): 1
+Hyperliquid WhaleAlert MCP: 1
+mcp-server-weather: 1
+📚 Wiki MCP Server: 1
+Prometheus Alertmanager MCP Server: 1
+🔍 Intelligent Anomaly Detection System: 1
+mcp-claude-spotify: 1
+ArtistLens: 1
+Spotify MCP: 1
+Vuples Spotify MCP Server: 1
+MCP_Server_Spotify: 1
+Spotify MCP Server for Vibecoder: 1
+Spotify Model Context Protocol (MCP): 1
+MCP Server TypeScript Starter: 1
+Crawl4AI RAG MCP Server: 1
+MCP-RSS-Crawler: 1
+Deep Research MCP 🌐: 1
+Docs Crawler MCP Server: 1
+MCP Note Taker (POC): 1
+Sitemap MCP Server: 1
+Crawlab MCP Server: 1
+arm64-mcpelauncher-server: 1
+Bankless Onchain MCP Server: 1
+Loki: like Prometheus, but for logs.: 1
+AWS Labs cloudwatch-logs MCP Server: 1
+CloudWatch Logs MCP Server: 1
+Logseq MCP Server: 1
+BrowserLoop: 1
+ConsoleSpy: An MCP Server for Cursor: 1
+MCP Server: Analyze &amp; Debug MCP Logs: 1
+**Chotu Robo Server - MCP Server for Arduino **: 1
+mcp-wecombot-server: 1
+Unitree Go2 MCP Server: 1
+robot-mcp-server: 1
+MCP Desktop Automation: 1
+Robot Control Service: 1
+Xano MCP Server: 1
+Multi-Robot Control MCP Agent: 1
+Opentrons MCP Server: 1
+Xano MCP Server for Smithery: 1
+✨ AiderDesk: 1
+Aider MCP Server: 1
+RepoMap - Command-Line Tool and MCP Server: 1
+MyMCP - Multiple Coding Prompts with Aider: 1
+git-commit-aider MCP Server: 1
+google-calendar-mcp-python: 1
+y-cli 🚀: 1
+MCP Memory Server: 1
+Binance MCP Server: 1
+DeepSeek MCP-like Server for Terminal: 1
+MCP Terminal: 1
+UltimateCoder MCP: 1
+MCP Actions Adapter: 1
+Image Gen MCP Server: 1
+GPT Image MCP Server: 1
+image-mcp-server: 1
+mcp-asset-gen: 1
+openai-gpt-image-mcp: 1
+Wanaku - A MCP Router that connects everything: 1
+MCP Local Router: 1
+mcprouter MCP Server: 1
+@mcp-it/fastify: 1
+tRPC &lt;-&gt; MCP: 1
+Dataverse MCP Chatbot: 1
+KMB Bus MCP Server: 1
+Gateway MCP Server: 1
+MCP Document Processor: 1
+高德地图导航 MCP Tool: 1
+MCP Server Generator Guide: 1
+Free USDC Transfer MCP Server: 1
+Claude Consciousness Bridge 🌉: 1
+BSC MultiSend MCP: 1
+MCP-RTFM: 1
+GIS MCP Server: 1
+@boomlinkai/image-worker-mcp: 1
+LongPort OpenAPI SDK: 1
+LongPort MCP: 1
+biothings-mcp: 1
+Glean: 1
+Longport MCP: 1
+opengenes-mcp: 1
+gget-mcp: 1
+SVG to PNG MCP Server: 1
+DocNav MCP Server: 1
+mcp-daemonize: 1
+MCP-Mem0: Your Gateway to Long-Term Agent Memory 🚀: 1
+🧠 Agentic Long-Term Memory with Notion Integration: 1
+Virtual Traveling bot environment for MCP: 1
+✈️ Multi Context Protocol (MCP) Server: 1
+🌿 Amazon Rainforest Travel Guide (Claude Agent + MCP): 1
+ecogotravel: 1
+🔧 MCP Data Analytics Server: 1
+MCP-Hub-MCP Server: 1
+MCP-MongoDB-MySQL-Server: 1
+mem0 MCP Server for project management: 1
+py-mcp-server-template: 1
+MCP RSS: 1
+Filesystem MCP Server [MOD]: 1
+Claudesidian MCP Server: 1
+Solana Vault MCP: 1
+Obsidian Index MCP server: 1
+MCP Obsidian: 1
+Nexus MCP: 1
+Obsidian iCloud MCP: 1
+ValTown MCP Server: 1
+valjs: 1
+mcp-k8s-eye: 1
+MCP智能体平台 / MCP Agent Platform: 1
+Vibe Eyes Client: 1
+Moneybird MCP Server: 1
+memory-bank-loader-mcp: 1
+MCP Money: 1
+Lunch Money MCP Server: 1
+Monkey - Model Context Protocol (MCP) Server: 1
+MonkeyType MCP Server: 1
+AniList MCP Server: 1
+YouTube MCP(Model Context Protcol) Server: 1
+mcp-ddgs: 1
+Amazon SNS / SQS MCP Server: 1
+mcp-sns-server MCP Server: 1
+Directus MCP Server: 1
+Enhanced Todoist MCP Server Extended: 1
+Todoist MCP Server Enhanced: 1
+LPS MCP - Servidor de Herramientas para Claude: 1
+MCP Reddit: 1
+MCP Chrome Google Search Tool: 1
+exif-mcp: 1
+MCP Image Extractor: 1
+Ramp MCP: 1
+Awesome Ionic MCP server: 1
+Bitrefill MCP Server: 1
+mcp-mobile-automation-test: 1
+Africa's Talking Airtime MCP: 1
+Cline Notification Server: 1
+MindManager MCP Server: 1
+mcp-sonic-pi: MCP server for Sonic Pi: 1
+Sonic Pi MCP: 1
+AWS Labs Timestream for InfluxDB MCP Server: 1
+AWS Labs postgres MCP Server: 1
+AWS Lambda Tool MCP Server: 1
+AWS Labs Frontend MCP Server: 1
+Finch MCP Server: 1
+AWS DynamoDB MCP Server: 1
+MCP Inspector: 1
+secops-mcp: 1
+mcp-chat: 1
+mcp-pyautogui-server: 1
+Android ADB MCP Server: 1
+Model Context Provider (MCP) for Penetration Testing: 1
+MCP Frontend Testing Server: 1
+Web Accessibility-Testing MCP Server (A11y MCP): 1
+MCP Server (Model Context Protocol): 1
+Enhanced Outlook MCP Server: 1
+Generic MCP Server Template: 1
+SNCF API MCP Server: 1
+mcp-graphql-forge: 1
+Modular MCP Server: 1
+Storyblok MCP Server 🚀: 1
+🧠 MCP AI Server — Modular Context Protocol for Intelligent Search: 1
+MCP Server Bootstrap: A Template for Building Modular Command Center Servers: 1
+mcp-agent-server: 1
+Distri: A Composable Agent Framework: 1
+Website Downloader MCP Server: 1
+RagRabbit: 1
+PassportMCP: 1
+1Panel MCP Server: 1
+mcp_query_table: 1
+mcp-jinaai-reader: 1
+MCP Tool Server for Logo Generation: 1
+AWS Labs Aurora DSQL MCP Server: 1
+AWS Labs Amazon Neptune MCP Server: 1
+AWS Labs Amazon Kendra Index MCP Server: 1
+AWS Labs amazon-qindex MCP Server: 1
+AWS Labs cloudwatch MCP Server: 1
+MCP-LLM Bridge: 1
+Blowback: 1
+ディーゼロ開発環境用 MCPサーバー: 1
+MCP Browser Server: 1
+MCP Browser: 1
+plantuml_web: 1
+DEX Metrics MCP: 1
+model-context-protocol-templates: 1
+TweetBinder by Audiense MCP Server: 1
+🏆 Audiense Demand MCP Server: 1
+Instagram Engagement MCP: 1
+MCP File Preview Server: 1
+Screenshot MCP Server: 1
+MCP Screenshot Server: 1
+@just-every/mcp-screenshot-website-fast: 1
+Screeny MCP Server: Privacy first macOS Screenshots for AI Agents: 1
+MCP Windows Screenshots: 1
+foreverVM: 1
+ForeverVM MCP Server: 1
+example-mcp-server: 1
+mcp-simple-arxiv: 1
+arxiv-latex MCP Server: 1
+Sci-Hub-MCP-Server: 1
+bioRxiv MCP Server: 1
+🏦 Monzo MCP Server: 1
+MCP MongoDB Server: 1
+Twilio MCP Monorepo: 1
+MCP Proxy Monorepo: 1
+Email Processing MCP Server: 1
+MongoDB Atlas MCP Server: 1
+Nocodb MCP Server: 1
+shopify-mcp-server-main: 1
+Shopify MCP Server for Claude Desktop: 1
+Shopify Python MCP Server: 1
+Shopify Storefront MCP Server: 1
+shopify-mcp-server-by-cdata: 1
+X(Twitter) MCP server: 1
+Missive MCP Server: 1
+ActivityWatch MCP Server: 1
+Activity Reporting MCP Server: 1
+Pumpfun Wallets MCP: 1
+Wallet Inspector MCP: 1
+Wormhole Metrics MCP: 1
+Solana Launchpads MCP: 1
+OpenTK Model Context Protocol Server: 1
+📋 MCP Work History Server: 1
+Base MCP Server 🔵: 1
+Alchemy MCP Server: 1
+Awesome Blockchain MCPs 🚀: 1
+Token Minter MCP: 1
+MCP Trader Server: 1
+Sample S3 Model Context Protocol Server: 1
+rmcp: 1
+Spring AI Apps Project: 1
+Descope MCP Server: 1
+mcp-server-dify: 1
+Salesforce MCP Sample Integration: 1
+Bee Agent &amp; Model Context Protocol with Backstage: 1
+MCP server for Azure Cosmos DB using the Go SDK: 1
+Melrōse - programming of music melodies: 1
+melrose-mcp: 1
+NASA MCP Server: 1
+Gradle MCP Server: 1
+nuxt-mcp / vite-plugin-mcp: 1
+vite-plugin-vue-mcp: 1
+Binary Ninja MCP: 1
+mkinf SDK: 1
+Vectorize MCP Server: 1
+io.modelcontext/clojure-sdk: 1
+MCP Memory: 1
+amazon-redshift-mcp-server-by-cdata: 1
+Redshift MCP Server: 1
+Servidor MCP para Alegra API: 1
+MCPFinanceiro: 1
+Cursor MCP Servers 0.46 Windows 配置指南: 1
+Command-Line MCP Server: 1
+AgentMail Toolkit: 1
+Option 1: Using Claude Desktop: 1
+Agent.ai MCP Server: 1
+Agent.AI MCP Server: 1
+bun-s3-mcp: 1
+Cloudflare Browser Rendering Experiments &amp; MCP Server: 1
+Readwise Reader MCP Server: 1
+Reader Server: 1
+Reader MCP Server: 1
+MCP Local File Reader: 1
+Excel Reader Server: 1
+MCP Server（Jina Reader API）: 1
+MCP-Jina-AI: 1
+mcp-document-reader: 1
+MariaDB Reader MCP Server: 1
+Claude MCP Trello: 1
+Payman AI MCP Server: 1
+Wagyu Sports: 1
+HRFCO Service: 1
+Crossmint HR Airdrop MCP: 1
+Universal Data MCP Server 🧠: 1
+HR MCP Server: 1
+mcp-claude: 1
+Wisdom MCP Gateway: 1
+MCP Weather Server: 1
+Parliament MCP Server: 1
+Ghost MCP Server: 1
+@memoer-mcp: 1
+FreeCAD MCP (Model Control Protocol): 1
+mcp-v8: V8 JavaScript MCP Server: 1
+go-mcp-postgres: 1
+This is not a Ready MCP Server: 1
+Inspire MCP Server: 1
+Bear Notes MCP Server with RAG: 1
+Exa MCP Server: 1
+Bear App MCP Server: 1
+Discord MCP Server with Bearer Token Authentication: 1
+Remote MCP Server on Cloudflare: 1
+MCP Server on Cloudflare Workers with Bearer Auth: 1
+MCP Android Agent: 1
+BootstrapBlazor.Copilot.MCPServer: 1
+Maven Tools MCP Server: 1
+MCP Review Server: 1
+Model Context Protocol (MCP) Server for McPoogle Search Engine: 1
+lsmcp - Language Service MCP: 1
+lean-lsp-mcp: 1
+OpenHue MCP Server: 1
+mcp-server-template: 1
+Terry-Form MCP with LSP Integration: 1
+MCP Duty Pharma: 1
+mcp_server: 1
+LSP Tools MCP Server: 1
+CodeSynapse: 1
+interactive-mcp: 1
+Human-in-the-Loop MCP Server: 1
+ask-human mcp 🧑‍💻🤝🤖: 1
+Human Use 🤝 Enable AI to ask anyone anything: 1
+human-mcp: 1
+User Feedback MCP: 1
+gotoHuman MCP Server: 1
+AI Humanize MCP Server: 1
+Human-In-the-Loop MCP Server: 1
+Label Studio MCP Server: 1
+Baidu Digital Human MCP Server: 1
+Face Generator MCP Server: 1
+MCP ArcKnowledge: 1
+Model Context Protocol Server for filesystem: 1
+Secure MCP Filesystem Server: 1
+filesystem: 1
+Filesystem MCP Server for WSL: 1
+mcp-filesystem-server: 1
+MCP XMind Server: 1
+Xmind Generator MCP Server: 1
+XMind MCP 服务: 1
+Outlook Meetings Scheduler MCP Server: 1
+ChatterBox MCP Server: 1
+Meeting BaaS MCP Server: 1
+📄 MCP Meeting Summary System: 1
+Perplexity Ask MCP Server: 1
+➡️ browser-use mcp server: 1
+Amazon MQ MCP Server: 1
+Amazon Location Service MCP Server: 1
+Amazon EKS MCP Server: 1
+Amazon ElastiCache/MemoryDB Valkey MCP Server: 1
+Amazon ElastiCache Memcached MCP Server: 1
+Amazon Rekognition MCP Server: 1
+Amazon Nova MCP: 1
+STK-MCP: 1
+mcp-server-kubernetes: 1
+Agent Care: An MCP Server for EMRs like Cerner and Epic: 1
+An MCP Server for Google Cloud Healthcare API (FHIR): 1
+AI Gateway: 1
+mcp-abap-adt: Your Gateway to ABAP Development Tools (ADT): 1
+LLM Gateway MCP Server: 1
+GUARDRAIL: Security Framework for Large Language Model Applications: 1
+membase mcp server: 1
+NOVA MCP Security Gateway: 1
+Microsoft SQL Server MCP Server: 1
+Higress AI-Search MCP Server: 1
+AWS EC2 Pricing MCP Server: 1
+Trilogy AI Center of Excellence - MCP Server Setup Guide: 1
+alphaguts: 1
+Postgres MCP: 1
+FreeAgent MCP Server: 1
+dafny-mcp: 1
+Grok2 Image MCP Server: 1
+Grok MCP Plugin: 1
+Grok MCP Server: 1
+Grokade Games WebGL-MCP: 1
+Octagon Deep Research MCP: 1
+MCP Server: Mermaid Validator: 1
+Mermaid-MCP: 1
+mermaid-mcp: 1
+Mermaid Diagram Generator Server: 1
+Diagram as Code MCP Server: 1
+mermaid-mcp-server: 1
+mermaid-preview-mcp: 1
+SSE MCP Server: 1
+LinkedIn MCP Server for Netlify: 1
+MCP example Netlify Serverless Functions: 1
+Aiven MCP Server: 1
+Gnosis Evolve: 1
+🧠 EvolveMCP: Build. Extend. Evolve.: 1
+mcp-recon: 1
+Browse your entire Notion workspace, not just one database: 1
+SharkMCP - Network Packet Analysis MCP Server: 1
+LivebookTools: 1
+liveblocks-mcp-server: 1
+Cricket MCP Server: 1
+MCP Live Events Server: 1
+live2d-mcp MCP server: 1
+viral.app MCP Server - TikTok Analytics for AI: 1
+Xava Labs Typescript MCP Template: 1
+Drawing MCP Server: 1
+weather-mcp: 1
+MCPfinder 🔧🤖 (@mcpfinder/server): 1
+MCP File Finder: 1
+MCP Server PostgreDB Finder: 1
+Сервер MCP для поиска файлов: 1
+Replicate Flux MCP: 1
+Obsidian MCP Server - Enhanced: 1
+Gauntlet-Incept: 1
+chatgpt_mcp: 1
+Prem MCP Server: 1
+MCP Notify Server: 1
+OpenAI Complete MCP Server: 1
+CloudFormation MCP Server: 1
+titanmind-whatsapp-mcp: 1
+Titanmin WhatsApp MCP: 1
+OSP Marketing Tools for Node.js: 1
+Claude MCP for Marketing Professionals: 1
+salesforce-marketing-mcp-server-by-cdata: 1
+Twitter Marketing MCP: 1
+py-poetry: 1
+MSBuild MCP Demo: 1
+macOS Tools MCP Server: 1
+AWS‑IReveal‑MCP: 1
+police-uk-api-mcp-server: 1
+IR Toolshed MCP Server: 1
+MLflow MCP Server: Natural Language Interface for MLflow: 1
+Saiki: 1
+LMStudio-MCP: 1
+@lishenxydlgzs/aws-athena-mcp: 1
+MCP Ollama: 1
+Bruno MCP Server: 1
+➡️ attestable-mcp-server: 1
+Claude-LMStudio-Bridge: 1
+Claude-LMStudio Bridge: 1
+Trusted GMail MCP Server: 1
+Voice Mode: 1
+voice-mcp - Voice Mode for Claude Code: 1
+Zonos MCP Integration: 1
+Voicevox MCP Server: 1
+MCP TTS VOICEVOX: 1
+systemprompt-mcp-gmail: 1
+Voice Recorder MCP Server: 1
+mplayer: 1
+main.py: 1
+Telephony MCP Server: 1
+💡 IntelliGlow - AI-Powered Smart Lighting: 1
+📢 Blabber-MCP 🗣️: 1
+voicevox-mcp: 1
+prometheus-mcp-server: 1
+Prometheus MCP: 1
+MCP Server with OpenAI, Git, Filesystem, and Prometheus Integration: 1
+Django Migrations MCP Service: 1
+Django Firebase MCP: 1
+django-mcp-2: 1
+django-mcp: 1
+Apktool MCP Server: 1
+ROADrecon MCP Server: 1
+Atomistic Toolkit MCP Server: 1
+PinThePiece MCP server: 1
+demo-mcp-server: 1
+hko_mcp: 1
+quckstart-mcp-server: 1
+Springboot + MCP + JUnit 模板项目: 1
+FalkorDB MCP Server: 1
+🌐 LinkedIn MCP Server: 1
+🎬 MCP Trakt: Your AI's Gateway to Entertainment Data: 1
+UE-Editor-MCPServer: 1
+Cal.com Calendar MCP Server: 1
+ai-mcp-server: 1
+Haze.McpServer.Echo: 1
+MCP Hub – Technical Product Requirements Document (PRD): 1
+🚀 MongoDB MCP Server: 1
+API Aggregator MCP Server: 1
+MCP Radarr and Sonarr Server: 1
+Ravelry MCP Server: 1
+mcp-difyworkflow-server: 1
+dify-server MCP 服务器: 1
+dify-plugin-mcp_compat_dify_tools: 1
+dify-retriever-mcp: 1
+Dify MCP Server (TypeScript): 1
+Dify Workflow MCP Tool Server: 1
+Dify MCP Server: 1
+dify-mcp-server MCP server: 1
+AI Agent Marketplace Index Search MCP Server: 1
+Offline Cline Marketplace: 1
+amazon-marketplace-mcp-server-by-cdata: 1
+MCP Character Counter: 1
+Letter Counter MCP Server (strawberry-mcp): 1
+ClaudePost: 1
+mcp-google-server A MCP Server for Google Custom Search and Webpage Reading: 1
+Bazi MCP (八字MCP) by Cantian AI: 1
+Sketch Context MCP: 1
+Satellite Tracking MCP Server: 1
+@satellaite/mcp-server: 1
+SharpTools: Roslyn Powered C# Analysis &amp; Modification MCP Server: 1
+Roslyn Code Analysis MCP Server: 1
+@modelcontextprotocol/server-nativewind: 1
+ITerm MCP Server: 1
+iTerm2 Worktree MCP Server: 1
+MCP Chain of Thought: 1
+Zabbix MCP Server: 1
+MCP OpenNutrition: 1
+MCP SysOperator: 1
+Alexa Shopping List: 1
+itemit-mcp: 1
+Image-Gen-Server: 1
+Typst MCP Server: 1
+VectorCode: 1
+Shaka Packager MCP Server: 1
+Coder Toolbox MCP Server: 1
+image-generator MCP Server: 1
+Polygon MCP Server: 1
+onchainsdevmcp: 1
+Chainlink Feeds MCP Server: 1
+AMOCA (Autonomous Merit On Chain Agent): 1
+PumpSwap MCP Server: 1
+@clerk/agent-toolkit: 1
+auth0-mcp-server: 1
+@mcpauth/auth: 1
+better-auth-mcp-server MCP Server: 1
+MercadoLibre MCP Server: 1
+Mercado Livre - MCP Server: 1
+Mercadinho Mercantes - Multi-Agent AI Assistant: 1
+MCP Docling Server: 1
+unplugin-mcp: 1
+mcp-server-arxiv: 1
+🚀 ArxivSearcher MCP Server: 1
+arxiv-search MCP Server: 1
+ArXiv Paper MCP: 1
+mcp-arxiv: 1
+Flight Planner MCP Server: 1
+Yuga Planner 🐍: 1
+microsoft-planner-mcp-server-by-cdata: 1
+sentry-mcp: 1
+mcp-sentry: A Sentry MCP server: 1
+Sentry MCP Server 🔍: 1
+mcp-sentry: A Sentry MCP Server: 1
+mcp-sentry-custom: A Sentry MCP Server: 1
+MCP Server Sentry - TypeScript Implementation: 1
+Supabase MCP Server Implementation Plan: 1
+sentry-issue-mcp: 1
+Sentry Issue Collector: 1
+SSH MCP Server: 1
+MCP-Puppeteer-Linux: 1
+Linux Command MCP (Model Context Protocol): 1
+Linux Bash MCP Server: 1
+OpenTelemetry Collector MCP Server: 1
+Feedback Collector MCP Tool: 1
+MCP Salesforce Connector: 1
+Simple Timer MCP Server: 1
+Minecraft MCP Server: 1
+AWS Security MCP: 1
+GitHub Enterprise MCP Server: 1
+Bugsnag MCP Server: 1
+MCP GitHub Issue Server: 1
+Atlassian Jira MCP Server: 1
+CyberMCP - Cybersecurity API Testing with MCP: 1
+k8s-mcp: 1
+Claude ChatGPT MCP Tool: 1
+OpenAI Image Generation MCP Server: 1
+MCP ChatGPT Server: 1
+mcp-server-memory: 1
+OmniLLM: Universal LLM Bridge for Claude: 1
+MCP Wassenger WhatsApp API Connector: 1
+PulseMCP Server: 1
+Agentify Components: 1
+Cortellis MCP Server: 1
+openapi-mcp: 1
+Telegram to X Formatter: 1
+Atlassian Confluence MCP Server: 1
+TextEdit MCP: 1
+mcptime: 1
+MCPTimeServer: 1
+mcPixelmonServer: 1
+mcp-oceanbase: 1
+OceanBase MCP Server: 1
+eino-mcp: 1
+Find Flights MCP Server: 1
+MCP Flight Search: 1
+FlightRadar MCP Server: 1
+🛩️ Flight MCP Server: 1
+GeoFS MCP Server: 1
+✈️ Flights MCP Server: 1
+Variflight Tripmatch MCP Server: 1
+TFT MCP Server: 1
+BluestoneApps React Native MCP Server: 1
+BluestoneApps MCP Remote Server: 1
+pcm: 1
+Trino MCP Server: 1
+ID Generator MCP: 1
+RISEN Prompt Engineering MCP Tool: 1
+Slack → Claude Code 統合プロジェクト: 1
+esp-mcp: 1
+CrewAI Enterprise MCP Server: 1
+mcp-github-trending MCP Server: 1
+Second Opinion MCP Server: 1
+GrowthBook MCP Server: 1
+Recall MCP Server: 1
+mcp-sage: 1
+YFinance Trader MCP Tool: 1
+Unix Manual Server (MCP): 1
+Unreal Engine Code Analyzer MCP Server: 1
+Cursor Rust Tools: 1
+react-analyzer-mcp: 1
+mcp-server-sql-analyzer: 1
+Pprof Analyzer MCP Server: 1
+MCP Server for Aibolit, Java Code Analyzer: 1
+Anthropic MCP Code Analyzer: 1
+Rust MCP Server: 1
+MCP Server for Netwrix Access Analyzer: 1
+Cancellation Analyzer MCP Server: 1
+🔍 FastMCP Document Analyzer: 1
+Interactive Feedback MCP: 1
+Database MCP Server (by Legion AI): 1
+Datomic MCP Server: 1
+MAVAE - IMAGE TOOLBOX: 1
+SushiMCP: 1
+Maverick MCP Server: 1
+esa MCP Server: 1
+Weather Bot with OpenAI Agents SDK: 1
+esa-mcp: 1
+MCP Tasks Organizer: 1
+Local File Organizer: 1
+MCP Todo.txt Integration: 1
+Amazing Marvin MCP 🚀: 1
+MCP Flashcards: 1
+Trapper Keeper MCP: 1
+Claude Server MCP: 1
+Asgardeo MCP Server: 1
+gemini-mcp-server: 1
+@growi/mcp-server: 1
+OpenAI SDK Knowledge Organization: Build Your MCP Server 🌐🤖: 1
+mcp-base: 1
+MCP GITHUB ENTERPRISE 🌉: 1
+Security Infrastructure MCP Servers: 1
+Chronicle SecOps MCP Server: 1
+C++ Excel Automation MCP Server: 1
+openpyxl_mcp_server: 1
+mcp-excel: 1
+Excel to PDF MCP Server: 1
+microsoft-excel-mcp-server-by-cdata: 1
+Python MSSQL MCP Server: 1
+Python LINE MCP Server: 1
+🏗️ ClaudeHopper - AI-Powered Construction Document Assistant: 1
+Google Calendar MCP Server - คู่มือการติดตั้งและการใช้งาน: 1
+first-mcp-server: 1
+Patchright Lite MCP Server: 1
+Whoop MCP Server: 1
+MCPXcode: 1
+mcpc: 1
+MCP Connection Hub: 1
+MCP Calculator: 1
+mcpcurrenttime: 1
+amazon-dynamodb-mcp-server-by-cdata: 1
+DynamoDB Read-Only MCP: 1
+DynamoDB Scanner: 1
+Make MCP Server: 1
+PAIML MCP Agent Toolkit: 1
+Edit File Lines MCP Server: 1
+ConnectWise API Gateway MCP Server: 1
+MCP Server for Paddle Billing: 1
+mcp-server-unitycatalog: An Unity Catalog MCP server: 1
+google-data-catalog-mcp-server-by-cdata: 1
+azure-data-catalog-mcp-server-by-cdata: 1
+CloudWatch MCP Server: 1
+Jotdown - MCP Server for Notion Page Creation and mdBook Generation: 1
+Gin-MCP: Zero-Config Gin to MCP Bridge: 1
+blog_publisher_mcp_server: 1
+Book Fetch MCP: 1
+Medium MCP API Server: 1
+csv-files-mcp-server-by-cdata: 1
+MCP Server for XLS and CSV processing: 1
+flux-operator: 1
+🪄 UNO: Unified Narrative Operator: 1
+Kubernetes MCP Server 🚀: 1
+MCP Browser Operator: 1
+Description: 1
+Flux UI MCP Server: 1
+flux-dev MCP 服务器: 1
+MCP Flux Studio: 1
+mcp-server-modal: 1
+Flux: 1
+Omg Flux MCP: 1
+MCP Server Pentest: 1
+Pentest Tools MCP Server: 1
+MCP Penetration Testing Server Setup Guide: 1
+tablestore-mcp-server: 1
+Azure TableStore MCP Server: 1
+Serper MCP Server: 1
+MCP Firecrawl Server: 1
+mcp-server-qdrant: 1
+MCP Qdrant Server with OpenAI Embeddings: 1
+MCP Server with Qdrant: 1
+👁️ Sharingan Visual Prowess MCP: 1
+Qdrant Retrieve MCP Server: 1
+Better Qdrant MCP Server: 1
+MCP Server for Qdrant: 1
+Revit MCP Integration: 1
+🏗️ Revit MCP Server: 1
+AI Connector for Revit: 1
+MCP server to deploy code to Google Cloud Run: 1
+mcp-gsuite MCP server: 1
+Gemini MCP Server: 1
+Self-Hosted Supabase MCP Server: 1
+Structured Thinking MCP Server: 1
+Storacha MCP Storage Server: 1
+@nbiish/gikendaasowin-aabajichiganan-mcp: 1
+MCPeasy: 1
+mcp-telegram: 1
+telegram-mcp: 1
+mcp-server-telegram: 1
+imcp: 1
+iMCP: 1
+Apple Reminders MCP Server: 1
+Swift MCP GUI Server: 1
+say-mcp-server: 1
+Mac Apps Launcher MCP Server: 1
+Claude Outlook MCP Tool: 1
+MCP Crypto Wallet EVM: 1
+Safe MCP Server: 1
+Dune API MCP Server: 1
+Solana MCP Wallet Agent API: 1
+WSB Analyst MCP Server: 1
+Coin MCP Server 🚀💰: 1
+MCP QuickJS Runner: 1
+mcp-jinaai-search: 1
+mcp-jinaai-grounding: 1
+MCP Server for the Jina.ai Reader API: 1
+Jina AI MCP Server (Basic): 1
+Jina AI Search MCP Server: 1
+Claude 3.7 Sonnet MCP Interface: 1
+yazdani-supabase-mcp-server: 1
+Votars MCP: 1
+DNStwist MCP Server: 1
+MCP Cloudflare DNS Server: 1
+MCP DNS: 1
+LlamaCloud MCP Server: 1
+Kodit: A Code Indexing MCP Server: 1
+@lishenxydlgzs/simple-files-vectorstore: 1
+Local Code Indexing for Cursor: 1
+MCP代码索引器 (MCP Code Indexer): 1
+Kontxt MCP Server: 1
+Solr MCP: 1
+TheGraph MCP Server: 1
+Pacman MCP Server: 1
+URL Shortener MCP Tool: 1
+U301 URL Shortener MCP Server: 1
+YOURLS-MCP: 1
+Servidor MCP DataJud TJMA: 1
+mcp-image-compression: 1
+🚀 FastMCP Boilerplate: 1
+MCP (Microservice Control Panel): 1
+Claud Coin ($CLAUD): 1
+DEX K-line MCP: 1
+MCP-ODOS: Model Context Protocol Server for Decentralized Exchanges: 1
+Cheqd MCP Toolkit: 1
+Markdownify MCP Server - UTF-8 Enhanced: 1
+sap-hybris-c4c-mcp-server-by-cdata: 1
+create-typescript-server: 1
+Obsidian MCP (Model Context Protocol) 服务器: 1
+cryptopanic-mcp-server: 1
+generator-mcp: 1
+Deepseek r1 reasoning extension for locally running models: 1
+软件规划MCP服务器: 1
+WhereAmI MCP Server: 1
+Laravel Telescope MCP: 1
+WhoAmI MCP Server: 1
+Cerebra Legal MCP Server: 1
+MCP DigitalOcean Integration: 1
+Puppeteer Real Browser MCP Server: 1
+MCP DigitalOcean Server: 1
+MCP Status Observer: 1
+MTender MCP OCDS Server: 1
+DigitalOcean Database MCP Server: 1
+MCP Forensic Toolkit: 1
+Chargebee AgentKit: 1
+Chargebee Model Context Protocol (MCP) Server: 1
+samcp: 1
+Move Agent Kit: 1
+MCP Connect: 1
+MCP Compass 🧭: 1
+Azure AI Agent Service MCP Server: 1
+Ant Design 组件库 MCP 服务: 1
+✨ DroidMind 🤖: 1
+🚀 Proxmox Manager - Proxmox MCP Server: 1
+Hyperliquid MCP Server: 1
+QA Sphere MCP Server: 1
+Hypernym MCP Server: 1
+Hyperbolic GPU MCP Server: 1
+KVM MCP Server: 1
+MCP-Hyperskill: 1
+hyper-mcp-browser: 1
+hyperspell-mcp: 1
+Extism Go PDK Plugin: 1
+subxt ·: 1
+🔍 Algolia Node.js MCP: 1
+Atlassian Bitbucket MCP Server: 1
+MCP Guardian: 1
+AIM Guard MCP: 1
+anchor-mcp: 1
+How to use: 1
+Minimal MCP Server (Python): 1
+Sandbox MCP: 1
+Ubuntu SSH Docker Container: 1
+Docker Hub MCP Server: 1
+抖音无水印视频文本提取 MCP 服务器: 1
+CodeQL MCP Server: 1
+Instagram MCP Server: 1
+HarmonyOS MCP Server: 1
+Nextflow Developer Tools MCP: 1
+Instagram DM MCP server: 1
+Twilio MCP Server: 1
+aira-mcp-server MCP Server: 1
+Tox Testing MCP Server: 1
+🚀 ⚡️ locust-mcp-server: 1
+PHPocalypse-MCP: 1
+System Resource Monitor MCP Server: 1
+MCP Server for Running E2E Tests: 1
+Tester Client for Model Context Protocol (MCP): 1
+12306-mcp: 1
+systemprompt-mcp-notion: 1
+Confluence Cloud MCP Server: 1
+Docs Fetch MCP Server: 1
+Dune Query MCP: 1
+r2d2: 1
+PostgreSQL MCP Server (Enhanced): 1
+Funding Rates MCP: 1
+Frankfurter MCP: 1
+RateSpot MCP Server: 1
+FrankfurterMCP 🌍💱: 1
+Juhe Exchange Rates MCP Server: 1
+sek-fx-mcp: 1
+Formula One MCP Server: 1
+Bitcoin Price MCP Server: 1
+TMDB MCP Server: 1
+Nmstate MCP: 1
+n8n-server MCP Server: 1
+Headless MCP-use (from Registry) with Next.js: 1
+vercel_mcp_complete: 1
+salesforce-einstein-mcp-server-by-cdata: 1
+Bunq MCP: 1
+MCP Evolution API: 1
+MCP Starter Server: 1
+YouTube Music MCP 🎵: 1
+Elysia MCP Starter: 1
+MCP Starter Project: 1
+boot-mcp: 1
+mcp-framework-starter: 1
+Model Context Protocol — Workshop starter: 1
+MCP Server Starter Template: 1
+mcp-starter: 1
+WhatsApp MCP Server: 1
+MCP-AppleMusic: 1
+Apple Music MCP Server: 1
+Baidu Search MCP Server: 1
+UseGrant MCP Server: 1
+🌟 Azure MCP Server: 1
+MCP Azure DevOps Server: 1
+Azure AI Agent Service + Azure AI Search MCP Server: 1
+Azure DevOps MCP Integration: 1
+Azure DevOps MCP Server for Cline: 1
+Demo: 1
+Untappd MCP Server using Azure Functions: 1
+Build a MCP Server: 1
+MCP Random Number: 1
+Files-DB-MCP: Vector Search for Code Projects: 1
+Plugged.in Random Number Generator MCP Server: 1
+FastAPI SSE MCP Random: 1
+Coin Flip MCP Server: 1
+RandomUser MCP Server: 1
+PayPal Account Updater Subscription Connector for MCP: 1
+Browser MCP: 1
+Coco AI - Connect &amp; Collaborate: 1
+Claude Code + Gemini MCP Server: 1
+mcp-gemini-server: 1
+Quickchat AI MCP server: 1
+Using MCPO with MikroTik MCP Server: 1
+CryptoWeather MCP Server: 1
+Asset Price MCP Server (asset-price-mcp): 1
+Blocknative MCP Server: 1
+Binance Bitcoin MCP Tool: 1
+Token Metrics MCP Server: 1
+Uniswap V3 Price MCP Server: 1
+Xcode Diagnostics MCP Plugin: 1
+MCP Webpage Timestamps: 1
+Custom Context MCP Server: 1
+@modelcontextprotocol/web-content-pick: 1
+Python MCP Server for Code Graph Extraction: 1
+Alpaca Trading MCP Server: 1
+YFinance Trader MCP Tool for Claude Desktop: 1
+SSI Stock Data MCP: 1
+💹 MCP YFinance Stock Server: 1
+Freepik MCP Server: 1
+Stock Info Service: 1
+AWS Terraform MCP Server: 1
+Terraform Cloud MCP Server: 1
+aws-mcp-infra-helper: 1
+Python REPL MCP Server: 1
+MCP Server Replicate: 1
+MCP Server: SSH Rails Runner: 1
+Simple JS REPL: 1
+Rember MCP: 1
+Mesh Agent MCP Server: 1
+Todoist MCP Server (Python): 1
+Todoist Python MCP Server: 1
+mcp-server-todoist: 1
+shortcuts-mcp-server: 1
+@shortcut/mcp: 1
+Shortcut.com MCP Server: 1
+Memory Custom : PouchDB 🧠: 1
+binary_ninja_cline_mcp: 1
+BnF API Server: 1
+💹💹 BNM-MCP 📊📊: 1
+MCP Cookie Server 🍪: 1
+Bunnyshell MCP Server: 1
+Asana MCP Server: 1
+Sequential Story MCP Server: 1
+MCP Design System Extractor: 1
+Storyblok MCP Server: 1
+MCP Storyblok Server: 1
+Cursor MCP Monitor: 1
+Remix Icon MCP: 1
+MCP Traits Matcher: 1
+comment-stripper-mcp: 1
+Symbolic Algebra MCP Server: 1
+Mathematical Calculator MCP Server: 1
+Math-MCP: 1
+Cal Server: 1
+symbolica-mcp: 1
+LaTeX to MathML MCP Server: 1
+GitHub Configuration: 1
+MCP MIDI Server: 1
+Seq MCP Server: 1
+Game Thinking MCP Server: 1
+Sequential Thinking Ultra - MCP Server: 1
+Outlook MCP Server: 1
+MCP Outlook Tools: 1
+Microsoft MCP: 1
+Steampipe MCP: 1
+Model Context Protocol server for Zotero: 1
+Zotero MCP Connector: 1
+WinTerm MCP: 1
+mcp-korean-spell: 1
+delve-mcp: 1
+Rust Docs MCP Server: 1
+MCP Chat Analysis Server: 1
+Rust Local RAG: 1
+mcp-embedding-search: 1
+MemGPT MCP Server: 1
+Claude Memory MCP Server: 1
+Claude Todo MCP Server: 1
+MCP Server Fichador: 1
+Agile Luminary MCP Server: 1
+MCPunk 🤖: 1
+🔎 Supercharge Your AI with Web Search Powers: 1
+Getting Started with Remote MCP Servers using Azure Container Apps (Node.js/TypeScript): 1
+📸 Smart Photo Journal MCP Server: 1
+Color Scheme Generator MCP Server: 1
+4o-image MCP Server: 1
+Android MCP Server: 1
+mcp2mqtt: 连接物理世界与AI大模型的桥梁: 1
+MCP2Serial: 连接物理世界与AI大模型的桥梁: 1
+Devices MCP Server: 1
+ADB MCP Server: 1
+Vantage MCP Server: 1
+Google Analytics MCP Server: 1
+mcp-server-openmetadata: 1
+Splice Weaver MCP: 1
+Looking-Glass-MCP: 1
+mcp-template: 1
+🧠 MCP: Multi-Agent Control Point: 1
+MCP Template - Build Your Own AI Server: 1
+MCP POI Server: 1
+protolint: 1
+🔧 MCP Fixer Server: 1
+Fibery MCP Server: 1
+MCP Continuity Server (Versão Simplificada): 1
+MCP Framework: 1
+Fiberflow MCP Gateway: 1
+MCP Server Configuration: 1
+Booking System (Fixed): 1
+Deep Directory Tree MCP: 1
+Tree-Hugger-JS MCP Server: 1
+MCP Tree Explorer: 1
+MCP Source Tree Server: 1
+PayPal Agent Toolkit: 1
+MCP Calc Tools: 1
+MCP Stripe Server: 1
+stripe-mcp-server-by-cdata: 1
+Claude Code MCP Server: 1
+V0.dev Response Capture Tool: 1
+DependencyMCP Server: 1
+MacPilot CLI: 1
+MCPilot - MCP Gateway: 1
+MCP_Agent:RE 项目迁移指南: 1
+mcp-server-duckdb: 1
+MCP DuckDB Knowledge Graph Memory Server: 1
+Marginalia MCP Server: 1
+DuckDB RAG MCP Sample: 1
+X MCP Server: 1
+agent-twitter-client-mcp: 1
+MCP Twitter: 1
+mcp-x: 1
+X (Twitter) MCP server: 1
+X (Twitter) MCP Server: 1
+MCP Bybit API Interface: 1
+crypto_exchange_mcp_python: 1
+kibitz: 1
+GemSuite MCP: The Most Comprehensive Gemini API Integration for Model Context Protocol: 1
+FirstCycling MCP Server: 1
+MCP Vulnerability Checker Server: 1
+🎯 BMAD Agent FastMCP Service: 1
+Simple MCP Server: 1
+🌤️ WeatherMCP - Professional Weather MCP Server: 1
+UUID MCP Provider: 1
+🚀 OmniFocus MCP Enhanced: 1
+Dida MCP Server: 1
+Cosense MCP Server: 1
+Data Visualization MCP Server: 1
+🔱SCAST: 1
+MCP Firebase Server (Model Context Protocol): 1
+Firestore MCP Server: 1
+MCP Server Firebase: 1
+Authenticator App MCP Server: 1
+FakeStore MCP - Model Context Protocol E-commerce Demo: 1
+
+==================================
+nondup names: 3582, portion is 76.95%

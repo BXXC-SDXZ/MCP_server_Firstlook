@@ -1,0 +1,151 @@
+{
+    "stagehand": {
+        "official_descp": "Provides cloud browser automation capabilities using Stagehand, enabling LLMs to interact with web pages, take screenshots, and execute JavaScript in a cloud browser environment.",
+        "descrp": [
+            "Enable production-ready AI browser automations by combining natural language and code for precise and flexible control. Preview and cache AI-driven actions to optimize performance and token usage. Integrate state-of-the-art computer use models seamlessly into your browser workflows with minimal code."
+        ],
+        "smi_score": [
+            0.8599092960357666
+        ],
+        "official_link": "https://smithery.ai/server/@browserbasehq/mcp-stagehand",
+        "link": [
+            "https://smithery.ai/server/@browserbase/stagehand"
+        ]
+    },
+    "bright data": {
+        "official_descp": "One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked. Ideal for discovering and retrieving structured insights from any public source - effortlessly and ethically.",
+        "descrp": [
+            "Enable AI agents to access and extract real-time web data seamlessly. Bypass geo-restrictions and bot detection to retrieve up-to-date information from websites. Enhance your applications with powerful web unlocking and optional browser automation capabilities.",
+            "Enable AI agents to access and extract real-time web data seamlessly. Bypass geo-restrictions and bot detection to retrieve up-to-date information from websites. Enhance your applications with powerful web navigation and browser automation capabilities."
+        ],
+        "smi_score": [
+            0.8702305555343628,
+            0.8729094862937927
+        ],
+        "official_link": "https://smithery.ai/server/@luminati-io/brightdata-mcp",
+        "link": [
+            "https://smithery.ai/server/@makaronz/brightdata-mcp",
+            "https://smithery.ai/server/@unaiarambarri/brightdata-mcp"
+        ]
+    },
+    "desktop commander": {
+        "official_descp": "**Execute terminal commands** and manage files with diff editing capabilities. Coding, shell and terminal, task automation",
+        "descrp": [
+            "Execute terminal commands, manage files, and perform code editing with AI assistance. Streamline your workflow by integrating powerful file operations and process management directly into your coding environment.",
+            "Enable powerful terminal command execution, process management, and comprehensive filesystem operations with AI assistance. Manage files, run long-running commands, and perform precise code edits seamlessly within your development environment. Enhance productivity by integrating all your development tools into one chat interface without additional API costs.",
+            "Enable powerful terminal command execution, process management, and comprehensive file editing capabilities through an AI assistant. Seamlessly search, update, and manage files with surgical precision, while automating tasks and exploring codebases efficiently. Enhance your development workflow with real-time output streaming, session management, and detailed audit logging.",
+            "Enable powerful terminal command execution, process management, and advanced file editing capabilities through an AI assistant. Seamlessly search, update, and manage files, run interactive terminal commands, and automate tasks without API token costs. Enhance your development workflow with surgical code edits, comprehensive audit logging, and dynamic configuration management."
+        ],
+        "smi_score": [
+            0.8812643885612488,
+            0.8641480803489685,
+            0.8702066540718079,
+            0.8686041831970215
+        ],
+        "official_link": "https://smithery.ai/server/@wonderwhy-er/desktop-commander",
+        "link": [
+            "https://smithery.ai/server/@sondotpin/desktopcommandermcp",
+            "https://smithery.ai/server/@Omniscience-Labs/desktopcommandermcp",
+            "https://smithery.ai/server/@sunjoonkim/desktopcommandermcp",
+            "https://smithery.ai/server/@2511319/desktopcommandermcp"
+        ]
+    },
+    "context7": {
+        "official_descp": "Fetch up-to-date, version-specific documentation and code examples directly into your prompts. Enhance your coding experience by eliminating outdated information and hallucinated APIs. Simply add `use context7` to your questions for accurate and relevant answers.",
+        "descrp": [
+            "Fetch up-to-date, version-specific documentation and code examples directly from source libraries to enhance your LLM prompts. Eliminate outdated code, hallucinated APIs, and generic answers by integrating real-time docs into your AI coding workflows. Improve code accuracy and productivity with seamless context enrichment.",
+            "Provide up-to-date, version-specific code documentation and examples directly into your prompts to enhance coding accuracy and reduce hallucinated APIs. Seamlessly integrate with various MCP clients to fetch the latest library docs and improve your AI coding assistant's effectiveness. Simplify your development workflow by embedding real-time, reliable code context without switching tabs.",
+            "Fetch up-to-date, version-specific code documentation and examples directly from the source to enhance your LLM prompts. Eliminate outdated code, hallucinated APIs, and generic answers by integrating real-time library docs into your coding assistant workflow. Improve code accuracy and productivity with seamless context enrichment.",
+            "Fetch up-to-date, version-specific code documentation and examples directly from the source to enhance your LLM prompts. Eliminate outdated code, hallucinated APIs, and generic answers by integrating real-time library docs into your coding assistant workflow. Improve code accuracy and productivity with seamless context enrichment.",
+            "Fetch up-to-date, version-specific code documentation and examples directly from source libraries to enhance your prompts. Eliminate outdated code, hallucinated APIs, and generic answers by integrating real-time library docs into your LLM context. Improve coding accuracy and productivity with seamless access to current documentation.",
+            "Provide up-to-date, version-specific code documentation and examples directly within your prompts to improve coding accuracy and reduce hallucinated APIs. Seamlessly integrate with your preferred MCP client to fetch the latest library docs and code snippets from the source. Enhance your coding workflow with instant, reliable, and context-aware documentation support."
+        ],
+        "smi_score": [
+            0.9222254157066345,
+            0.8980558514595032,
+            0.9225434064865112,
+            0.9225434064865112,
+            0.9184121489524841,
+            0.9022529721260071
+        ],
+        "official_link": "https://smithery.ai/server/@upstash/context7-mcp",
+        "link": [
+            "https://smithery.ai/server/@upstash/context7",
+            "https://smithery.ai/server/@geobio/context7",
+            "https://smithery.ai/server/@xXxnewbie/context7",
+            "https://smithery.ai/server/@decvb/context7",
+            "https://smithery.ai/server/@antonioevans/context7",
+            "https://smithery.ai/server/@2511319/context7"
+        ]
+    },
+    "supabase mcp server": {
+        "official_descp": "Connect your Supabase projects to AI assistants like Cursor and Claude. Manage tables, fetch configurations, and query data seamlessly with your AI tools. Enhance your development workflow by integrating AI capabilities directly into your Supabase projects.",
+        "descrp": [
+            "Connect to Supabase and query feature suggestions effortlessly. Retrieve and manage feature requests directly from your Supabase database with ease. Enhance your applications by integrating real-time feedback from users.",
+            "Enable your favorite IDE to safely execute SQL queries, manage your database end-to-end, access Management API, and handle user authentication with built-in safety controls.",
+            "Enable your favorite IDE to safely execute SQL queries, manage your database end-to-end, access Management API, and handle user authentication with built-in safety controls."
+        ],
+        "smi_score": [
+            0.8982388377189636,
+            0.8709321022033691,
+            0.8709321022033691
+        ],
+        "official_link": "https://smithery.ai/server/@supabase-community/supabase-mcp",
+        "link": [
+            "https://smithery.ai/server/@adiletD/feature-request-collection-mcp",
+            "https://smithery.ai/server/@davesbits/supabase-mcp-server",
+            "https://smithery.ai/server/@Anthony9906/supabase-mcp-server"
+        ]
+    },
+    "mongodb mcp server": {
+        "official_descp": "MongoDB MCP Server allows any MCP-aware LLM to connect to MongoDB Atlas for admin tasks and to MongoDB databases for data operations, all through natural language. It exposes over 30 tools spanning cluster management and database querying, with granular safety controls like read-only mode and tool disabling.",
+        "descrp": [
+            "Enable LLMs to interact directly with MongoDB databases. Query collections, inspect schemas, and manage data seamlessly through natural language, enhancing your AI's capabilities with real-time data access.",
+            "Enable LLMs to interact seamlessly with MongoDB databases. Query collections, manage data, and inspect schemas using natural language commands. Simplify database operations and enhance your applications with powerful data management capabilities.",
+            "Enable LLMs to interact seamlessly with MongoDB databases. Query collections, manage data, and inspect schemas using natural language commands. Simplify database operations and enhance your applications with powerful data management capabilities."
+        ],
+        "smi_score": [
+            0.875278115272522,
+            0.878999650478363,
+            0.878999650478363
+        ],
+        "official_link": "https://smithery.ai/server/@mongodb-js/mongodb-mcp-server",
+        "link": [
+            "https://smithery.ai/server/@1RB/mongo-mcp",
+            "https://smithery.ai/server/@rock913/mongo-mcp",
+            "https://smithery.ai/server/@vivek1612/mongodb-mcp"
+        ]
+    },
+    "tavily mcp server": {
+        "official_descp": "Enable real-time web search and data extraction capabilities.",
+        "descrp": [
+            "Enable real-time web search and intelligent data extraction within your AI assistant by integrating Tavily's advanced search and extraction tools. Seamlessly access up-to-date web information with sophisticated filtering and domain-specific capabilities. Enhance your AI workflows with powerful web data retrieval and processing features.",
+            "Enable real-time web search and intelligent data extraction within your AI assistant by integrating Tavily's advanced search and extraction tools. Seamlessly access up-to-date web information with sophisticated filtering and domain-specific capabilities. Enhance your AI workflows with powerful web search and content extraction features.",
+            "Enable real-time web search and intelligent data extraction within your AI assistants. Access powerful tools for searching, extracting, mapping, and crawling web data seamlessly. Enhance your AI workflows with domain-specific search and structured web data capabilities."
+        ],
+        "smi_score": [
+            0.9057390093803406,
+            0.9067758917808533,
+            0.9138768315315247
+        ],
+        "official_link": "https://smithery.ai/server/@tavily-ai/tavily-mcp",
+        "link": [
+            "https://smithery.ai/server/@Rz017/tavily-mcp",
+            "https://smithery.ai/server/@StevenFengLi/tavily-mcp",
+            "https://smithery.ai/server/@adiityaaa19/smithery-demo1"
+        ]
+    },
+    "veyrax mcp": {
+        "official_descp": "Single MCP tool to connect 70+ tools: Gmail, Calendar and more.",
+        "descrp": [
+            "Provide seamless access to all your integrated tools across multiple MCP-compatible environments with a single authentication. Connect once to the VeyraX platform and instantly use your tools in editors and AI assistants like Claude, Cursor, VS Code, and Windsurf. Simplify your workflow with a quick setup and unified tool management."
+        ],
+        "smi_score": [
+            0.8565555214881897
+        ],
+        "official_link": "https://smithery.ai/server/@VeyraX/veyrax-mcp",
+        "link": [
+            "https://smithery.ai/server/@clarenous/veyrax-mcp"
+        ]
+    }
+}

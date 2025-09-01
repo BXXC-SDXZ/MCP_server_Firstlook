@@ -1,0 +1,15 @@
+{
+    "argocd-mcp": {
+        "official_descp": "argocd-mcp",
+        "descrp": [
+            "An MCP (Model Context Protocol) server that integrates with the ArgoCD API, enabling AI assistants and large language models to manage ArgoCD applications and resources through natural language interactions."
+        ],
+        "smi_score": [
+            0.7965096831321716
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@akuity/argocd-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@severity1/argocd-mcp"
+        ]
+    }
+}

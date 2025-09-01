@@ -1,0 +1,565 @@
+{
+    "playwright mcp server": {
+        "official_descp": "A Model Context Protocol server that enables LLMs to interact with web pages through structured accessibility snapshots without requiring vision models or screenshots.",
+        "descrp": [
+            "A server that enables browser automation using Playwright, allowing interaction with web pages, capturing screenshots, and executing JavaScript in a browser environment through LLMs.",
+            "A Model Context Protocol server that enables LLMs to interact with web pages, take screenshots, generate test code, scrape web pages, and execute JavaScript in a real browser environment.",
+            "Provides a server utilizing Model Context Protocol to enable human-like browser automation with Playwright, allowing control over browser actions such as navigation, element interaction, and scrolling."
+        ],
+        "smi_score": [
+            0.8956465125083923,
+            0.9175503849983215,
+            0.8806715607643127
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@microsoft/playwright-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@lebrodus/mcp-playwright",
+            "https://glama.ai/mcp/servers/@pvinis/mcp-playwright-stealth",
+            "https://glama.ai/mcp/servers/@showfive/playwright-mcp-server"
+        ]
+    },
+    "posthog mcp server": {
+        "official_descp": "A Model Context Protocol server that enables Claude Desktop users to interact directly with PostHog, allowing them to view projects and create annotations through natural language commands.",
+        "descrp": [
+            "A server that allows users to interact with PostHog analytics platform through Claude Desktop, enabling listing projects, creating annotations, searching insights, and accessing documentation."
+        ],
+        "smi_score": [
+            0.9222260117530823
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@PostHog/posthog-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@Shudufhadzo/liquidium-mcp"
+        ]
+    },
+    "notion mcp server": {
+        "official_descp": "An MCP server that enables AI assistants to interact with the Notion API, allowing them to search, read, comment on, and create content in Notion workspaces through natural language commands.",
+        "descrp": [
+            "MCP Server for the Notion API, enabling Claude to interact with Notion workspaces.",
+            "An integration server that enables LLMs to interact with Notion workspaces through Claude Desktop, optimizing token usage with Markdown conversion.",
+            "A Model Context Protocol (MCP) server that exposes the official Notion SDK, allowing AI models to interact with Notion workspaces.",
+            "Enables Language Models to interact with Notion workspaces through standardized tools for searching, reading, creating, and updating pages and databases.",
+            "A Model Context Protocol server that connects Claude and other AI assistants to your Notion workspace, allowing AIs to interact with databases, pages, and blocks.",
+            "A simple server that integrates with Claude to allow querying and manipulating Notion pages and databases through natural language prompts.",
+            "A custom server that provides a REST API interface for Notion, allowing easy access to Notion's functionality through Cursor's MCP feature.",
+            "A Model Context Protocol server that enables Claude and other LLMs to interact with Notion workspaces, providing capabilities like searching, retrieving, creating and updating pages, as well as managing databases.",
+            "A Model Context Protocol server that provides a standardized interface for interacting with Notion's API, enabling users to list databases, create pages, and search across their Notion workspace.",
+            "A Model Context Protocol server that connects AI assistants like Claude to Notion workspaces, enabling them to view, search, create, and update Notion databases, pages, and content blocks.",
+            "A filesystem Model Context Protocol server that provides Claude Desktop with capabilities to read, write, and manipulate files on your system.",
+            "A Model Context Protocol server that provides a standardized interface for AI models to access, query, and modify content in Notion workspaces."
+        ],
+        "smi_score": [
+            0.9122191071510315,
+            0.8943706154823303,
+            0.9103176593780518,
+            0.9123319983482361,
+            0.9019078612327576,
+            0.9031444787979126,
+            0.9050918221473694,
+            0.9038297533988953,
+            0.9192882776260376,
+            0.9283841252326965,
+            0.8821811676025391,
+            0.9201887845993042
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@makenotion/notion-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@suekou/mcp-notion-server",
+            "https://glama.ai/mcp/servers/@kimjungyeol/mcp-notion-server",
+            "https://glama.ai/mcp/servers/@ramidecodes/mcp-server-notion",
+            "https://glama.ai/mcp/servers/@v-3/notion-server",
+            "https://glama.ai/mcp/servers/@Sjotie/notionMCP",
+            "https://glama.ai/mcp/servers/@arre-ankit/notion-mcp-server",
+            "https://glama.ai/mcp/servers/@HariFatherKR/notion_mcp_server",
+            "https://glama.ai/mcp/servers/@SAhmadUmass/notion-mcp-server",
+            "https://glama.ai/mcp/servers/@ccabanillas/notion-mcp",
+            "https://glama.ai/mcp/servers/@emmanuelsystems/mcpnotionslack",
+            "https://glama.ai/mcp/servers/@tkc/notion-mcp",
+            "https://glama.ai/mcp/servers/@ghubnerr/Notion-MCP"
+        ]
+    },
+    "shortcut mcp server": {
+        "official_descp": "A Model Context Protocol (MCP) server that integrates Shortcut project management with AI tools like Cursor, Windsurf, and Claude Code, allowing direct access to Shortcut data via API token.",
+        "descrp": [
+            "A Model Context Protocol server that enables interaction with Shortcut (formerly Clubhouse) project management tool, allowing users to view and search projects, stories, epics, and objectives, as well as create new items through natural language."
+        ],
+        "smi_score": [
+            0.8832755088806152
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@useshortcut/mcp-server-shortcut",
+        "link": [
+            "https://glama.ai/mcp/servers/@zekus/shortcut-mcp"
+        ]
+    },
+    "remote mcp server": {
+        "official_descp": "A server that implements the Model Context Protocol (MCP) on Cloudflare Workers, allowing AI models to access custom tools without authentication.",
+        "descrp": [
+            "A Cloudflare Workers-based implementation of the Model Context Protocol server with OAuth login, allowing Claude and other MCP clients to connect to remote tools.",
+            "A Cloudflare Workers-based Model Context Protocol server with OAuth login that allows AI assistants like Claude to access external tools.",
+            "A Cloudflare Workers-based server implementing the Model Context Protocol that enables AI assistants like Claude to securely access external tools through OAuth authentication.",
+            "A Cloudflare Workers-based implementation of the Model Context Protocol (MCP) server that enables AI assistants like Claude to interact with external tools through OAuth login.",
+            "A Cloudflare Workers-based Model Context Protocol server that enables Claude Desktop and other MCP clients to connect and use mathematical tools via a secure OAuth login."
+        ],
+        "smi_score": [
+            0.9116378426551819,
+            0.9167966246604919,
+            0.9209021329879761,
+            0.9293531179428101,
+            0.9051900506019592
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@PostHog/mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@Cam10001110101/remote-mcp-server",
+            "https://glama.ai/mcp/servers/@Acceleronix/cmp-auth-mcp-server",
+            "https://glama.ai/mcp/servers/@jongan69/remote-mcp-server",
+            "https://glama.ai/mcp/servers/@grocco/remote-mcp-server",
+            "https://glama.ai/mcp/servers/@Omarzipan/remote-mcp-server"
+        ]
+    },
+    "screenshotone mcp server": {
+        "official_descp": "An official MCP server implementation that allows AI assistants to capture website screenshots through the ScreenshotOne API, enabling visual context from web pages during conversations.",
+        "descrp": [
+            "Connects AI assistants to ScreenshotOne.com API for capturing website screenshots with customizable options including viewport size, full-page captures, and multiple output formats."
+        ],
+        "smi_score": [
+            0.889719545841217
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@screenshotone/mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@mrgoonie/screenshotone-mcp-server"
+        ]
+    },
+    "dataforseo mcp server": {
+        "official_descp": "A Model Context Protocol server that enables Claude to interact with DataForSEO APIs, allowing access to SEO data including SERPs, keyword research, on-page metrics, and domain analytics.",
+        "descrp": [
+            "A stdio-based server that enables interaction with the DataForSEO API through the Model Context Protocol, allowing users to fetch SEO data including search results, keywords data, backlinks, on-page analysis, and more."
+        ],
+        "smi_score": [
+            0.9385173916816711
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@dataforseo/mcp-server-typescript",
+        "link": [
+            "https://glama.ai/mcp/servers/@Skobyn/mcp-dataforseo"
+        ]
+    },
+    "wordpress mcp server": {
+        "official_descp": "Acts as a bridge between local MCP clients and WordPress websites, enabling communication with WordPress through simple REST API requests rather than keeping open connections.",
+        "descrp": [
+            "A Model Context Protocol server that enables AI assistants to manage WordPress sites and create content with AI-generated featured images.",
+            "Enables AI assistants to interact with WordPress sites through REST APIs, allowing programmatic management of posts, users, comments, categories, and tags with secure authentication.",
+            "A server that enables interaction with WordPress sites through REST API, allowing users to create, retrieve, and update posts using JSON-RPC 2.0 protocol.",
+            "A server that enables integration between Claude Desktop and WordPress, allowing for AI-assisted blogging through a Message Control Protocol implementation."
+        ],
+        "smi_score": [
+            0.8643034100532532,
+            0.8765649199485779,
+            0.8857528567314148,
+            0.8713070154190063
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@Automattic/mcp-wordpress-remote",
+        "link": [
+            "https://glama.ai/mcp/servers/@seomentor/wpmcp",
+            "https://glama.ai/mcp/servers/@prathammanocha/wordpress-mcp-server",
+            "https://glama.ai/mcp/servers/@Leonelberio/the-wordpress-mcp-server",
+            "https://glama.ai/mcp/servers/@mister-weeden/wordpress-mcp-server"
+        ]
+    },
+    "kibela mcp server": {
+        "official_descp": "A Model Context Protocol server that allows AI applications to interact with Kibela knowledge bases, enabling users to search, create, update, and organize content through natural language.",
+        "descrp": [
+            "Enables integration with Kibela API for searching and retrieving notes, allowing LLMs to interact with Kibela content seamlessly."
+        ],
+        "smi_score": [
+            0.8956723213195801
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@kibela/kibela-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@kiwamizamurai/mcp-kibela-server"
+        ]
+    },
+    "plane mcp server": {
+        "official_descp": "A Model Context Protocol server that enables AI interfaces to seamlessly interact with Plane's project management system, allowing management of projects, issues, states, and other work items through a standardized API.",
+        "descrp": [
+            "A Model Context Protocol server that enables LLMs to interact with Plane.so, allowing them to manage projects and issues through Plane's API for streamlined project management workflows.",
+            "An MCP server that enables AI assistants to interact with the Plane project management platform, allowing them to manage workspaces, projects, issues, and comments through a structured API."
+        ],
+        "smi_score": [
+            0.9372879862785339,
+            0.9389387369155884
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@makeplane/plane-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@kelvin6365/plane-mcp-server",
+            "https://glama.ai/mcp/servers/@gh-Constant/selfhost-plane-mcp-server"
+        ]
+    },
+    "meilisearch mcp server": {
+        "official_descp": "Server for interacting with Meilisearch through LLM interfaces like Claude.",
+        "descrp": [
+            "Enables AI assistants to interact with Meilisearch via the Model Context Protocol, allowing comprehensive index, document, and search management through a standardized interface."
+        ],
+        "smi_score": [
+            0.8832834362983704
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@meilisearch/meilisearch-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@devlimelabs/meilisearch-ts-mcp"
+        ]
+    },
+    "iflytek workflow mcp server": {
+        "official_descp": "A server implementation of the Model Context Protocol that enables calling iFlytek workflows, supporting complex orchestration modes like sequential, parallel, and looped execution across 14 node types for diverse business scenarios.",
+        "descrp": [
+            "An MCP server implementation that enables calling iFlytek workflows through the Model Context Protocol, allowing for intelligent workflow scheduling with sequential, parallel, loop, and nested execution modes."
+        ],
+        "smi_score": [
+            0.9350450038909912
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@iflytek/ifly-workflow-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@hygao1024/xingchen-mcp-server"
+        ]
+    },
+    "deepl mcp server": {
+        "official_descp": "A Model Context Protocol server that enables AI assistants to translate and rephrase text between numerous languages using the DeepL API.",
+        "descrp": [
+            "A Model Context Protocol server that provides DeepL translation capabilities, allowing AI assistants to translate text between supported languages via the DeepL API."
+        ],
+        "smi_score": [
+            0.9628848433494568
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@DeepLcom/deepl-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@watchdealer-pavel/deepl-mcp-server"
+        ]
+    },
+    "tavily mcp server": {
+        "official_descp": "This server enables AI systems to integrate with Tavily's search and data extraction tools, providing real-time web information access and domain-specific searches.",
+        "descrp": [
+            "Enables AI assistants to perform up-to-date web searches through the Tavily API, providing comprehensive search results with AI-generated summaries."
+        ],
+        "smi_score": [
+            0.9018943309783936
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@tavily-ai/tavily-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@it-beard/tavily-server"
+        ]
+    },
+    "mongodb mcp server": {
+        "official_descp": "A Model Context Protocol server that enables AI assistants to interact with MongoDB Atlas resources through natural language, supporting database operations and Atlas management functions.",
+        "descrp": [
+            "A powerful Model Context Protocol (MCP) server implementation that provides standardized interaction with MongoDB databases, supporting complete CRUD operations, async patterns, and real-time updates via SSE.",
+            "A Model Context Protocol server that provides read-only access to MongoDB databases, enabling AI assistants to directly query and analyze MongoDB data while maintaining data safety."
+        ],
+        "smi_score": [
+            0.9003456234931946,
+            0.9208282828330994
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@mongodb-js/mongodb-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@TeiNam/mongo-mcp-server",
+            "https://glama.ai/mcp/servers/@jonfreeland/mongodb-mcp"
+        ]
+    },
+    "chroma mcp server": {
+        "official_descp": "A server that provides data retrieval capabilities powered by Chroma embedding database, enabling AI models to create collections over generated data and user inputs, and retrieve that data using vector search, full text search, and metadata filtering.",
+        "descrp": [
+            "A Model Context Protocol server providing vector database capabilities through Chroma, enabling semantic document search, metadata filtering, and document management with persistent storage.",
+            "A Model Context Protocol server integration that creates a persistent, searchable working memory for AI-assisted development by enabling automated context recall and knowledge persistence in Chroma, the open-source embedding database."
+        ],
+        "smi_score": [
+            0.9030055403709412,
+            0.8851678967475891
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@chroma-core/chroma-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@privetin/chroma",
+            "https://glama.ai/mcp/servers/@djm81/chroma_mcp_server"
+        ]
+    },
+    "redis mcp server": {
+        "official_descp": "The official Redis MCP Server is a natural language interface designed for agentic applications to efficiently manage and search data in Redis.",
+        "descrp": [
+            "Enables users to perform Redis database operations using the Model Context Protocol (MCP) tools, allowing for efficient data management through commands like setting, getting, and scanning hash fields."
+        ],
+        "smi_score": [
+            0.87590092420578
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@redis/mcp-redis",
+        "link": [
+            "https://glama.ai/mcp/servers/@farhankaz/redis-mcp"
+        ]
+    },
+    "kagi mcp server": {
+        "official_descp": "An MCP server that integrates Kagi search capabilities with Claude AI, enabling Claude to perform real-time web searches when answering questions that require up-to-date information.",
+        "descrp": [
+            "Allows the use of Kagi's API for web searching and content enrichment through methods like fastgpt, enrich/web, and enrich/news.",
+            "Kagi search API integration"
+        ],
+        "smi_score": [
+            0.8681291341781616,
+            0.8583049178123474
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@kagisearch/kagimcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@apridachin/kagi-search-mcp",
+            "https://glama.ai/mcp/servers/@ac3xx/mcp-servers-kagi"
+        ]
+    },
+    "semgrep mcp server": {
+        "official_descp": "An MCP server that provides a comprehensive interface to Semgrep, enabling users to scan code for security vulnerabilities, create custom rules, and analyze scan results through the Model Context Protocol.",
+        "descrp": [
+            "Enables integration of Semgrep in development environments via the MCP protocol, supporting static code analysis, rule management, and scan result operations."
+        ],
+        "smi_score": [
+            0.9100926518440247
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@semgrep/mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@stefanskiasan/semgrep-mcp-server"
+        ]
+    },
+    "iotdb mcp server": {
+        "official_descp": "A server that enables running SQL queries against IoTDB databases, providing data reading capabilities and schema information through a Model Context Protocol interface.",
+        "descrp": [
+            "A Model Context Protocol server that enables AI assistants to securely interact with Apache IoTDB databases through a controlled interface for listing tables, reading data, and executing SQL queries."
+        ],
+        "smi_score": [
+            0.9296796917915344
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@apache/iotdb-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@JackieTien97/iotdb_mcp_server"
+        ]
+    },
+    "filesystem mcp server": {
+        "official_descp": "Node.js server implementing Model Context Protocol (MCP) for filesystem operations.",
+        "descrp": [
+            "A Model Context Protocol server that provides AI agents with secure access to local filesystem operations, enabling reading, writing, and managing files through a standardized interface.",
+            "An MCP server that allows Claude AI to perform filesystem operations including reading, writing, listing, moving files, and searching directories within specified allowed paths.",
+            "Node.js server implementing Model Context Protocol (MCP) for filesystem operations with comprehensive permission controls, allowing secure file and directory manipulation with granular access restrictions.",
+            "Node.js server implementing Model Context Protocol for filesystem operations, allowing Claude to read, write, and manipulate files and directories in specified locations.",
+            "A Model Context Protocol server that provides file system operations, analysis, and manipulation capabilities through a standardized tool interface.",
+            "Go server implementing Model Context Protocol (MCP) for filesystem operations."
+        ],
+        "smi_score": [
+            0.8865225315093994,
+            0.8672665357589722,
+            0.9547135829925537,
+            0.9272344708442688,
+            0.8910179734230042,
+            0.9744681119918823
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@modelcontextprotocol/filesystem",
+        "link": [
+            "https://glama.ai/mcp/servers/@cyanheads/filesystem-mcp-server",
+            "https://glama.ai/mcp/servers/@ai-yliu/filesystem-mcp-server",
+            "https://glama.ai/mcp/servers/@rawr-ai/mcp-filesystem",
+            "https://glama.ai/mcp/servers/@Legaltime/filesystem",
+            "https://glama.ai/mcp/servers/@bsmi021/mcp-filesystem-server",
+            "https://glama.ai/mcp/servers/@mark3labs/mcp-filesystem-server"
+        ]
+    },
+    "git mcp server": {
+        "official_descp": "A Model Context Protocol server for Git repository interaction and automation. This server provides tools to read, search, and manipulate Git repositories via Large Language Models.",
+        "descrp": [
+            "The Git MCP Server allows AI assistants to perform enhanced Git operations via the Model Context Protocol, supporting core Git functions, branch and tag management, GitHub integration, and more.",
+            "A Model Context Protocol server that enables Large Language Models to interact with Git repositories through a robust API, supporting operations like repository initialization, cloning, file staging, committing, and branch management."
+        ],
+        "smi_score": [
+            0.8900684118270874,
+            0.9182917475700378
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@modelcontextprotocol/git",
+        "link": [
+            "https://glama.ai/mcp/servers/@Sheshiyer/git-mcp-v2",
+            "https://glama.ai/mcp/servers/@cyanheads/git-mcp-server"
+        ]
+    },
+    "cloudflare playwright mcp": {
+        "official_descp": "A server that leverages Playwright for automated browser testing and integrates with Cloudflare Workers, enabling AI assistants to control web browsers for navigation, interaction, and screenshots.",
+        "descrp": [
+            "A server that integrates Playwright with Cloudflare Workers to enable browser automation tasks through LLM models in AI platforms like Claude and Copilot."
+        ],
+        "smi_score": [
+            0.9064905643463135
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@cloudflare/playwright-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@ruifigueira/mcp"
+        ]
+    },
+    "fetch mcp server": {
+        "official_descp": "This server enables LLMs to retrieve and process content from web pages, converting HTML to markdown for easier consumption.",
+        "descrp": [
+            "Provides functionality to fetch web content in various formats, including HTML, JSON, plain text, and Markdown.",
+            "Provides functionality to fetch and transform web content in various formats (HTML, JSON, plain text, and Markdown) through simple API calls.",
+            "Provides functionality to fetch web content in various formats, including HTML, JSON, plain text, and Markdown with support for custom headers.",
+            "Enables retrieval and processing of web page content for LLMs by converting HTML to markdown, with support for content truncation and pagination."
+        ],
+        "smi_score": [
+            0.8922947645187378,
+            0.8952789902687073,
+            0.8849236965179443,
+            0.9260649085044861
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@modelcontextprotocol/fetch",
+        "link": [
+            "https://glama.ai/mcp/servers/@zcaceres/fetch-mcp",
+            "https://glama.ai/mcp/servers/@phpmac/fetch_mcp",
+            "https://glama.ai/mcp/servers/@goswamig/fetch-mcp",
+            "https://glama.ai/mcp/servers/@ExactDoug/mcp-fetch"
+        ]
+    },
+    "xero mcp server": {
+        "official_descp": "A Model Context Protocol server implementation providing standardized access to Xero's accounting and business features, enabling operations like contact management, invoice creation, and chart of accounts management through MCP.",
+        "descrp": [
+            "An MCP server allowing Clients to interact with Xero Accounting Software"
+        ],
+        "smi_score": [
+            0.8893567323684692
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@XeroAPI/xero-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@john-zhang-dev/xero-mcp"
+        ]
+    },
+    "argocd-mcp": {
+        "official_descp": "argocd-mcp",
+        "descrp": [
+            "An MCP (Model Context Protocol) server that integrates with the ArgoCD API, enabling AI assistants and large language models to manage ArgoCD applications and resources through natural language interactions."
+        ],
+        "smi_score": [
+            0.7965096831321716
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@akuity/argocd-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@severity1/argocd-mcp"
+        ]
+    },
+    "sentry mcp server": {
+        "official_descp": "A Model Context Protocol server that lets AI assistants interact with the Sentry API to retrieve and analyze error data, manage projects, and monitor application performance.",
+        "descrp": [
+            "A TypeScript server that allows AI agents to access, retrieve, and analyze Sentry error data through the Modern Context Protocol.",
+            "A Model Context Protocol server that enables AI assistants to interact with Sentry for error tracking and monitoring, allowing retrieval and analysis of error data, project management, and performance monitoring through the Sentry API.",
+            "An MCP server that connects to Sentry.io or self-hosted Sentry instances to retrieve and analyze error reports, stack traces, and debugging information."
+        ],
+        "smi_score": [
+            0.9337090849876404,
+            0.9621649980545044,
+            0.9036467671394348
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@getsentry/sentry-mcp-ts",
+        "link": [
+            "https://glama.ai/mcp/servers/@FaureAlexis/sentry-mcp-server",
+            "https://glama.ai/mcp/servers/@codyde/mcp-sentry-ts",
+            "https://glama.ai/mcp/servers/@javaDer/mcp-sentry-custom"
+        ]
+    },
+    "mem0 mcp server": {
+        "official_descp": "An MCP server that integrates with mem0.ai to help users store, retrieve, and search coding preferences for more consistent programming practices.",
+        "descrp": [
+            "A TypeScript implementation of the Model Context Protocol server that enables creation, management, and semantic search of memory streams with Mem0 integration.",
+            "A Model Context Protocol server that integrates AI assistants with Mem0.ai's persistent memory system, allowing models to store, retrieve, search, and manage different types of memories."
+        ],
+        "smi_score": [
+            0.8967453837394714,
+            0.9177225232124329
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@mem0ai/mem0-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@sadiuysal/mem0-mcp-server-ts",
+            "https://glama.ai/mcp/servers/@ryaker/mcp-mem0-general"
+        ]
+    },
+    "qiniu mcp server": {
+        "official_descp": "The Model Context Protocol (MCP) Server built on Qiniu Cloud products supports users in accessing Qiniu Cloud Storage, intelligent multimedia services, and more through this MCP Server within the context of AI large model clients.",
+        "descrp": [
+            "An S3 resource server based on Model Control Protocol (MCP) that supports accessing and managing Qiniu Cloud Kodo storage services, enabling users to list buckets, browse objects, read content, and handle multiple storage buckets concurrently."
+        ],
+        "smi_score": [
+            0.8891077041625977
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@qiniu/qiniu-mcp-server",
+        "link": [
+            "https://glama.ai/mcp/servers/@YangSen-qn/qiniu-mcp"
+        ]
+    },
+    "elevenlabs mcp server": {
+        "official_descp": "An official Model Context Protocol (MCP) server that enables AI clients to interact with ElevenLabs' Text to Speech and audio processing APIs, allowing for speech generation, voice cloning, audio transcription, and other audio-related tasks.",
+        "descrp": [
+            "Official ElevenLabs Model Context Protocol server that enables AI assistants like Claude to interact with Text to Speech and audio processing APIs, allowing them to generate speech, clone voices, transcribe audio, and create soundscapes."
+        ],
+        "smi_score": [
+            0.9380350112915039
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@elevenlabs/elevenlabs-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@nguyendinhsinh361/elevenlabs-mcp"
+        ]
+    },
+    "luno mcp server": {
+        "official_descp": "Luno MCP Server",
+        "descrp": [
+            "A Model Context Protocol server that provides a standardized interface for AI models and applications to interact with the Luno cryptocurrency exchange API for trading operations."
+        ],
+        "smi_score": [
+            0.8508629202842712
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@luno/luno-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@amanasmuei/mcp-luno"
+        ]
+    },
+    "osrs mcp server": {
+        "official_descp": "MCP Server for interacting with Old School RuneScape Wiki API and game data files, providing tools to search the OSRS Wiki and access game data definitions through the Model Context Protocol.",
+        "descrp": [
+            "Enables interaction with Old School RuneScape game data and Wiki through the Model Context Protocol, providing tools to search the OSRS Wiki and access game definitions for items, NPCs, locations, and game mechanics."
+        ],
+        "smi_score": [
+            0.9414806962013245
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@WaterSippin/mcp-osrs",
+        "link": [
+            "https://glama.ai/mcp/servers/@JayArrowz/mcp-osrs"
+        ]
+    },
+    "digitalocean mcp server": {
+        "official_descp": "A server that exposes DigitalOcean App Platform functionality through standardized tools, enabling AI assistants to directly manage your DigitalOcean apps without writing code or memorizing API endpoints.",
+        "descrp": [
+            "Provides access to all 471+ DigitalOcean API endpoints through an MCP server that dynamically extracts them from the OpenAPI specification, enabling search, filtering, and direct API calls with proper authentication."
+        ],
+        "smi_score": [
+            0.8780557513237
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@digitalocean/digitalocean-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@amranu/digitalocean-mcp"
+        ]
+    },
+    "ramp mcp server": {
+        "official_descp": "A Model Context Protocol server that enables access to Ramp financial data through an in-memory database, allowing LLMs to analyze transactions, reimbursements, bills, and other financial information from Ramp's platform.",
+        "descrp": [
+            "A Model Context Protocol server that enables LLMs to interact with Ramp's financial data by retrieving, analyzing, and running tasks through Ramp's Developer API, using an in-memory SQLite database to overcome token limitations."
+        ],
+        "smi_score": [
+            0.9276999235153198
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@ramp-public/ramp_mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@ramp-public/ramp-mcp"
+        ]
+    },
+    "flyworks mcp": {
+        "official_descp": "A Model Context Protocol server that enables fast and free lipsync video creation for a wide range of digital avatars, supporting both audio and text inputs to generate synchronized lip movements.",
+        "descrp": [
+            "A Model Context Protocol server that provides a convenient interface for creating lipsynced videos by matching digital avatar videos with audio inputs."
+        ],
+        "smi_score": [
+            0.9277867078781128
+        ],
+        "official_link": "https://glama.ai/mcp/servers/@Flyworks-AI/flyworks-mcp",
+        "link": [
+            "https://glama.ai/mcp/servers/@Flyworks-AI/lipsync-mcp"
+        ]
+    }
+}
