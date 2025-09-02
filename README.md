@@ -12,7 +12,7 @@ The `metadata/` folder contains metadata used to support our analysis across RQ1
 
 ---
 
-## 🔍 RQ1: Landscape Analysis
+## 🔍 RQ1: Landscape 
 
 - Folder: `RQ1-landscape/`
 
@@ -20,7 +20,7 @@ Contains scripts used to analyze the general landscape and distribution of MCP-s
 
 ---
 
-## 💰 RQ2: Marketplace Analysis
+## 💰 RQ2: Marketplace 
 
 - Folder: `RQ2-marketplace/`
 
