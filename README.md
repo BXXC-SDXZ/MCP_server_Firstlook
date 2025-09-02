@@ -8,7 +8,7 @@ The contents are organized according to the three research questions (RQ) explor
 
 ## 📁 Dataset Metadata
 
-The `metadata/` folder contains metadata used to support our analysis across RQ1–RQ3.
+The `metadata/` folder contains metadata used to support our study across RQ1–RQ3.
 
 ---
 
