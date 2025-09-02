@@ -35,7 +35,7 @@ Subfolders:
 
 ## 🧰 RQ3: Tool Inconsistency Detection
 
-- Folder: `RQ3/`
+- Folder: `RQ3-tool-inconsistency/`
 - Key scripts:
   - `Python_Get_tool_DesSrc.py`: Extracts tools developed using the Python SDK from MCP-server metadata.
   - `Main_cot.py`: Detects and categorizes inconsistencies between tool descriptions and actual behavior.
